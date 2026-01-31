@@ -158,7 +158,7 @@
     <kDifficultyMultiplierOnOutcomeCalculation value="1, 1, 1">
       <!--ImprovedProtestType score bonus for handing out a flyer-->
     </kDifficultyMultiplierOnOutcomeCalculation>
-    <kRebelSkillLevelMultiplierOnOutcomeCalculation value="1, 1, 1, 1.1, 1.2, 1.4, 1.6, 1.6, 1.8, 1.8, 2">
+    <kRebelSkillLevelMultiplierOnOutcomeCalculation value="1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2">
       <!--ImprovedProtestType score bonus for handing out a flyer-->
     </kRebelSkillLevelMultiplierOnOutcomeCalculation>
     <kDecayDelayAfterActions value="30, 30, 30">
