@@ -4105,8 +4105,8 @@
   <Value>125</Value>
   <Scale>500</Scale>
   <NameKey>GraduationName</NameKey>
-  <Method>InGraduationGown</Method>
-  <Arg0>)</Arg0>
+  <Method>ObjectInstanceName</Method>
+  <Arg0>sculptureOrientationVertical</Arg0>
  </Subjects>
 <Subjects>
   <Key>Caught</Key>
