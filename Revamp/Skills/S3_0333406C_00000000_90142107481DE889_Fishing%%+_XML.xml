@@ -1454,7 +1454,7 @@
   <SpawnerClassName></SpawnerClassName>
   <InactiveFish>Minnow</InactiveFish>
   <InactiveProbability>1</InactiveProbability>
-  <AvgLength>30</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>1</MaxRange>
   <ActiveMaxFish>0</ActiveMaxFish>
   <ActiveFish></ActiveFish>
@@ -1468,7 +1468,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner1</SpawnerClassName>
   <InactiveFish>None, Box,  Anchovy, Jellyfish, RedHerring, Blowfish, Salmon, Swordfish, StarFishOrange</InactiveFish>
   <InactiveProbability>8,2,10,15,10,5,14,15,4</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Blowfish, Salmon, Swordfish, StarFishOrange</ActiveFish>
@@ -1481,7 +1481,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner2</SpawnerClassName>
   <InactiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Tuna, TragicClownfish, Shark, Lobster</InactiveFish>
   <InactiveProbability>8,2,10,9,10,15,5,5,10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Tuna, TragicClownfish, Shark, Lobster</ActiveFish>
@@ -1494,7 +1494,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner3</SpawnerClassName>
   <InactiveFish>None, Box,  AlleyCatfish, RedHerring,TragicClownfish, Tuna, SiameseCatfish, Shark, Lobster, StarFishPurple, LuminousSalamander</InactiveFish>
   <InactiveProbability>8, 2, 15, 10, 5, 10, 15, 11, 10, 8, 8</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  AlleyCatfish, RedHerring,Tuna, TragicClownfish, SiameseCatfish, Shark, Lobster, StarFishPurple,LuminousSalamander</ActiveFish>
@@ -1507,7 +1507,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner4</SpawnerClassName>
   <InactiveFish>None, Box,  Jellyfish, RedHerring,Blowfish, Angelfish, Swordfish, LuminousSalamander</InactiveFish>
   <InactiveProbability>8, 2, 15, 10, 15, 10, 15, 15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  Jellyfish, RedHerring,Blowfish, Angelfish, Swordfish,LuminousSalamander,FairyDamsel</ActiveFish>
@@ -1520,7 +1520,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner5</SpawnerClassName>
   <InactiveFish>None, Box, RedHerring, TragicClownfish, Blowfish, Shark, Angelfish, StarFishSilver, LuminousSalamander, FairyDamsel</InactiveFish>
   <InactiveProbability>10, 1, 5, 15, 10, 15, 15, 5, 5, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, RedHerring, TragicClownfish, Blowfish, Shark, Angelfish, StarFishSilver, LuminousSalamander, FairyDamsel</ActiveFish>
@@ -1533,7 +1533,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner6</SpawnerClassName>
   <InactiveFish>None,Box,  Minnow, Goldfish, RainbowTrout, RedHerring,SiameseCatfish, BlackGoldfish, Toad</InactiveFish>
   <InactiveProbability>8, 2, 10, 9, 15, 10, 5, 10, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None,Box,  Minnow, Goldfish, RainbowTrout, RedHerring,SiameseCatfish, BlackGoldfish,Toad</ActiveFish>
@@ -1546,7 +1546,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner7</SpawnerClassName>
   <InactiveFish>None, Box,  Minnow, Goldfish, RedHerring,Salmon, Angelfish, Lobster, Toad</InactiveFish>
   <InactiveProbability>8, 2, 10, 10, 10, 15, 5, 5, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  Minnow, Goldfish, RedHerring,Salmon, Angelfish, Lobster, Toad</ActiveFish>
@@ -1559,7 +1559,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner8</SpawnerClassName>
   <InactiveFish>None,Box, Goldfish, RainbowTrout, RedHerring,Piranha, Shark, Lobster, LuminousSalamander</InactiveFish>
   <InactiveProbability>8, 2, 10, 15, 5, 20, 5, 11, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None,Box, Goldfish, RainbowTrout, RedHerring,Piranha, Shark, Lobster, LuminousSalamander</ActiveFish>
@@ -1572,7 +1572,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner9</SpawnerClassName>
   <InactiveFish>None,Box, AlleyCatfish, RainbowTrout, RedHerring,Salmon, Angelfish, LuminousSalamander,Toad</InactiveFish>
   <InactiveProbability>8, 2, 15, 15, 5, 10, 15, 10, 5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None,Box, AlleyCatfish, RainbowTrout, RedHerring,Salmon, Angelfish, LuminousSalamander,Toad</ActiveFish>
@@ -1585,7 +1585,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner10</SpawnerClassName>
   <InactiveFish>None,Box,RedHerring, Piranha, BlackGoldfish, Shark, Angelfish, Vampirefish, Lobster</InactiveFish>
   <InactiveProbability>8, 1, 5, 20, 10, 11, 25, 2, 10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None,Box,RedHerring, Piranha, BlackGoldfish, Shark, Angelfish, Vampirefish, Lobster</ActiveFish>
@@ -1598,7 +1598,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner11</SpawnerClassName>
   <InactiveFish>None, Box, RedHerring, BlackGoldfish, VampireFish, RobotFish</InactiveFish>
   <InactiveProbability>60, 4, 40, 50, 2, 5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, RedHerring, BlackGoldfish, VampireFish, RobotFish</ActiveFish>
@@ -1611,7 +1611,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner12</SpawnerClassName>
   <InactiveFish>None,Box,RedHerring, VampireFish</InactiveFish>
   <InactiveProbability>100, 5,40, 5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None,Box,VampireFish, Deathfish</ActiveFish>
@@ -1625,7 +1625,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner13</SpawnerClassName>
   <InactiveFish>None, Box, Minnow, Goldfish, RainbowTrout, RedHerring, Salmon</InactiveFish>
   <InactiveProbability>15,2,10,10,10,5,10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>46</MaxRange>
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
@@ -1634,7 +1634,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner14</SpawnerClassName>
   <InactiveFish>None, Box, Anchovy, Jellyfish, RedHerring, Tuna, Salmon, Swordfish,TragicClownfish</InactiveFish>
   <InactiveProbability>15,2,10,10,5,10,10,10,3</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>46</MaxRange>
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
@@ -1643,7 +1643,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner15</SpawnerClassName>
   <InactiveFish>None, Box, Frogs, AlleyCatfish, RedHerring,SiameseCatfish, Crocodile, Toad</InactiveFish>
   <InactiveProbability>8,2,15,15,10,5,11,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, Frogs, AlleyCatfish, RedHerring,SiameseCatfish, Crocodile, Toad</ActiveFish>
@@ -1656,7 +1656,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner16</SpawnerClassName>
   <InactiveFish>None, Box, Frogs, AlleyCatfish, RedHerring, SiameseCatfish, Crocodile, Toad</InactiveFish>
   <InactiveProbability>8,2,5,15,5,11,15,5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, Frogs, AlleyCatfish, RedHerring, SiameseCatfish, Crocodile, Toad</ActiveFish>
@@ -1669,7 +1669,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner17</SpawnerClassName>
   <InactiveFish>None, Box, AlleyCatfish, RedHerring,SiameseCatfish, Salmon, Crocodile</InactiveFish>
   <InactiveProbability>8,2,15,10,10,11,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, AlleyCatfish, RedHerring,SiameseCatfish, Salmon, Crocodile</ActiveFish>
@@ -1682,7 +1682,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner18</SpawnerClassName>
   <InactiveFish>None, Box, AlleyCatfish, RedHerring, SiameseCatfish, Salmon, Crocodile, Lobster</InactiveFish>
   <InactiveProbability>8,2,10,5,15,10,20,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>10</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, AlleyCatfish, RedHerring, SiameseCatfish, Salmon, Crocodile, Lobster</ActiveFish>
@@ -1695,7 +1695,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner19</SpawnerClassName>
   <InactiveFish>None, Box, MummyFish</InactiveFish>
   <InactiveProbability>100, 4, 20</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, MummyFish</ActiveFish>
@@ -1708,7 +1708,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner20</SpawnerClassName>
   <InactiveFish>None, Box, DoitsuKoi, Goldfish, RedHerring, KawarimonoKoi, Angelfish</InactiveFish>
   <InactiveProbability>8,2,15,10,15,15,5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, DoitsuKoi, Goldfish, RedHerring, KawarimonoKoi, Angelfish</ActiveFish>
@@ -1721,7 +1721,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner21</SpawnerClassName>
   <InactiveFish>None, Box, RedHerring, KawarimonoKoi, OchibaKoi, BlackGoldfish, Angelfish</InactiveFish>
   <InactiveProbability>8,2,5,10,15,15,11</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, RedHerring, KawarimonoKoi, OchibaKoi, BlackGoldfish, Angelfish</ActiveFish>
@@ -1734,7 +1734,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner22</SpawnerClassName>
   <InactiveFish>None, Box, RedHerring, KawarimonoKoi, OchibaKoi, BlackGoldfish, TanchoKoi, DragonFish</InactiveFish>
   <InactiveProbability>8,2,5,15,10,15,11,1</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, RedHerring, KawarimonoKoi, OchibaKoi, BlackGoldfish, TanchoKoi, DragonFish</ActiveFish>
@@ -1747,7 +1747,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner23</SpawnerClassName>
   <InactiveFish>None, Box, Goldfish, KawarimonoKoi, TanchoKoi</InactiveFish>
   <InactiveProbability>15,1,25,15,11</InactiveProbability>
-  <AvgLength>90</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>3</MaxRange>
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
@@ -1756,7 +1756,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner24</SpawnerClassName>
   <InactiveFish>None, Box, DoitsuKoi, OchibaKoi, TanchoKoi</InactiveFish>
   <InactiveProbability>15,1,15,15,11</InactiveProbability>
-  <AvgLength>90</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>3</MaxRange>
   <HourActive>-1</HourActive>
   <HourDepletionStarts>-1</HourDepletionStarts>
@@ -1765,7 +1765,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner25</SpawnerClassName>
   <InactiveFish>None, Box, TanchoKoi, DragonFish</InactiveFish>
   <InactiveProbability>100,4,20,20</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, TanchoKoi, DragonFish</ActiveFish>
@@ -1778,7 +1778,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner26</SpawnerClassName>
   <InactiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, Toad</InactiveFish>
   <InactiveProbability>8,2,15,15,15,10,5,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, Toad</ActiveFish>
@@ -1791,7 +1791,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner27</SpawnerClassName>
   <InactiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, Toad</InactiveFish>
   <InactiveProbability>8,2,15,10,15,15,5,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, Toad</ActiveFish>
@@ -1804,7 +1804,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner28</SpawnerClassName>
   <InactiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, BlackGoldfish, Toad</InactiveFish>
   <InactiveProbability>8,2,10,15,5,15,15,5,10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, Frogs, RainbowTrout, RedHerring, Snails, Crawfish, BlackGoldfish, Toad</ActiveFish>
@@ -1817,7 +1817,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner29</SpawnerClassName>
   <InactiveFish>None, Box, Frogs, RedHerring, Snails, Crawfish, BlackGoldfish, Toad</InactiveFish>
   <InactiveProbability>8,2,10,5,15,15,15,10</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, Frogs, RedHerring, Snails, Crawfish, BlackGoldfish, Toad</ActiveFish>
@@ -1830,7 +1830,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner30</SpawnerClassName>
   <InactiveFish>None, Box, Frogs, Minnow, Toad</InactiveFish>
   <InactiveProbability>5,5,25,15,5</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, Frogs, Minnow, Toad</ActiveFish>
@@ -1843,7 +1843,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner32</SpawnerClassName>
   <InactiveFish>None, Box,  Minnow, Goldfish, RainbowTrout, RedHerring,SiameseCatfish, BlackGoldfish, KissingGourami</InactiveFish>
   <InactiveProbability>8, 2,  10, 9, 15, 10,5, 10, 15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  Minnow, Goldfish, RainbowTrout, RedHerring,SiameseCatfish, BlackGoldfish, KissingGourami</ActiveFish>
@@ -1856,7 +1856,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner33</SpawnerClassName>
   <InactiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Tuna, TragicClownfish, Shark, Lobster, SewerTrilobite</InactiveFish>
   <InactiveProbability>8,2,10,9,10,15,5,5,10, 15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  Anchovy, Jellyfish, RedHerring,Tuna, TragicClownfish, Shark, Lobster, SewerTrilobite</ActiveFish>
@@ -1869,7 +1869,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner34</SpawnerClassName>
   <InactiveFish>None, Box,  Anchovy, Jellyfish, RedHerring, Blowfish, Salmon, Swordfish, SeaSludge</InactiveFish>
   <InactiveProbability>8,2,10,15,10,5,14,15, 15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  Anchovy, Jellyfish, RedHerring, Blowfish, Salmon, Swordfish, SeaSludge</ActiveFish>
@@ -1882,7 +1882,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner35</SpawnerClassName>
   <InactiveFish>None, Box,  ThreeEyedFish, Lobster, AlleyCatfish</InactiveFish>
   <InactiveProbability>5,5,25,15,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box,  ThreeEyedFish, Lobster, AlleyCatfish</ActiveFish>
@@ -1895,7 +1895,7 @@
   <SpawnerClassName>Sims3.Gameplay.Objects.Fishing.FishingSpawner36</SpawnerClassName>
   <InactiveFish>None, Box, Goldfish, RainbowTrout, RainbowSnail</InactiveFish>
   <InactiveProbability>8,2,15,5,15</InactiveProbability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <MaxRange>5</MaxRange>
   <ActiveMaxFish>6</ActiveMaxFish>
   <ActiveFish>None, Box, Goldfish, RainbowTrout, RainbowSnail</ActiveFish>
@@ -1908,70 +1908,70 @@
   <WaterAffected>7</WaterAffected>
   <Fish>Minnow</Fish>
   <Probability>1</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName></WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>1</WaterAffected>
   <Fish>None, Box, Minnow, Goldfish, TragicClownFish, BlackGoldfish, Shark, Toad</Fish>
   <Probability>50,2, 10, 10, 5, 5, 1, 10</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>SunsetValley</WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>2</WaterAffected>
   <Fish>None, Box, Minnow, Goldfish, RainbowTrout, RedHerring, Salmon, KissingGourami, Toad</Fish>
   <Probability>15,2,10,10,10,5,10, 8, 10</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>SunsetValley</WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>4</WaterAffected>
   <Fish>None, Box, Anchovy, Jellyfish, RedHerring, Tuna, Salmon, Swordfish,TragicClownfish, SewerTrilobite, SeaSludge</Fish>
   <Probability>15,2,10,10,5,10,10,10,3, 8, 8</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>SunsetValley</WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>2</WaterAffected>
   <Fish>None, Box, Minnow, AlleyCatfish,RedHerring, Crocodile, LuminousSalamander</Fish>
   <Probability>15,2,10,10,5,7,7</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>Egypt</WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>4</WaterAffected>
   <Fish>None, Box, Minnow, AlleyCatfish,RedHerring,Salmon,Crocodile</Fish>
   <Probability>15,2,10,10,5,10,7</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>Egypt</WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>2</WaterAffected>
   <Fish>None, Box,Goldfish, RedHerring,DoitsuKoi,KawarimonoKoi,LuminousSalamander</Fish>
   <Probability>15,2,10,5,10,10,10</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>China</WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>4</WaterAffected>
   <Fish>None, Box,Goldfish, RedHerring,DoitsuKoi,KawarimonoKoi</Fish>
   <Probability>15,2,10,5,10,10</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>China</WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>2</WaterAffected>
   <Fish>None, Box, Minnow, RainbowTrout, RedHerring, Frogs, Snails, Toad</Fish>
   <Probability>15,2,10,10,5,10,10,5</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>France</WorldName>
  </GlobalSpawner>
 <GlobalSpawner>
   <WaterAffected>4</WaterAffected>
   <Fish>None, Box, Minnow, RainbowTrout, RedHerring, Frogs, Snails, LuminousSalamander</Fish>
   <Probability>15,2,10,10,5,10,10,10</Probability>
-  <AvgLength>60</AvgLength>
+  <AvgLength>1</AvgLength>
   <WorldName>France</WorldName>
  </GlobalSpawner>
 <BoxItems>
