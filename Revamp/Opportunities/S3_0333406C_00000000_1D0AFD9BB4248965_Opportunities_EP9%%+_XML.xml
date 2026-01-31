@@ -527,7 +527,7 @@
   <TargetInteractionName>EP9_Interaction_GameShippingParty</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -548,7 +548,7 @@
   <TargetInteractionName>EP9_Interaction_TradeConference</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -569,7 +569,7 @@
   <TargetInteractionName>EP9_Interaction_PromotingNewGame</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -590,7 +590,7 @@
   <TargetInteractionName>EP9_Interaction_OffsiteBrainstorming</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -611,7 +611,7 @@
   <TargetInteractionName>EP9_Interaction_AdvertisingPartnerDeal</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -764,7 +764,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -786,7 +786,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <DeleteOnCompletion>True</DeleteOnCompletion>
   <DeleteOnFailure>True</DeleteOnFailure>
 </OpportunitiesSetup>
@@ -805,7 +805,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>PaintingAny</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -828,7 +828,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -850,7 +850,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -872,7 +872,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -894,7 +894,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -916,7 +916,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -938,7 +938,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -960,7 +960,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -982,7 +982,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -1004,7 +1004,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -1026,7 +1026,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -1048,7 +1048,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
   <ObjectData>AHeavyPackage,opp_package_r2</ObjectData>
   <DeleteOnCompletion>True</DeleteOnCompletion>
@@ -1069,7 +1069,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1086,7 +1086,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1103,7 +1103,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1120,7 +1120,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1137,7 +1137,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1154,7 +1154,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1171,7 +1171,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1188,7 +1188,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1205,7 +1205,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1222,7 +1222,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1239,7 +1239,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1256,7 +1256,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1273,7 +1273,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1290,7 +1290,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1307,7 +1307,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1324,7 +1324,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1341,7 +1341,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1358,7 +1358,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1375,7 +1375,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1392,7 +1392,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1409,7 +1409,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1426,7 +1426,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1443,7 +1443,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1460,7 +1460,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1477,7 +1477,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1494,7 +1494,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1511,7 +1511,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1528,7 +1528,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1565,7 +1565,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1583,7 +1583,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1601,7 +1601,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1619,7 +1619,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1682,7 +1682,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1702,7 +1702,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -1780,7 +1780,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1802,7 +1802,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Gem,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1825,7 +1825,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Metal,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1848,7 +1848,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>

@@ -3086,7 +3086,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00pm</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3104,7 +3104,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3154,7 +3154,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Invention,Toy,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>4,10</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3173,7 +3173,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Invention,Widget,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>6,14</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3191,7 +3191,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Invention,Invention,hygienator</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3,8</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3210,7 +3210,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3306,7 +3306,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3342,7 +3342,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Sculpture,Ice,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3509,7 +3509,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Sculpture,Any,Any,Brilliant</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3529,7 +3529,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Sculpture,Any,Any,Masterpiece</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3546,7 +3546,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3572,7 +3572,7 @@
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3928,7 +3928,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -4135,7 +4135,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -4153,7 +4153,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -4167,7 +4167,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -4197,7 +4197,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>

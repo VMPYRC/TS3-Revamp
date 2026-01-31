@@ -497,7 +497,7 @@
   <TargetData>Gym</TargetData>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP6</ProductVersion>
@@ -532,7 +532,7 @@
   <TargetInteractionName>EP6_Interaction_SingforSupper</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>1:00PM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -554,7 +554,7 @@
   <TargetInteractionName>EP6_Interaction_Singer_BrowseBookstore</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>BookGeneral</Object>
   <ObjectData>SingerCareerOpportunityBookLoelPhelps</ObjectData>
   <EventDay>All</EventDay>
@@ -579,7 +579,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>4:00PM</EventEndTime>
@@ -602,7 +602,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>6:00PM</EventEndTime>
@@ -624,7 +624,7 @@
   <TargetInteractionName>EP6_Interaction_Singer_PerformForSickSims</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -646,7 +646,7 @@
   <TargetInteractionName>EP6_Interaction_RecordDemoCD</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>2:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -669,7 +669,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -691,7 +691,7 @@
   <TargetInteractionName>EP6_Interaction_SingAtBigBossBirthday</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>7:00PM</EventStartTime>
   <EventEndTime>11:00PM</EventEndTime>
@@ -714,7 +714,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00AM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -736,7 +736,7 @@
   <TargetInteractionName>EP6_Interaction_Signer_ParticipateInExperiment</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -758,7 +758,7 @@
   <TargetInteractionName>EP6_Interaction_SingNationalAnthem</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00AM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -780,7 +780,7 @@
   <TargetInteractionName>EP6_Interaction_SingNationalAnthem</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>5:00PM</EventStartTime>
   <EventEndTime>7:00PM</EventEndTime>
@@ -838,7 +838,7 @@
   <TargetInteractionName>EP6_Interaction_Magician_BrowseBookStore</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>BookGeneral</Object>
   <ObjectData>MagicianCareerOpportunityBookKevinBargeron</ObjectData>
   <EventDay>All</EventDay>
@@ -863,7 +863,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>4:00PM</EventEndTime>
@@ -885,7 +885,7 @@
   <TargetInteractionName>EP6_Interaction_Magician_PerformForSickSims</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -907,7 +907,7 @@
   <TargetInteractionName>EP6_Interaction_TeachPickPocket</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>11:00PM</EventEndTime>
@@ -929,7 +929,7 @@
   <TargetInteractionName>EP6_Interaction_Magician_PromoteFilmRelease</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>7:00PM</EventStartTime>
   <EventEndTime>11:00PM</EventEndTime>
@@ -951,7 +951,7 @@
   <TargetInteractionName>EP6_Interaction_SpotPickPocket</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
@@ -973,7 +973,7 @@
   <TargetInteractionName>EP6_Interaction_Magician_ParticipateInExperiment</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -996,7 +996,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -1018,7 +1018,7 @@
   <TargetInteractionName>EP6_Interaction_EntertainTroops</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -1131,7 +1131,7 @@
   <TargetData>Gym</TargetData>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP6</ProductVersion>
@@ -1150,7 +1150,7 @@
   <TargetData>ArtGallery</TargetData>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>5:00PM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -1172,7 +1172,7 @@
   <TargetInteractionName>EP6_Interaction_Performer_BrowseBookstore</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <Object>BookGeneral</Object>
   <ObjectData>PerformanceArtistCareerOpportunityBookRyanGrant</ObjectData>
   <EventDay>All</EventDay>
@@ -1197,7 +1197,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>6:00PM</EventEndTime>
@@ -1219,7 +1219,7 @@
   <TargetInteractionName>EP6_Interaction_PoseAsStatue</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>6:00PM</EventEndTime>
@@ -1242,7 +1242,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>4:00PM</EventEndTime>
@@ -1265,7 +1265,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>10:00PM</EventEndTime>
@@ -1287,7 +1287,7 @@
   <TargetInteractionName>EP6_Interaction_Performer_PerformForSickSims</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -1310,7 +1310,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -1332,7 +1332,7 @@
   <TargetInteractionName>EP6_Interaction_EscapeArtist</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>11:00PM</EventEndTime>
@@ -1354,7 +1354,7 @@
   <TargetInteractionName>EP6_Interaction_Performer_PromoteFilmRelease</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>7:00PM</EventStartTime>
   <EventEndTime>11:00PM</EventEndTime>
@@ -1376,7 +1376,7 @@
   <TargetInteractionName>EP6_Interaction_Performer_ParticipateInExperiment</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>10:00AM</EventStartTime>
   <EventEndTime>9:00PM</EventEndTime>
@@ -1398,7 +1398,7 @@
   <TargetInteractionName>EP6_Interaction_FillInForMascot</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>5:00PM</EventStartTime>
   <EventEndTime>10:00PM</EventEndTime>

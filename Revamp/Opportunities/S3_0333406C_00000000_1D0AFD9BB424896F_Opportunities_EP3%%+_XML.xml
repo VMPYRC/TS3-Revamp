@@ -233,7 +233,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -247,7 +247,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -261,7 +261,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -289,7 +289,7 @@
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -318,7 +318,7 @@
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -333,7 +333,7 @@
   <TargetInteractionName>EP3_SkillPiano_Hospital_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -368,7 +368,7 @@
   <TargetInteractionName>EP3_SkillPiano_OrganizeSheetMusic_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -393,7 +393,7 @@
   <TargetInteractionName>EP3_SkillPiano_PianoSkill_2_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -410,7 +410,7 @@
   <TargetInteractionName>EP3_SkillPiano_FilmComposer_1_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -427,7 +427,7 @@
   <TargetInteractionName>EP3_SkillPiano_FilmComposer_2_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -468,7 +468,7 @@
   <TargetInteractionName>EP3_SkillPiano_SeeMasterclass_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -485,7 +485,7 @@
   <TargetInteractionName>EP3_SkillPiano_Competition_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -500,7 +500,7 @@
   <TargetInteractionName>EP3_SkillPiano_GiveMasterclass_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -518,7 +518,7 @@
   <TargetInteractionName>EP3_SkillPiano_SportsEvent_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1021,7 +1021,7 @@
   <TargetData>MovieSet</TargetData>
   <TargetInteractionName>EP3_SkillBand_VarietyShow_Interaction</TargetInteractionName>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1037,7 +1037,7 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP3_SkillBand_Stadium_Interaction</TargetInteractionName>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1053,7 +1053,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillBand_Concert_Interaction</TargetInteractionName>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1138,7 +1138,7 @@
   <TargetInteractionName>EP3_Celebrity_GoingCorporate_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1152,7 +1152,7 @@
   <TargetInteractionName>EP3_Celebrity_HospitalOpportunity_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1166,7 +1166,7 @@
   <TargetInteractionName>EP3_Celebrity_SchoolOpportunity_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1180,7 +1180,7 @@
   <TargetInteractionName>EP3_Celebrity_BookSigning_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1276,7 +1276,7 @@
   <TargetInteractionName>EP3_SkillDrums_RobotScience_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1291,7 +1291,7 @@
   <TargetInteractionName>EP3_SkillDrums_DrummingScience_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1309,7 +1309,7 @@
   <TargetInteractionName>EP3_SkillDrums_MilitaryDrums_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1324,7 +1324,7 @@
   <TargetInteractionName>EP3_SkillDrums_Poetry_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1365,7 +1365,7 @@
   <TargetInteractionName>EP3_SkillDrums_LateNight_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:30PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1390,7 +1390,7 @@
   <TargetInteractionName>EP3_SkillDrums_DrumSkill_2_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1408,7 +1408,7 @@
   <TargetInteractionName>EP3_SkillDrums_Landmarks_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1425,7 +1425,7 @@
   <TargetInteractionName>EP3_SkillDrums_ComedyRimshots_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1442,7 +1442,7 @@
   <TargetInteractionName>EP3_SkillDrums_FillIn_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1460,7 +1460,7 @@
   <TargetInteractionName>EP3_SkillDrums_SpaParty_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1477,7 +1477,7 @@
   <TargetInteractionName>EP3_SkillDrums_UndergroundParty_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1494,7 +1494,7 @@
   <TargetInteractionName>EP3_SkillBass_MovieScore_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1512,7 +1512,7 @@
   <TargetInteractionName>EP3_SkillPiano_OrganizeSheetMusic_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1530,7 +1530,7 @@
   <TargetInteractionName>EP3_SkillBass_SingAlong_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1547,7 +1547,7 @@
   <TargetInteractionName>EP3_SkillBass_Aliens_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1564,7 +1564,7 @@
   <TargetInteractionName>EP3_SkillBass_FillIn_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1582,7 +1582,7 @@
   <TargetInteractionName>EP3_SkillBass_Marathon_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1599,7 +1599,7 @@
   <TargetInteractionName>EP3_SkillBass_Sitcom_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1616,7 +1616,7 @@
   <TargetInteractionName>EP3_SkillPiano_SeeMasterclass_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1633,7 +1633,7 @@
   <TargetInteractionName>EP3_SkillBass_SpaFlood_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1651,7 +1651,7 @@
   <TargetInteractionName>EP3_SkillBass_CorporateParty_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1668,7 +1668,7 @@
   <TargetInteractionName>EP3_SkillBass_PoliticalDebate_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1708,7 +1708,7 @@
   <TargetInteractionName>EP3_Celebrity_TheaterOpportunity_Interaction</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1724,7 +1724,7 @@
   <TargetInteractionName>Report</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1742,7 +1742,7 @@
   <TargetInteractionName>EP3_SkillBartending_AttendMixer</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1847,7 +1847,7 @@
   <TargetInteractionName>Report</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1886,7 +1886,7 @@
   <TargetInteractionCommodity>Fun, -20</TargetInteractionCommodity>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1906,7 +1906,7 @@
   <TargetInteractionName>Report</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1952,7 +1952,7 @@
   <TargetInteractionCommodity>Fun, -20</TargetInteractionCommodity>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1971,7 +1971,7 @@
   <TargetInteractionCommodity>Fun, -21</TargetInteractionCommodity>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP3</ProductVersion>
@@ -1990,7 +1990,7 @@
   <TargetInteractionCommodity>Fun, -22</TargetInteractionCommodity>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
 <Names>
   <GUID></GUID>

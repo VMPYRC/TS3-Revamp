@@ -170,7 +170,7 @@
   <TargetInteractionName>EP7_Interaction_HelpInvestigation</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
-  <TargetInteractionEndTime>12:00PM</TargetInteractionEndTime>
+  <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
   <EventStartTime>6:00AM</EventStartTime>
   <EventEndTime>10:00AM</EventEndTime>
