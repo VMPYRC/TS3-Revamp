@@ -144,7 +144,7 @@
     <kMainRoutableEdgeStopTime value="0.4">
       <!--Controls the amount of time the camera takes to stop at the edge of the routable region-->
     </kMainRoutableEdgeStopTime>
-    <kMainKeyboardMoveDefaultSpeed value="3.5">
+    <kMainKeyboardMoveDefaultSpeed value="1.0">
       <!--The scrolling speed for the keyboard-->
     </kMainKeyboardMoveDefaultSpeed>
     <kMainKeyboardMoveBoostSpeed value="10">
@@ -168,7 +168,7 @@
     <kMainUIMoveBoostSpeed value="10">
       <!--This value is added to default when shift is held down to get the speed when shift is held down-->
     </kMainUIMoveBoostSpeed>
-    <kMainKeyboardPitchDefaultSpeed value="50">
+    <kMainKeyboardPitchDefaultSpeed value="10">
       <!--How fast the camera rotates up and down using keyboard-->
     </kMainKeyboardPitchDefaultSpeed>
     <kMainKeyboardPitchBoostSpeed value="100">
@@ -192,7 +192,7 @@
     <kMainUIPitchBoostSpeed value="100">
       <!--This value is added to default when shift is held down to get the speed when shift is held down-->
     </kMainUIPitchBoostSpeed>
-    <kMainKeyboardYawDefaultSpeed value="70">
+    <kMainKeyboardYawDefaultSpeed value="10">
       <!--How fast the camera rotates side to side using keyboard-->
     </kMainKeyboardYawDefaultSpeed>
     <kMainKeyboardYawBoostSpeed value="140">
@@ -246,7 +246,7 @@
     <kMainLongDistanceLerpEaseInExponentDown value="2">
       <!--Controls the ease-in/out of the height during the period of descent.  > 1: ease-out (camera descends rapidly then flattens out); = 1: linear; < 1: ease-in (camera descends gradually, then picks up speed)-->
     </kMainLongDistanceLerpEaseInExponentDown>
-    <kMainKeyboardZoomInDefaultSpeed value="0.8">
+    <kMainKeyboardZoomInDefaultSpeed value=".2">
       <!--The zoom in speed for the keyboard-->
     </kMainKeyboardZoomInDefaultSpeed>
     <kMainKeyboardZoomInBoostSpeed value="8">
@@ -270,7 +270,7 @@
     <kMainUIZoomInBoostSpeed value="4">
       <!--This value is added to default when shift is held down to get the speed when shift is held down-->
     </kMainUIZoomInBoostSpeed>
-    <kMainKeyboardZoomOutDefaultSpeed value="0.8">
+    <kMainKeyboardZoomOutDefaultSpeed value="0.2">
       <!--The zoom out speed for the keyboard-->
     </kMainKeyboardZoomOutDefaultSpeed>
     <kMainKeyboardZoomOutBoostSpeed value="8">
