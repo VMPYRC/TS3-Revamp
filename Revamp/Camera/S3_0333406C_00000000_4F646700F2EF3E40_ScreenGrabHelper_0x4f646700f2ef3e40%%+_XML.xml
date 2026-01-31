@@ -18,16 +18,16 @@
         <!--Determines whether the camera should swing down to look at the ground if currently in look at sky mode.  Valid range: [0, 360)-->
       </Swing>
     </kPortraitCamera>
-    <kPortraitOffsetAdult value="1.7, 0">
+    <kPortraitOffsetAdult value="1.6, 0">
       <!--Height and width Adult offset for where to center the screen grab square when painting a portrait.-->
     </kPortraitOffsetAdult>
-    <kPortraitOffsetTeen value="1.68, 0">
+    <kPortraitOffsetTeen value="1.5, 0">
       <!--Height and width Teen offset for where to center the screen grab square when painting a portrait.-->
     </kPortraitOffsetTeen>
-    <kPortraitOffsetChild value="1.15, 0">
+    <kPortraitOffsetChild value="1.1, 0">
       <!--Height and width Child offset for where to center the screen grab square when painting a portrait.-->
     </kPortraitOffsetChild>
-    <kPortraitOffsetToddler value="0.36, 0">
+    <kPortraitOffsetToddler value="0.2, 0">
       <!--Height and width Toddler offset for where to center the screen grab square when painting a portrait.-->
     </kPortraitOffsetToddler>
     <kUIAspectRatio value="1, 1.25, 1, 1.25, 1.25, 1, 1, 1.25, 3, 1, 1, 1.5, 1.5, 1">
