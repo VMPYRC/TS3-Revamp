@@ -132,7 +132,7 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Location_EnterPetShow</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
-  <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>Friday</EventDay>
   <EventStartTime>9:00AM</EventStartTime>
@@ -153,7 +153,7 @@
   <TargetData>EquestrianCenter</TargetData>
   <TargetInteractionName>Location_HorseTrainingInteractionName</TargetInteractionName>
   <TargetInteractionLength>1</TargetInteractionLength>
-  <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
+  <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>Monday</EventDay>
   <EventStartTime>9:00AM</EventStartTime>
