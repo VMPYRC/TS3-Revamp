@@ -81,7 +81,7 @@
     <kPulseTime value="8">
       <!--The time between protest self updates in sim minutes-->
     </kPulseTime>
-    <kChanceOfProtestForDaysOfWeek value="0.15, 0.2, 0.0, 0.15, 0.0, 0.2, 0.25">
+    <kChanceOfProtestForDaysOfWeek value="0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2">
       <!--Chances (0 to 1) of each day of the week having an NPC ImprovedProtestType.  Format: (chanceSun, chanceMon, chanceTues, chanceWed, chanceThurs, chanceFri, chanceSat).-->
     </kChanceOfProtestForDaysOfWeek>
     <kProtestTimesSunday value="14.0, 16.0, 15.0">
