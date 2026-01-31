@@ -54,14 +54,14 @@
     <kTargetZoomRadiusAtZeroPitch value="-1" />
     <kTargetPitchInPlaceAngle value="0" />
     <kMainFOVDegrees value="45" />
-    <kMainZoom1 value="3.125">
+    <kMainZoom1 value="0.01">
       <!--SunsetValley: This defines the minimum zoom distance-->
     </kMainZoom1>
     <kMainZoom2 value="10" />
-    <kMainZoom3 value="110">
+    <kMainZoom3 value="1000">
       <!--This defines be the maximum zoom distance before going to map view-->
     </kMainZoom3>
-    <kMainZoom4 value="750">
+    <kMainZoom4 value="1500">
       <!--This defines be the map view zoom distance-->
     </kMainZoom4>
     <kMainPitch1 value="0">
