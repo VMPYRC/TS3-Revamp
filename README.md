@@ -7,7 +7,8 @@
 
 ## Original Files Locations
 
-| Folder |         File         | `Steam\steamapps\common\The Sims 3\` |
-| :----: | :------------------: | :----------------------------------- |
-|  XML   | GameplayData.package | `Game\Bin\Gameplay`                  |
-|  INI   | DeltaBuild0.package  | `GameData\Shared\Packages`           |
+| Type |          File          | `Steam\steamapps\common\The Sims 3\` |
+| :--: | :--------------------: | :----------------------------------- |
+| XML  | `GameplayData.package` | `Game\Bin\Gameplay\`                 |
+| INI  | `DeltaBuild0.package`  | `GameData\Shared\Packages\`          |
+| INI  |           -            | `GameData\Shared\NonPackaged\Ini\`   |
