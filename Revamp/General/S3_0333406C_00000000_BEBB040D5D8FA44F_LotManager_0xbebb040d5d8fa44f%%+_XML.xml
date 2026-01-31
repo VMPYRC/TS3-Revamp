@@ -10,7 +10,7 @@
     <kVenueCleanupTime value="3">
       <!--Hour of day community lots will be cleaned up each day.-->
     </kVenueCleanupTime>
-    <kChanceToLearnTeenHangoutWhenChatting value="0">
+    <kChanceToLearnTeenHangoutWhenChatting value="80">
       <!--Range: [0,100] Chance for teen to learn about teen hangout lot when chatting with another teen in person or on the phone.-->
     </kChanceToLearnTeenHangoutWhenChatting>
   </Current_Tuning>
