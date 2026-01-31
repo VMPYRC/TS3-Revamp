@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -2907,7 +2907,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>SkillMartialArts_TrainAgents</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP1</ProductVersion>
@@ -2945,7 +2945,7 @@
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>SkillMartialArts_GiveClass</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP1</ProductVersion>

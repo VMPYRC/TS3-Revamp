@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -495,7 +495,7 @@
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>Gym</TargetData>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -530,7 +530,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>EP6_Interaction_SingforSupper</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -552,7 +552,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP6_Interaction_Singer_BrowseBookstore</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <Object>BookGeneral</Object>
@@ -576,7 +576,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>EP6_Interaction_DoASingALong</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -599,7 +599,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>EP6_Interaction_SingTeamBuilding</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
@@ -622,7 +622,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP6_Interaction_Singer_PerformForSickSims</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -644,7 +644,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP6_Interaction_RecordDemoCD</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>2:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -666,7 +666,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP6_Interaction_RelaxVocalChords</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -689,7 +689,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>EP6_Interaction_SingAtBigBossBirthday</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -711,7 +711,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP6_Interaction_SingNationalAnthem</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>6:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00AM</TargetInteractionEndTime>
@@ -734,7 +734,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP6_Interaction_Signer_ParticipateInExperiment</TargetInteractionName>
-  <TargetInteractionLength>360</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -756,7 +756,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>EP6_Interaction_SingNationalAnthem</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00AM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -778,7 +778,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP6_Interaction_SingNationalAnthem</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -836,7 +836,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP6_Interaction_Magician_BrowseBookStore</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <Object>BookGeneral</Object>
@@ -860,7 +860,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>EP6_Interaction_TeachMagicTricks</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -883,7 +883,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP6_Interaction_Magician_PerformForSickSims</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -905,7 +905,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>EP6_Interaction_TeachPickPocket</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -927,7 +927,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP6_Interaction_Magician_PromoteFilmRelease</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -949,7 +949,7 @@
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>EP6_Interaction_SpotPickPocket</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -971,7 +971,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP6_Interaction_Magician_ParticipateInExperiment</TargetInteractionName>
-  <TargetInteractionLength>360</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -993,7 +993,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP6_Interaction_TeachMindControl</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
@@ -1016,7 +1016,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>EP6_Interaction_EntertainTroops</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -1129,7 +1129,7 @@
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>Gym</TargetData>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1148,7 +1148,7 @@
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>ArtGallery</TargetData>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -1170,7 +1170,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP6_Interaction_Performer_BrowseBookstore</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <Object>BookGeneral</Object>
@@ -1194,7 +1194,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>EP6_Interaction_Performer_AttendSeminar</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
@@ -1217,7 +1217,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>EP6_Interaction_PoseAsStatue</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -1239,7 +1239,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>EP6_Interaction_TeachJuggling</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -1262,7 +1262,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>EP6_Interaction_Performer_PerformForSale</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -1285,7 +1285,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP6_Interaction_Performer_PerformForSickSims</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -1307,7 +1307,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP6_Interaction_SoakSoreMuscles</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -1330,7 +1330,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>EP6_Interaction_EscapeArtist</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -1352,7 +1352,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP6_Interaction_Performer_PromoteFilmRelease</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -1374,7 +1374,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP6_Interaction_Performer_ParticipateInExperiment</TargetInteractionName>
-  <TargetInteractionLength>360</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -1396,7 +1396,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP6_Interaction_FillInForMascot</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>

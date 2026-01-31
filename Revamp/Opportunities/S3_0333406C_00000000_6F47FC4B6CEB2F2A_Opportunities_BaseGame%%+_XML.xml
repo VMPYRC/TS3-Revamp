@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -175,7 +175,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>AthleticCareer_DeliveringFormsInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -208,7 +208,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticCareer_InformalEventInteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
@@ -232,7 +232,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticCareer_ResearchInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
@@ -249,7 +249,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>AthleticCareer_SportsSeminar1InteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
@@ -266,7 +266,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>AthleticCareer_SportsSeminar2Interaction</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
@@ -317,7 +317,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_AdonisInteraction</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -347,7 +347,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>AthleticSkill_BouncerInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_DoItAll</GUID>
@@ -361,7 +361,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_DoItAllInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -393,7 +393,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_GoodInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_GotWhatItTakes</GUID>
@@ -427,7 +427,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_LimitInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -459,7 +459,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>AthleticSkill_SeminarInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -475,7 +475,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AthleticSkill_ShowOffInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>AthleticSkill_Sore</GUID>
@@ -577,7 +577,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Business_BigMergerInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -678,7 +678,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>DeliverDossierInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -695,7 +695,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverDossierInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -712,7 +712,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>DeliverDossierInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -729,7 +729,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>DeliverDossierInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -749,7 +749,7 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Business_HoldMeeting1InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -765,7 +765,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Business_HoldMeeting2InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -781,7 +781,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Business_HoldMeeting3InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -797,7 +797,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Business_HoldMeeting4InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -813,7 +813,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Business_HoldMeeting5InteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -827,7 +827,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Business_LobbyCityHallInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>BusinessCareer_Networking1</GUID>
@@ -882,7 +882,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Charisma_BusinessClassInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -906,7 +906,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Charisma_ExperimentInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -935,7 +935,7 @@
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Charisma_CrisisInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>1:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -960,7 +960,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>CharismaSkill_MoreSkillInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -974,7 +974,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Charisma_NegotiationInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -987,7 +987,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Charisma_PublicSpeakInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1001,7 +1001,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>CharismaSkill_SmoothRecoveryInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CookingSkill_Advise</GUID>
@@ -1022,7 +1022,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Cooking_DeliverCookiesInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodGroup,Cookies,Any</TargetInteractionItemRequired>
@@ -1193,7 +1193,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>CookingSkill_SaveALifeInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>FoodSingle,Ambrosia,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1227,7 +1227,7 @@
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Cooking_SupportInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodGroup,Hamburger,Any</TargetInteractionItemRequired>
@@ -1248,7 +1248,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>CookingTalentInteraction</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodAny,Any,Any</TargetInteractionItemRequired>
@@ -1282,7 +1282,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Criminal_BigHeistInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>11:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>3:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1294,7 +1294,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Criminal_Bodyguard1InteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CriminalCareer_Book1</GUID>
@@ -1397,7 +1397,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Criminal_DeliverBribeInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -1417,7 +1417,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Criminal_CaseJointInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>10:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1431,7 +1431,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -1447,7 +1447,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Criminal_GreatRaceInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CriminalCareer_Intel</GUID>
@@ -1467,7 +1467,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Criminal_DoJob1InteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>CriminalCareer_Mates</GUID>
@@ -1505,7 +1505,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Criminal_WorldDominateInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1556,7 +1556,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Culinary_BigFeastInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Hunger,50</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1606,7 +1606,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Culinary_CaterFoodInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
@@ -1660,7 +1660,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>CulinaryCareer_MakeBestQualityMealInteractionName</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>FoodAny,Any,Any</TargetInteractionItemRequired>
@@ -1694,7 +1694,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Culinary_CaterFracasInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
@@ -1711,7 +1711,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Culinary_HelpCaterInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1724,7 +1724,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>PlayGig</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1799,7 +1799,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Fishing_BehemothInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1812,7 +1812,7 @@
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Fishing_GoldFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,BlackGoldfish,Any</TargetInteractionItemRequired>
@@ -1829,7 +1829,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Fishing_ClownFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,TragicClownfish,Any</TargetInteractionItemRequired>
@@ -1847,7 +1847,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_CompetitionInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1864,7 +1864,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Fishing_PrepInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1878,7 +1878,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_DeliverFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
@@ -1895,7 +1895,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_LobsterInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Lobster,Any</TargetInteractionItemRequired>
@@ -1913,7 +1913,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_DeliverFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
@@ -1931,7 +1931,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Fishing_DeliverFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
@@ -1949,7 +1949,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Fishing_StuckInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1963,7 +1963,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Fishing_DeathFishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Deathfish,Any</TargetInteractionItemRequired>
@@ -1981,7 +1981,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Fishing_RobotfishInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,RobotFish,Any</TargetInteractionItemRequired>
@@ -2002,7 +2002,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>GardeningSkill_AppleInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Apple,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -2021,7 +2021,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_BagDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Any,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2041,7 +2041,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Gardening_BountifulInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Any,Any</TargetInteractionItemRequired>
@@ -2076,7 +2076,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverGarlicInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Garlic,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2097,7 +2097,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverGrapesInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Grapes,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2149,7 +2149,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverLettuceInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Lettuce,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2186,7 +2186,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverLimeInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Lime,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2221,7 +2221,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverOnionInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Onion,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2256,7 +2256,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Gardening_PartyInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Flame Fruit,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2277,7 +2277,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverPepperInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Bell Pepper,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2312,7 +2312,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverPotatoInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Potato,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2329,7 +2329,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_BagDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Any,Excellent,EqualOrBetter</TargetInteractionItemRequired>
@@ -2346,7 +2346,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_BagDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Cheese,Excellent,EqualOrBetter</TargetInteractionItemRequired>
@@ -2363,7 +2363,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_BagDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Steak,Outstanding,EqualOrBetter</TargetInteractionItemRequired>
@@ -2384,7 +2384,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverTomatoInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Tomato,Nice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2419,7 +2419,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Gardening_DeliverWatermelonInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Harvestable,Watermelon,VeryNice,EqualOrBetter</TargetInteractionItemRequired>
@@ -2440,7 +2440,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Guitar_Contest_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2456,7 +2456,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Guitar_BackupInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2473,7 +2473,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Guitar_BusinessPartyInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2489,7 +2489,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Guitar_FundraiserPartyInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2503,7 +2503,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Guitar_GainSkillInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2544,7 +2544,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>GuitarSkill_OrganizeMusicInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2560,7 +2560,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>Guitar_ProGuitarInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
@@ -2574,7 +2574,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Guitar_SchoolInteraction</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -2603,7 +2603,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Handiness_FixCityHallInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2621,7 +2621,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Handiness_FixPoliceInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2636,7 +2636,7 @@
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Handiness_FixRestaurantInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2653,7 +2653,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Handiness_LabCrisisInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>HandinessSkill_MilitaryInstruction</GUID>
@@ -2669,7 +2669,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Handiness_MilitaryInstructionInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
@@ -2744,7 +2744,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>Handiness_TeachInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>2:00PM</TargetInteractionEndTime>
@@ -2798,7 +2798,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Journalism_BigCrisisInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -2900,7 +2900,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Journalism_CheckOutLeadInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>JournalismCareer_Concept</GUID>
@@ -2961,7 +2961,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>Journalism_HelpCompetitionInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>BookWritten,Article,Normal</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3001,7 +3001,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Journalism_InterviewInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>JournalismCareer_InterviewSource2</GUID>
@@ -3015,7 +3015,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Journalism_InterviewInteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3041,7 +3041,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Journalism_SeminarInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3101,7 +3101,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>LawEnforcement_BigCaseInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3198,7 +3198,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Law_ConventionInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3214,7 +3214,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Law_ChildrenInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3230,7 +3230,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Law_IntelInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LawEnforcement_Networking</GUID>
@@ -3253,7 +3253,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Law_ReadBetweenInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LawEnforcement_SpruceUp</GUID>
@@ -3287,7 +3287,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>LawEnforcement_SuperWeaponInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3302,7 +3302,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>LawEnforcement_UndercoverInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>10:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3318,7 +3318,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Location_AmateurOlympicsInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
@@ -3370,7 +3370,7 @@
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Location_EatingContestInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Hunger,100</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
@@ -3421,7 +3421,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>LogicSkill_BeatMasterInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_BookBalancing</GUID>
@@ -3433,7 +3433,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>LogicSkill_BookBalanceInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3460,7 +3460,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>LogicSkill_ExperimentsInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
@@ -3476,7 +3476,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>LogicSkill_GetBetterInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3490,7 +3490,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>LogicSkill_LogicClassInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>2:00PM</TargetInteractionEndTime>
@@ -3504,7 +3504,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>LogicSkill_PuzzlePanicInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3521,7 +3521,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>LogicSkill_RiddleMatchInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3535,7 +3535,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>LogicSkill_SearchGalaxyInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>LogicSkill_SkillTutoring</GUID>
@@ -3548,7 +3548,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>LogicSkill_SkillTutoringInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <Object>Sim</Object>
   <ObjectData>InCareer,Business</ObjectData>
 </OpportunitiesSetup>
@@ -3573,7 +3573,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>LogicSkill_WatchChessInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3588,7 +3588,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Medical_AdviseMilitaryInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -3604,7 +3604,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>MedicalBloodDriveInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3729,7 +3729,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Medical_ConferenceInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>2:00PM</TargetInteractionEndTime>
@@ -3745,7 +3745,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonateBrainInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonateHeart</GUID>
@@ -3758,7 +3758,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonateHeartInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonateKidney</GUID>
@@ -3771,7 +3771,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonateKidneyInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonateMembrane</GUID>
@@ -3784,7 +3784,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonateMembraneInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_DonatePancreas</GUID>
@@ -3797,7 +3797,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Medical_DonatePancreasInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MedicalCareer_FriendUp</GUID>
@@ -3847,7 +3847,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>MedicalCheckLiceInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -3862,7 +3862,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Medical_SaveLifeInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3896,7 +3896,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Medical_VaccinateInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
@@ -3911,7 +3911,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Military_AttendEventnteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4009,7 +4009,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Military_DeliverPackageInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -4029,7 +4029,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_EDHTInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Hygiene,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4046,7 +4046,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_FlightShowInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4072,7 +4072,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_DoOlympicsInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Hygiene,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4118,7 +4118,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Military_RecruitmentInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4133,7 +4133,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_RHATInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4149,7 +4149,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Military_SeminarInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4299,7 +4299,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Music_DeliverApplicationInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -4326,7 +4326,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Music_HelpSetUpInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>MusicCareer_ImproveGuitar</GUID>
@@ -4346,7 +4346,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Music_LegendaryRockInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
@@ -4363,7 +4363,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Music_LegendarySymphonyInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
@@ -4385,7 +4385,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Music_TeachMusicClassInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4408,7 +4408,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp1InteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>PaintingAny,450</TargetInteractionItemRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
   <TargetProceduralDeletionFunction>DeletePaintingsOfTotalValue</TargetProceduralDeletionFunction>
@@ -4422,7 +4422,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp2Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>PaintingAny</TargetInteractionItemRequired>
@@ -4439,7 +4439,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp3Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>PaintingAny</TargetInteractionItemRequired>
@@ -4456,7 +4456,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>PaintingAny,1000</TargetInteractionItemRequired>
@@ -4521,7 +4521,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>PaintingSkill_ForChildrenInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4539,7 +4539,7 @@
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>PaintingSkill_InspirationRetreatInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,25</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4554,7 +4554,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>PaintingSkill_SessionInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>PaintingSkill_Summit</GUID>
@@ -4569,7 +4569,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>PaintingSkill_SummitInteraction</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4590,7 +4590,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>PoliticalCareer_AttendPoliticalRallyInteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4613,7 +4613,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Political_BarExamInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4628,7 +4628,7 @@
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>Political_AttendBigParty</TargetInteractionName>
   <TargetInteractionCommodity>Hunger,100</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4723,7 +4723,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Political_CrisisInteraction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4749,7 +4749,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Political_ElectionHelpInteractionName</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4765,7 +4765,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Political_ForeignInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4838,7 +4838,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Political_NewsSpotInteractionName</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4853,7 +4853,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Political_PhotoOpInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4868,7 +4868,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Political_SchoolInteractionName</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>1:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4906,7 +4906,7 @@
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Political_DeliverPolice</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -4924,7 +4924,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Political_DeliverBusiness</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -4942,7 +4942,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>Political_DeliverHideout</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -4960,7 +4960,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>Political_DeliverMilitary</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
   <Object>OpportunityObject</Object>
@@ -4989,7 +4989,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Political_GiveConcertInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5012,7 +5012,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Workplace</TargetData>
   <TargetInteractionName>SchoolGrade_FailingInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5029,7 +5029,7 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>SchoolGrade_FreeGameInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,40</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>11:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>3:00PM</TargetInteractionEndTime>
@@ -5058,7 +5058,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>SchoolGrade_ResearchInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5090,7 +5090,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>SchoolGrade_TeacherCleanCageInteraction</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>2:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5104,7 +5104,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>SchoolGrade_TeacherDeliverInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <Object>OpportunityObject</Object>
   <ObjectData>PermissionSlips,opp_stuffedEnvelope_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -5133,7 +5133,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>SchoolHigh_FixBoilerInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5173,7 +5173,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>SchoolHigh_ResearchInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5185,7 +5185,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>SchoolHigh_RestockAquariumInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Fish,Any,Any</TargetInteractionItemRequired>
@@ -5215,7 +5215,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>SchoolHigh_WorkForDayInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
@@ -5232,7 +5232,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>Science_ScienceCompetitionInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>WeekendDays</TargetInteractionDays>
   <TargetInteractionStartTime>11:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
@@ -5327,7 +5327,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>Science_FightDrEvilInteraction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>2:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5349,7 +5349,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Science_DeliverReportInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <Object>OpportunityObject</Object>
   <ObjectData>ScienceDossier, opp_report_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>
@@ -5368,7 +5368,7 @@
   <TargetData>Workplace</TargetData>
   <TargetInteractionName>Science_FixMachineInteraction</TargetInteractionName>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>10:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>3:00AM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5384,7 +5384,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Science_GiveSeminarInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -5400,7 +5400,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Science_GiveUpdateInteraction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
@@ -5415,7 +5415,7 @@
   <Target>ObjectOnHomeLot</Target>
   <TargetData>Sims3.Gameplay.Objects.Electronics.Computer,Sims3GameplayObjects</TargetData>
   <TargetInteractionName>DoResearch</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <GUID>ScienceCareer_NeedMoreFoodForAnimals</GUID>
@@ -5490,7 +5490,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Writing_DonateBooksInteraction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>BookWritten,Any</TargetInteractionItemRequired>

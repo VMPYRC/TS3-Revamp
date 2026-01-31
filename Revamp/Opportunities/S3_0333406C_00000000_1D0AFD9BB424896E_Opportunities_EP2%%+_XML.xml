@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -113,7 +113,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_CheckTireTracks</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -305,7 +305,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Case_CatchConArtist</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -329,7 +329,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -354,7 +354,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_RunPrints</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -402,7 +402,7 @@
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>Case_CheckForInk</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -427,7 +427,7 @@
   <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>SavedStakeoutSim</Source>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>200</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -504,7 +504,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -518,7 +518,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Case_CallTheCops</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -694,7 +694,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Case_ResearchSleepwalking</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -900,7 +900,7 @@
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>Case_AskAboutThieves</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -1065,7 +1065,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_RunPrints</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -1105,7 +1105,7 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Case_WatchRace</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -1156,7 +1156,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_ReportEvidence</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -1170,7 +1170,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>Case_CallTheCops</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -1196,7 +1196,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Case_DoScienceOnVegetables</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Tomato,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>4</TargetInteractionNumberItemsRequired>
 </OpportunitiesSetup>
@@ -1212,7 +1212,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>Case_EatVegetables</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Tomato,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>4</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1242,7 +1242,7 @@
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Case_LookForClues</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -1267,7 +1267,7 @@
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Case_BlowTheWhistle</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -1464,7 +1464,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_CheckSaliva</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -1489,7 +1489,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_CheckSaliva</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2310,7 +2310,7 @@
   <TargetData>Restaurant,Diner</TargetData>
   <TargetInteractionName>Case_AskAboutSim</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2325,7 +2325,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Case_LookForSim</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2379,7 +2379,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>Case_AskAboutSim</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2394,7 +2394,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Case_LookForSim</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2443,7 +2443,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_CheckPrints</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2504,7 +2504,7 @@
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Case_InterviewOwner</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2585,7 +2585,7 @@
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2714,7 +2714,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Case_CallTheCops</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2740,7 +2740,7 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Case_WatchInstantReplay</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2846,7 +2846,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Case_CheckVoterRolls</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2918,7 +2918,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Case_CheckDNA</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -2972,7 +2972,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_RunPrints</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3052,7 +3052,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverWidgets</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Invention,Widget,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>4,10</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3068,7 +3068,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>DeliverMiners</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Invention,Invention,miner</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3084,7 +3084,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>GiveDetonateSeminar</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00pm</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3102,7 +3102,7 @@
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>AttendSciFair</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3135,7 +3135,7 @@
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>DeliverScrap</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Scrap</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>10,20</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3152,7 +3152,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>DeliverToys</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Invention,Toy,Any</TargetInteractionItemRequired>
@@ -3171,7 +3171,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>DeliverWidgets</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Invention,Widget,Any</TargetInteractionItemRequired>
@@ -3189,7 +3189,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>DeliverHygienators</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Invention,Invention,hygienator</TargetInteractionItemRequired>
@@ -3208,7 +3208,7 @@
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>HelpCleanUp</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3228,7 +3228,7 @@
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>StopDrEvil</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3257,7 +3257,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3270,7 +3270,7 @@
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>DeliverHygienators</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Invention,Invention,hygienator</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3,6</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3304,7 +3304,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3340,7 +3340,7 @@
   <TargetData>Restaurant,Bistro</TargetData>
   <TargetInteractionName>DeliverSculpture</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Sculpture,Ice,Any</TargetInteractionItemRequired>
@@ -3395,7 +3395,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>FreeTrappedStudent</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3425,7 +3425,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>SculptSuspect</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>220</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3438,7 +3438,7 @@
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>DeliverSculpture</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Sculpture,Ice,sculptureSim,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3455,7 +3455,7 @@
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>DeliverSculptures</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Sculpture,Wood,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3,7</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3472,7 +3472,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>DeliverSculpture</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Sculpture,Stone</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -3507,7 +3507,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>DeliverSculpture</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Sculpture,Any,Any,Brilliant</TargetInteractionItemRequired>
@@ -3527,7 +3527,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>DeliverSculpture</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
   <TargetInteractionItemRequired>Sculpture,Any,Any,Masterpiece</TargetInteractionItemRequired>
@@ -3544,7 +3544,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>CheckOrder</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3570,7 +3570,7 @@
   <TargetInteractionName>CheckRecords</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionCommodity>Fun,-25</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -3591,7 +3591,7 @@
   <TargetInteractionName>MeetContact</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionCommodity>Social,25</TargetInteractionCommodity>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3727,7 +3727,7 @@
   <TargetInteractionName>TestDisease</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionCommodity>Fun,-20</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3741,7 +3741,7 @@
   <TargetInteractionName>TestDisease</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionCommodity>Fun,-20</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3755,7 +3755,7 @@
   <TargetInteractionName>TestDisease</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionCommodity>Fun,-20</TargetInteractionCommodity>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3769,7 +3769,7 @@
   <TargetInteractionName>AssistEmergency</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionCommodity>Fun,-20</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3834,7 +3834,7 @@
   <TargetInteractionName>Investigate</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionCommodity>Fun,-15</TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3881,7 +3881,7 @@
   <TargetInteractionName>Investigate</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionCommodity>Fun,-15</TargetInteractionCommodity>
-  <TargetInteractionLength>45</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -3925,7 +3925,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>AttendCompetition</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>140</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
@@ -3965,7 +3965,7 @@
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>EndDebts</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -4132,7 +4132,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>Education_CommencementSpeech</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -4150,7 +4150,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Education_ChaperoneDance</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
@@ -4165,7 +4165,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>Education_AskForMoreFunding</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -4194,7 +4194,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Education_LeadFieldTrip</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>NonWorkDays</TargetInteractionDays>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
@@ -4232,7 +4232,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverSpirits</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Spirit</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4249,7 +4249,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>DeliverSpirits</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Spirit</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4266,7 +4266,7 @@
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>DeliverSpirits</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Spirit</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4283,7 +4283,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>DeliverSpirits</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Spirit</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4301,7 +4301,7 @@
   <TargetData>Mausoleum</TargetData>
   <TargetInteractionName>Case_DiscussGravesideProblems</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -4328,7 +4328,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Case_AnalyzeMysteryGoo</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>45</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -4380,7 +4380,7 @@
   <TargetData>Mausoleum</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP2</ProductVersion>
@@ -4491,7 +4491,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverMetal</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Palladium,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4507,7 +4507,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverFruit</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Lifefruit,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>10</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4523,7 +4523,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverGem</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Gem,Pink,Heart</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -4539,7 +4539,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverScrap</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Scrap</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>100</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>

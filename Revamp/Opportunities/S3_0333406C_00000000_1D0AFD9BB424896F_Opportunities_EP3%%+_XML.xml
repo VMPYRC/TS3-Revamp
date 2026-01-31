@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -231,7 +231,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>EP3_CareerFilm_ActingClass_Interaction</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -245,7 +245,7 @@
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>EP3_CareerFilm_MilitaryCommercial_Interaction</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>150</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -259,7 +259,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>EP3_CareerFilm_EmergencyInterviewer_Interaction</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -287,7 +287,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP3_CareerFilm_StateOfTheUnion_Interaction</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -315,7 +315,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>EP3_SkillPiano_SchoolMusical_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>Monday,Tuesday,Wednesday,Thursday,Friday</TargetInteractionDays>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
@@ -331,7 +331,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP3_SkillPiano_Hospital_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -348,7 +348,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
   <TargetInteractionName>EP3_SkillPiano_Gala_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -366,7 +366,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP3_SkillPiano_OrganizeSheetMusic_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -391,7 +391,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillPiano_PianoSkill_2_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -408,7 +408,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
   <TargetInteractionName>EP3_SkillPiano_FilmComposer_1_Interaction</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -425,7 +425,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
   <TargetInteractionName>EP3_SkillPiano_FilmComposer_2_Interaction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -466,7 +466,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillPiano_SeeMasterclass_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -483,7 +483,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillPiano_Competition_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -498,7 +498,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillPiano_GiveMasterclass_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -516,7 +516,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP3_SkillPiano_SportsEvent_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1136,7 +1136,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>EP3_Celebrity_GoingCorporate_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1150,7 +1150,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP3_Celebrity_HospitalOpportunity_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1164,7 +1164,7 @@
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>EP3_Celebrity_SchoolOpportunity_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1178,7 +1178,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP3_Celebrity_BookSigning_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1274,7 +1274,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP3_SkillDrums_RobotScience_Interaction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1289,7 +1289,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP3_SkillDrums_DrummingScience_Interaction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1307,7 +1307,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
   <TargetInteractionName>EP3_SkillDrums_MilitaryDrums_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>11:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1322,7 +1322,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP3_SkillDrums_Poetry_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1363,7 +1363,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
   <TargetInteractionName>EP3_SkillDrums_LateNight_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:30PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1388,7 +1388,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillDrums_DrumSkill_2_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1406,7 +1406,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP3_SkillDrums_Landmarks_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>11:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1423,7 +1423,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillDrums_ComedyRimshots_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1440,7 +1440,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillDrums_FillIn_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>7:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1458,7 +1458,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP3_SkillDrums_SpaParty_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>11:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1475,7 +1475,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Subway</TargetData>
   <TargetInteractionName>EP3_SkillDrums_UndergroundParty_Interaction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>3:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>7:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1492,7 +1492,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
   <TargetInteractionName>EP3_SkillBass_MovieScore_Interaction</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>11:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1510,7 +1510,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP3_SkillPiano_OrganizeSheetMusic_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>5:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1528,7 +1528,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant, Bistro</TargetData>
   <TargetInteractionName>EP3_SkillBass_SingAlong_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1545,7 +1545,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP3_SkillBass_Aliens_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1562,7 +1562,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillBass_FillIn_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1580,7 +1580,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP3_SkillBass_Marathon_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>10:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1597,7 +1597,7 @@
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
   <TargetInteractionName>EP3_SkillBass_Sitcom_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>4:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1614,7 +1614,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillPiano_SeeMasterclass_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1631,7 +1631,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP3_SkillBass_SpaFlood_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1649,7 +1649,7 @@
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>EP3_SkillBass_CorporateParty_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1666,7 +1666,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP3_SkillBass_PoliticalDebate_Interaction</TargetInteractionName>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>1:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1706,7 +1706,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_Celebrity_TheaterOpportunity_Interaction</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1722,7 +1722,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
-  <TargetInteractionLength>20</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>6:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1740,7 +1740,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP3_SkillBartending_AttendMixer</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>4:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1845,7 +1845,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1884,7 +1884,7 @@
   <TargetData>Restaurant,Bistro</TargetData>
   <TargetInteractionName>EP3_Bartending_School_Interaction</TargetInteractionName>
   <TargetInteractionCommodity>Fun, -20</TargetInteractionCommodity>
-  <TargetInteractionLength>180</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>9:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1904,7 +1904,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>10:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1950,7 +1950,7 @@
   <TargetData>BusinessAndJournalism</TargetData>
   <TargetInteractionName>EP3_Bartending_BizParty_Interaction</TargetInteractionName>
   <TargetInteractionCommodity>Fun, -20</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1969,7 +1969,7 @@
   <TargetData>MovieSet</TargetData>
   <TargetInteractionName>EP3_Bartending_BizParty_Interaction</TargetInteractionName>
   <TargetInteractionCommodity>Fun, -21</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>
@@ -1988,7 +1988,7 @@
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP3_Bartending_MovieGala_Interaction</TargetInteractionName>
   <TargetInteractionCommodity>Fun, -22</TargetInteractionCommodity>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>5:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
 </OpportunitiesSetup>

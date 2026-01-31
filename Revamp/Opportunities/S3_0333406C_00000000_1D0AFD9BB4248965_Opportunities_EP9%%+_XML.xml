@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -73,7 +73,7 @@
   <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoard</Availability>
   <OpportunityType>Career</OpportunityType>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP9</ProductVersion>
@@ -319,7 +319,7 @@
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_DonatePlasma</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -353,7 +353,7 @@
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -372,7 +372,7 @@
   <TargetData>CollegeOfScience,CollegeOfArts,CollegeOfBusiness,Annex</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -391,7 +391,7 @@
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>Harvestable,Ginseng,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
@@ -414,7 +414,7 @@
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -433,7 +433,7 @@
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>Harvestable,KonaBean,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
@@ -456,7 +456,7 @@
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_DayJob_Interaction</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -475,7 +475,7 @@
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_SearchForMonkeys</TargetInteractionName>
   <TargetWorldRequired>University</TargetWorldRequired>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -525,7 +525,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre,Stadium,Bistro,DaySpa</TargetData>
   <TargetInteractionName>EP9_Interaction_GameShippingParty</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -546,7 +546,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium,Theatre,Hideout,MilitaryBase</TargetData>
   <TargetInteractionName>EP9_Interaction_TradeConference</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -567,7 +567,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre,Bistro,DaySpa,CityHall,Bookstore,Grocery,Hideout,Hospital,MilitaryBase,School,ScienceLab,Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_PromotingNewGame</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -588,7 +588,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
   <TargetInteractionName>EP9_Interaction_OffsiteBrainstorming</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -609,7 +609,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore,Bistro,DaySpa,Theatre,CityHall,Stadium,Grocery,Hideout,Hospital,MilitaryBase,School,ScienceLab</TargetData>
   <TargetInteractionName>EP9_Interaction_AdvertisingPartnerDeal</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -705,7 +705,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>PaintingLarge,1000</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
@@ -723,7 +723,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>PaintingAny,1200</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
@@ -740,7 +740,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>PaintingAny,1500</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
@@ -761,7 +761,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -783,7 +783,7 @@
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
   <TargetData>ArtGallery, Library, BigPark,Gym</TargetData>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -802,7 +802,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore,Bistro,DaySpa,Theatre,CityHall,Stadium,Hospital,ScienceLab</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -825,7 +825,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -847,7 +847,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -869,7 +869,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -891,7 +891,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -913,7 +913,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -935,7 +935,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -957,7 +957,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -979,7 +979,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1001,7 +1001,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1023,7 +1023,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1045,7 +1045,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverPackageInteractionName</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1066,7 +1066,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1083,7 +1083,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1100,7 +1100,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1117,7 +1117,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1134,7 +1134,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1151,7 +1151,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1168,7 +1168,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1185,7 +1185,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1202,7 +1202,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1219,7 +1219,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1236,7 +1236,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1253,7 +1253,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1270,7 +1270,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1287,7 +1287,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1304,7 +1304,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1321,7 +1321,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1338,7 +1338,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1355,7 +1355,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1372,7 +1372,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1389,7 +1389,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1406,7 +1406,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1423,7 +1423,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1440,7 +1440,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1457,7 +1457,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1474,7 +1474,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1491,7 +1491,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1508,7 +1508,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_AppraiseArtworkattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1525,7 +1525,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_CheckSecurityattheOp_Target</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1542,7 +1542,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>PaintingSkill_BusProp4Interaction</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>PaintingLarge</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1</TargetInteractionNumberItemsRequired>
@@ -1562,7 +1562,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_SpeakAtPressConference</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1580,7 +1580,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_HostACharityGame</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1598,7 +1598,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_RunMarketingCampaign</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1616,7 +1616,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_InterviewAfterAGame</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1646,7 +1646,7 @@
   <Target>RabbitHole</Target>
   <TargetData>AdminstrationCenter</TargetData>
   <TargetInteractionName>EP9_Interaction_ReviewStudentEssays</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1661,7 +1661,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP9_Interaction_BecomeBehavioralTestSubject</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1679,7 +1679,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_BecomeBehavioralTestSubject</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1699,7 +1699,7 @@
   <Target>RabbitHole</Target>
   <TargetData>AdminstrationCenter</TargetData>
   <TargetInteractionName>EP9_Interaction_RecordPSA</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
@@ -1777,7 +1777,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
@@ -1799,7 +1799,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
@@ -1822,7 +1822,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
@@ -1845,7 +1845,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:00PM</TargetInteractionEndTime>
@@ -2913,7 +2913,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -2930,7 +2930,7 @@
   <OpportunityType>SocialGroup</OpportunityType>
   <Target>Venue</Target>
   <TargetData>GroupSciencePark</TargetData>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3023,7 +3023,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_Interaction_AttendFilmScreening</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -3058,7 +3058,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfScience</TargetData>
   <TargetInteractionName>EP9_Interaction_AttendMeetingOfMinds</TargetInteractionName>
-  <TargetInteractionLength>90</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -3093,7 +3093,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>Harvestable,SweetGrass,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
@@ -3126,7 +3126,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CollegeOfArts</TargetData>
   <TargetInteractionName>EP9_Interaction_ReturnObject</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionItemRequired>Harvestable,MauiBean,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
@@ -3191,7 +3191,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>EP9_Interaction_AttendFilmScreening</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>6:00PM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -3225,7 +3225,7 @@
   <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -3243,7 +3243,7 @@
   <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>SocialGroup</OpportunityType>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
 </OpportunitiesSetup>
 <OpportunitiesSetup>

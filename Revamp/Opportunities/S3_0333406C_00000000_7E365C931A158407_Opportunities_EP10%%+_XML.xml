@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -75,7 +75,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInSeashells</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -93,7 +93,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInSeashells</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>7</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -111,7 +111,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP10_TurnInSeashells</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>5</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -129,7 +129,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP10_TurnInMessageInABottles</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,MessageInABottle</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -147,7 +147,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP10_TurnInMessageInABottles</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Seashell,MessageInABottle</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>4</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -165,7 +165,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>EP10_TurnInSeaLife</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Fish,SeaUrchin,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -183,7 +183,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>EP10_TurnInSeaLife</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Fish,Eel,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -201,7 +201,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
   <TargetInteractionName>EP10_TurnInSeaLife</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Fish,Squid,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -221,7 +221,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInCave</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP10</ProductVersion>
@@ -237,7 +237,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInCave</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP10</ProductVersion>
@@ -264,7 +264,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_TurnInKelp</TargetInteractionName>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Kelp,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -282,7 +282,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_ReturntoLab</TargetInteractionName>
-  <TargetInteractionLength>10</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP10</ProductVersion>
@@ -297,7 +297,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP10_ReturntoLab</TargetInteractionName>
-  <TargetInteractionLength>5</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP10</ProductVersion>
@@ -310,7 +310,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>EP10_SearchForMap</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <Object>OpportunityObject</Object>
   <ObjectData>EP10_MapNote,opp_stuffedEnvelope_r2</ObjectData>
   <RequiredOnCompletion>True</RequiredOnCompletion>

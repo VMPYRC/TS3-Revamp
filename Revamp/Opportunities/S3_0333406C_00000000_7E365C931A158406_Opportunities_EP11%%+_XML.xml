@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -95,7 +95,7 @@
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
   <TargetInteractionName>AttendApocAnon</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP11</ProductVersion>
@@ -202,7 +202,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>AttendScienceStudy</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP11</ProductVersion>
@@ -247,7 +247,7 @@
   <Target>RabbitHole</Target>
   <TargetData>StellarObservatory</TargetData>
   <TargetInteractionName>RaiseDefensiveGrid</TargetInteractionName>
-  <TargetInteractionLength>30</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Any; Gem,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3; 3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -1097,7 +1097,7 @@
   <TargetData>Hospital</TargetData>
   <TargetInteractionName>GetTreatment</TargetInteractionName>
   <TargetWorldRequired>FutureWorld</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP11</ProductVersion>
@@ -1218,7 +1218,7 @@
   <TargetData>StellarObservatory</TargetData>
   <TargetInteractionName>LookForShield</TargetInteractionName>
   <TargetWorldRequired>FutureWorld</TargetWorldRequired>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP11</ProductVersion>

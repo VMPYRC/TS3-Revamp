@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -131,7 +131,7 @@
   <Target>RabbitHoleWithUserChosenPet</Target>
   <TargetData>Stadium</TargetData>
   <TargetInteractionName>Location_EnterPetShow</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>Friday</EventDay>
@@ -152,7 +152,7 @@
   <Target>RabbitHoleWithUserChosenPet</Target>
   <TargetData>EquestrianCenter</TargetData>
   <TargetInteractionName>Location_HorseTrainingInteractionName</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>9:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>8:00PM</TargetInteractionEndTime>
   <EventDay>Monday</EventDay>

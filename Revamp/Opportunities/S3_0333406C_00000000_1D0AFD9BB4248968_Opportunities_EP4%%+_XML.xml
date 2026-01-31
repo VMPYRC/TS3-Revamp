@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -260,7 +260,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP4_ScavengerHunt_InteractionName</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Any; Gem,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>3; 3</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -278,7 +278,7 @@
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP4_ScavengerHunt_InteractionName</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Silver; Metal,Iron; Gem,Emerald; Gem, Ruby</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -295,7 +295,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>EP4_ScavengerHunt_InteractionName</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Insect,ButterflyMoth; Insect,ButterflyMonarch; Insect,ButterflyRed; Insect,ButterflyBlue</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -312,7 +312,7 @@
   <TargetData>School</TargetData>
   <TargetInteractionName>EP4_ScavengerHunt_InteractionName</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
-  <TargetInteractionLength>15</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Insect,BeetleWater; Insect,BeetleRhino; Insect,BeetleLight; Insect,BeetleLady</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>

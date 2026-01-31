@@ -39,7 +39,7 @@
   <TargetInteractionIgnoreTarget>False</TargetInteractionIgnoreTarget>
   <TargetWorldRequired>Undefined</TargetWorldRequired>
   <TargetInteractionCommodity></TargetInteractionCommodity>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionDays>All</TargetInteractionDays>
   <TargetInteractionStartTime>12:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>11:59PM</TargetInteractionEndTime>
@@ -168,7 +168,7 @@
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>EP7_Interaction_HelpInvestigation</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionStartTime>8:00AM</TargetInteractionStartTime>
   <TargetInteractionEndTime>12:00PM</TargetInteractionEndTime>
   <EventDay>All</EventDay>
@@ -208,7 +208,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_ForsakeFairy</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP7</ProductVersion>
@@ -223,7 +223,7 @@
   <Target>RabbitHole</Target>
   <TargetData>VaultOfAntiquity</TargetData>
   <TargetInteractionName>EP7_Interaction_ForsakeVampire</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP7</ProductVersion>
@@ -238,7 +238,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP7_Interaction_ForsakeWitch</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP7</ProductVersion>
@@ -253,7 +253,7 @@
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
   <TargetInteractionName>EP7_Interaction_ForsakeWerewolf</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
   <ProductVersion>EP7</ProductVersion>
@@ -267,7 +267,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Gem,Bloodstone; Gem,Moonstone; Gem,Sunstone; Gem,Yellow</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -285,7 +285,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,BeesWax,Nice,EqualOrBetter; Harvestable,Spotlight Mushrooms,Nice,EqualOrBetter; Harvestable,Glow Orbs,Nice,EqualOrBetter; Harvestable,Ghost Chili,Nice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -303,7 +303,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Metal,Iron; Metal,Silver; Metal,Gold; Metal,Palladium</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -321,7 +321,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Insect,ButterflyMoth; Insect,ButterflyMonarch; Insect,ButterflyGold; Insect,ButterflyRed</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -339,7 +339,7 @@
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>60</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Insect,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>4</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -357,7 +357,7 @@
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>120</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Harvestable,Wolfsbane,Nice,EqualOrBetter; Harvestable,Mandrake,Nice,EqualOrBetter; Harvestable,Red Valerian,Nice,EqualOrBetter</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>1; 1; 1</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
@@ -375,7 +375,7 @@
   <Target>RabbitHole</Target>
   <TargetData>VaultOfAntiquity</TargetData>
   <TargetInteractionName>EP7_Interaction_DeliverFairyCollectibles</TargetInteractionName>
-  <TargetInteractionLength>240</TargetInteractionLength>
+  <TargetInteractionLength>1</TargetInteractionLength>
   <TargetInteractionItemRequired>Gem,Any; Metal,Any</TargetInteractionItemRequired>
   <TargetInteractionNumberItemsRequired>2; 2</TargetInteractionNumberItemsRequired>
   <TargetInteractionItemsDeleted>True</TargetInteractionItemsDeleted>
