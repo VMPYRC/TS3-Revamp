@@ -244,7 +244,7 @@
     <kMinWatchDistance value="3">
       <!--Minimum distance a sim will stand away from the ranter to watch.-->
     </kMinWatchDistance>
-    <kMaxWatchDistance value="6">
+    <kMaxWatchDistance value="10">
       <!--Maximum distance a sim will stand away from the ranter to watch.-->
     </kMaxWatchDistance>
     <kChanceToObserveRanter value="50">
