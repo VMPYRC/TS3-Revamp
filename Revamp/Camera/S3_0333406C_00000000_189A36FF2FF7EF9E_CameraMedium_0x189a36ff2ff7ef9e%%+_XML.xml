@@ -7,10 +7,10 @@
       <MaximumSize value="Medium">
         <!--Maximum available photo size.  May be gated by skill.-->
       </MaximumSize>
-      <MaximumZoom value="Minimum">
+      <MaximumZoom value="Maximum">
         <!--Maximum available zoom without ZoomUpgrade.-->
       </MaximumZoom>
-      <MaximumZoomWithZoomUpgrade value="Medium">
+      <MaximumZoomWithZoomUpgrade value="Maximum">
         <!--Maximum available zoom with ZoomUpgrade.-->
       </MaximumZoomWithZoomUpgrade>
       <SkillGainMultiplier value="1">

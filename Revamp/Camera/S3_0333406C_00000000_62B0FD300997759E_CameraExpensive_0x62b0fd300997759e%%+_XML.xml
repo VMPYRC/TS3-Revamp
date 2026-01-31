@@ -7,7 +7,7 @@
       <MaximumSize value="Panorama">
         <!--Maximum available photo size.  May be gated by skill.-->
       </MaximumSize>
-      <MaximumZoom value="Medium">
+      <MaximumZoom value="Maximum">
         <!--Maximum available zoom without ZoomUpgrade.-->
       </MaximumZoom>
       <MaximumZoomWithZoomUpgrade value="Maximum">
