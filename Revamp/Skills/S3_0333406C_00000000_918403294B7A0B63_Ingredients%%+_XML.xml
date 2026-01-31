@@ -63,7 +63,7 @@
   <Rarity>ExtraordinarilyUnusual</Rarity>
   <Parent>Ingredient</Parent>
   <Model_Name>marshmellow</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -374,7 +374,7 @@
   <Nectar_Value>18</Nectar_Value>
   <AncientNectarWeight>1</AncientNectarWeight>
   <Price>18</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
@@ -433,7 +433,7 @@
   <DrinkQuality_Max>0.1</DrinkQuality_Max>
   <AncientNectarWeight>1</AncientNectarWeight>
   <Price>25</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>Horses,AB</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
@@ -501,7 +501,7 @@
   <Nectar_Value>8</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>7</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
@@ -524,7 +524,7 @@
   <Nectar_Value>10</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>8</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
@@ -547,7 +547,7 @@
   <Nectar_Value>12</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>10</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
@@ -570,7 +570,7 @@
   <Nectar_Value>16</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>13</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
@@ -693,7 +693,7 @@
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCookieRainbow</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -705,7 +705,7 @@
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCookieSpaceship</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -717,7 +717,7 @@
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCupcake</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -729,7 +729,7 @@
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatDonut</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -745,7 +745,7 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>0</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -760,7 +760,7 @@
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>0</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -792,7 +792,7 @@
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatGourmetPetFoodHorse</Model_Name>
   <Thumbnail_Model_Name>foodEatGourmetPetFoodHorse</Thumbnail_Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
@@ -854,7 +854,7 @@
   <Model_Name>beesWax</Model_Name>
   <Thumbnail_Model_Name>beesWax</Thumbnail_Model_Name>
   <Price>35</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -925,7 +925,7 @@
   <Fertilizer_Value>20</Fertilizer_Value>
   <Fertilizer_Days>6</Fertilizer_Days>
   <Price>64</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <SpawnInLunarCycle>full</SpawnInLunarCycle>
@@ -943,7 +943,7 @@
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
   <Price>38</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -960,7 +960,7 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>6</Fertilizer_Days>
   <Price>20</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -977,7 +977,7 @@
   <Fertilizer_Value>12</Fertilizer_Value>
   <Fertilizer_Days>5</Fertilizer_Days>
   <Price>33</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>True</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -1012,7 +1012,7 @@
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>6</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -1029,7 +1029,7 @@
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>6</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -1046,7 +1046,7 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>13</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
