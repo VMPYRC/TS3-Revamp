@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kNpcMovePortDailyChance value="0.15">
+    <kNpcMovePortDailyChance value="0">
       <!--0-1f. Chance per day for an NPC household to move ports.-->
     </kNpcMovePortDailyChance>
-    <kNpcMovePortEarliestTime value="8">
+    <kNpcMovePortEarliestTime value="0">
       <!--Earliest hour of day for npc moving port.-->
     </kNpcMovePortEarliestTime>
-    <kNpcMovePortLatestTime value="20">
+    <kNpcMovePortLatestTime value="0">
       <!--Latest hour of day for npc moving port.-->
     </kNpcMovePortLatestTime>
     <kLtrForNpcAcceptRequestToChangePort value="1">
