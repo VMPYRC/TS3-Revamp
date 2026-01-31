@@ -2755,9 +2755,8 @@
   <Value>75</Value>
   <Scale>200</Scale>
   <NameKey>PleadingToSphinxName</NameKey>
-  <Method>InteractionNamed</Method>
-  <Arg0>Plead</Arg0>
-  <Arg1>)</Arg1>
+  <Method>ObjectInstanceName</Method>
+  <Arg0>sculptureFloorEgyptSphinx3x2</Arg0>
  </Subjects>
 <Subjects>
   <Key>TrainingMartialArts</Key>
