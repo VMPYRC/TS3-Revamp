@@ -2,9 +2,9 @@
 <base>
   <Current_Tuning>
     <kNormalTimeRate value="1" />
-    <kDoubleTimeRate value="3" />
-    <kTripleTimeRate value="20" />
-    <kSkipTimeRate value="20" />
+    <kDoubleTimeRate value="10" />
+    <kTripleTimeRate value="30" />
+    <kSkipTimeRate value="50" />
     <kSlowMotionMultiplier value="0.25" />
   </Current_Tuning>
   <Deprecated_Tuning />
