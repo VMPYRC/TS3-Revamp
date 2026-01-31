@@ -10,13 +10,13 @@
     <kFlyMinZoom value="0" />
     <kFlyMaxZoom value="192" />
     <kFlyConstantHeight value="False" />
-    <kMainDecayTrans value="0.015">
+    <kMainDecayTrans value="0.0">
       <!--This value controls the exponential decay applied to movement velocity after user input stops.  It should be between 0 and 1.  For example a value of 0.2 means that after one second, the speed will be at 20% of its starting value.-->
     </kMainDecayTrans>
-    <kMainDecayRot value="0.003">
+    <kMainDecayRot value="0.0">
       <!--This value controls the exponential decay applied to rotation velocity after user input stops.  It should be between 0 and 1.  For example a value of 0.2 means that after one second, the speed will be at 20% of its starting value.-->
     </kMainDecayRot>
-    <kMainDecayZoom value="0.05">
+    <kMainDecayZoom value="0.0">
       <!--This value controls the exponential decay applied to zoom velocity after user input stops.  It should be between 0 and 1.  For example a value of 0.2 means that after one second, the speed will be at 20% of its starting value.-->
     </kMainDecayZoom>
     <kMainVelTransScale value="50">
