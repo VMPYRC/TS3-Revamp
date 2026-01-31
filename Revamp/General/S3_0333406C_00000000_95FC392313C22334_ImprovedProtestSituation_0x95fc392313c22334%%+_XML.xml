@@ -164,7 +164,7 @@
     <kDecayDelayAfterActions value="30, 30, 30">
       <!--Time to delay decaying after an interaction on the protest in sim minutes-->
     </kDecayDelayAfterActions>
-    <kCanvasTimeout value="360">
+    <kCanvasTimeout value="1">
       <!--Sim minutes before you can repeat canvass someone-->
     </kCanvasTimeout>
     <kBonusFromGiveImpassionedSpeech value="22">
