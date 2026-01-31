@@ -452,52 +452,52 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Seashells1</GUID>
-  <Requirement1>Skill,ScubaDiving,2,5</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Seashells2</GUID>
-  <Requirement1>Skill,ScubaDiving,6,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Seashells3</GUID>
-  <Requirement1>Skill,ScubaDiving,2,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_MessageBottles1</GUID>
-  <Requirement1>Skill,ScubaDiving,2,5</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_MessageBottles2</GUID>
-  <Requirement1>Skill,ScubaDiving,6,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_SeaLife1</GUID>
-  <Requirement1>Skill,ScubaDiving,2,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_SeaLife2</GUID>
-  <Requirement1>Skill,ScubaDiving,2,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_SeaLife3</GUID>
-  <Requirement1>Skill,ScubaDiving,2,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Caves1</GUID>
-  <Requirement1>Skill,ScubaDiving,2,5</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP10_SkillUnderwaterDiving_Caves2</GUID>
-  <Requirement1>Skill,ScubaDiving,6,10</Requirement1>
+  <Requirement1>Skill,ScubaDiving,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>

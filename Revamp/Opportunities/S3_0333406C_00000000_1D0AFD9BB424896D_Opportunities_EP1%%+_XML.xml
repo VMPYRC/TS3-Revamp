@@ -11233,12 +11233,12 @@
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_Mummification1</GUID>
   <Requirement1>WorldHasSimInRole,LocationMerchant,Food</Requirement1>
-  <Requirement2>Skill,Photography,2,10</Requirement2>
+  <Requirement2>Skill,Photography,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_Mummification2</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
-  <Requirement2>Skill,Photography,4,10</Requirement2>
+  <Requirement2>Skill,Photography,1,10</Requirement2>
   <Requirement3>VisaLevel,2</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -11899,29 +11899,29 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_WinTournament</GUID>
-  <Requirement1>Skill,MartialArts,6,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_WinTournament2</GUID>
   <Requirement1>OpportunityComplete,EP1_CareerMilitary_WinTournament</Requirement1>
-  <Requirement2>Skill,MartialArts,6,10</Requirement2>
+  <Requirement2>Skill,MartialArts,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_WinTournament3</GUID>
   <Requirement1>OpportunityComplete,EP1_CareerMilitary_WinTournament2</Requirement1>
-  <Requirement2>Skill,MartialArts,6,10</Requirement2>
+  <Requirement2>Skill,MartialArts,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_WinTournament4</GUID>
   <Requirement1>OpportunityComplete,EP1_CareerMilitary_WinTournament3</Requirement1>
-  <Requirement2>Skill,MartialArts,6,10</Requirement2>
+  <Requirement2>Skill,MartialArts,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMilitary_BringMummyRocks</GUID>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMusic_PlayForTips</GUID>
-  <Requirement1>Skill,Guitar,7,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_CareerMusic_PlayForTips2</GUID>
@@ -11999,7 +11999,7 @@
 <OpportunitiesRequirements>
   <GUID>EP1_SkillAthletic_BreathingExercises</GUID>
   <Requirement1>HasAcquaintanceOrHigher</Requirement1>
-  <Requirement2>Skill,Athletic,4,10</Requirement2>
+  <Requirement2>Skill,Athletic,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillAthletic_BreathingExercises2</GUID>
@@ -12017,7 +12017,7 @@
 <OpportunitiesRequirements>
   <GUID>EP1_SkillAthletic_JogInEgypt</GUID>
   <Requirement1>HasAcquaintanceOrHigher</Requirement1>
-  <Requirement2>Skill,Athletic,4,10</Requirement2>
+  <Requirement2>Skill,Athletic,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillAthletic_JogInEgypt2</GUID>
@@ -12038,30 +12038,30 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TrainSim</GUID>
-  <Requirement1>Skill,MartialArts,7,10</Requirement1>
-  <Requirement2>HasStrangers,1,MartialArts,-1,6</Requirement2>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
+  <Requirement2>HasStrangers,1,MartialArts,-1,9</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_MeasureBoards</GUID>
-  <Requirement1>Skill,MartialArts,2,5</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_UseDummy</GUID>
-  <Requirement1>Skill,MartialArts,1,5</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_BreakSpaceRock</GUID>
-  <Requirement1>Skill,MartialArts,9,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_MeditateALot</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TournamentMatch</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TournamentMatch2</GUID>
@@ -12077,7 +12077,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_WinTheTournament</GUID>
-  <Requirement1>Skill,MartialArts,8,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_WinTheTournament2</GUID>
@@ -12093,25 +12093,25 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TrainPolice</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_SparWithSim</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
   <Requirement2>HasStrangers,1,MartialArts,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_TrainAnotherSim</GUID>
-  <Requirement1>Skill,MartialArts,10,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
   <Requirement2>HasStrangers,1,MartialArts,-1,9</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillMartialArts_SpaStress</GUID>
-  <Requirement1>Skill,MartialArts,5,10</Requirement1>
+  <Requirement1>Skill,MartialArts,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillPhotography_GainSkill</GUID>
-  <Requirement1>Skill,Photography,1,5</Requirement1>
+  <Requirement1>Skill,Photography,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -12151,43 +12151,43 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillCooking_GetCrepes</GUID>
-  <Requirement1>Skill,Cooking,3,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillCooking_GetStirFry</GUID>
-  <Requirement1>Skill,Cooking,3,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillCooking_GetFalafel</GUID>
-  <Requirement1>Skill,Cooking,3,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillFishing_GetCrocs</GUID>
-  <Requirement1>Skill,Fishing,3,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillFishing_GetFrogs</GUID>
-  <Requirement1>Skill,Fishing,3,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillFishing_GetDragonfish</GUID>
-  <Requirement1>Skill,Fishing,3,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGardening_GetPlums</GUID>
-  <Requirement1>Skill,Gardening,3,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGardening_GetPomengranates</GUID>
-  <Requirement1>Skill,Gardening,3,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGardening_GetGrapes</GUID>
-  <Requirement1>Skill,Gardening,3,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_FrenchTips</GUID>
-  <Requirement1>Skill,Guitar,4,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_FrenchTips2</GUID>
@@ -12195,7 +12195,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_EgyptTips</GUID>
-  <Requirement1>Skill,Guitar,4,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_EgyptTips2</GUID>
@@ -12203,7 +12203,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_ChinaTips</GUID>
-  <Requirement1>Skill,Guitar,4,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillGuitar_ChinaTips2</GUID>
@@ -12228,7 +12228,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_RiddleWar</GUID>
-  <Requirement1>Skill,Logic,3,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_RiddleWar2</GUID>
@@ -12245,7 +12245,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_FrenchPuzzle</GUID>
-  <Requirement1>Skill,Logic,3,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -12263,7 +12263,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_Senet</GUID>
-  <Requirement1>Skill,Logic,3,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_SkillLogic_Senet2</GUID>
@@ -12409,7 +12409,7 @@
   <GUID>EP1_Quest_LiteraryFriend</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
   <Requirement2>VisaLevel,1</Requirement2>
-  <Requirement3>Skill,Writing,2,10</Requirement3>
+  <Requirement3>Skill,Writing,1,10</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_JadeAcquisition</GUID>
@@ -12486,12 +12486,12 @@
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_QinShanHuWritings1</GUID>
   <Requirement1>WorldHasSimInRole,SpecialMerchant</Requirement1>
-  <Requirement2>Skill,MartialArts,-1,0</Requirement2>
+  <Requirement2>Skill,MartialArts,-1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_QinShanHuWritings2</GUID>
   <Requirement1>OpportunityComplete,EP1_Quest_QinShanHuWritings1</Requirement1>
-  <Requirement2>Skill,MartialArts,-1,0</Requirement2>
+  <Requirement2>Skill,MartialArts,-1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_QinShanHuWritings3</GUID>
@@ -13223,7 +13223,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_CafeCooking</GUID>
-  <Requirement1>Skill,Cooking,4,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>WorldHasSimInRole,LocationMerchant,Food</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -13327,17 +13327,17 @@
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_GoodNectarB</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
-  <Requirement2>Skill,Nectar,3,10</Requirement2>
+  <Requirement2>Skill,Nectar,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_GoodNectarC</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
-  <Requirement2>Skill,Nectar,5,10</Requirement2>
+  <Requirement2>Skill,Nectar,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_GoodNectarD</GUID>
   <Requirement1>HasVacationLocal</Requirement1>
-  <Requirement2>Skill,Nectar,7,10</Requirement2>
+  <Requirement2>Skill,Nectar,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP1_Quest_TheFeast1</GUID>

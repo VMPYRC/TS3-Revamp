@@ -7073,203 +7073,203 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingCar1</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BeachVenue</Requirement3>
   <Requirement4>WorldHasSimInRole,GenericMerchant</Requirement4>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingCar2</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingCar1</Requirement2>
   <Requirement3>WorldHasSimInCareer,Criminal</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingCar3</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingCar2</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BeachVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingCar4</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingCar3</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingCar5</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingCar4</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BeachVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingCar6</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingCar5</Requirement2>
   <Requirement3>WorldHasSimInRole,GenericMerchant</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingCar7</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingCar6</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_CulinaryBackstab1</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasSimInCareer,Culinary</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_CulinaryBackstab2</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_CulinaryBackstab1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_CulinaryBackstab3</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_CulinaryBackstab2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_CulinaryBackstab4</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_CulinaryBackstab3</Requirement2>
   <Requirement3>HasStrangers,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_CulinaryBackstab5</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_CulinaryBackstab4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_CulinaryBackstab6</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_CulinaryBackstab5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_CulinaryBackstab7</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_CulinaryBackstab6</Requirement2>
   <Requirement3>WorldHasSimInCareer,Culinary</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingGirlfriend1</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasSingleSim,2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingGirlfriend2</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingGirlfriend1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingGirlfriend3</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingGirlfriend2</Requirement2>
   <Requirement3>HasSingleSim,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingGirlfriend4</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingGirlfriend3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingGirlfriend5</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingGirlfriend4</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Theatre</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingGirlfriend6</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingGirlfriend5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist1</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist2</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,ArtGallery</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist3</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist4</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist3</Requirement2>
   <Requirement3>HasStrangers,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist5</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist6</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist7</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist6</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Bookstore</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist8</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist7</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,ScienceLab</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist9</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist8</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist10</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist9</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist11</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist12</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist11</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist13</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist12</Requirement2>
   <Requirement3>WorldHasCommunityLotType,ArtGallery</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist14</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist13</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist15</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist14</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RobotHeist16</GUID>
-  <Requirement1>Career,PrivateEye,10,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RobotHeist15</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,ScienceLab</Requirement3>
 </OpportunitiesRequirements>
@@ -7347,448 +7347,448 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFlamingoA1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFlamingoA2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFlamingoA1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFlamingoA3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFlamingoA2</Requirement2>
   <Requirement3>WorldHasCommunityLotType,FishingVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFlamingoA4</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFlamingoA3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFlamingoB1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFlamingoB2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFlamingoB1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFlamingoB3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFlamingoB2</Requirement2>
   <Requirement3>WorldHasCommunityLotType,FishingVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFlamingoB4</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFlamingoB3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingBook1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingBook2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingBook1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingBook3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingBook2</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Library</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingBook4</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingBook3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingBook5</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingBook4</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Library</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingBook6</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingBook5</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Bookstore</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingBook7</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingBook6</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Loved1</GUID>
-  <Requirement1>Career,PrivateEye,2,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasMaleSimWithGirlfriend,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Loved2</GUID>
-  <Requirement1>Career,PrivateEye,2,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Loved1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Loved3</GUID>
-  <Requirement1>Career,PrivateEye,2,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Loved2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Loved4</GUID>
-  <Requirement1>Career,PrivateEye,2,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Loved3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_ManLoved1</GUID>
-  <Requirement1>Career,PrivateEye,2,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasFemaleSimWithBoyfriend,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_ManLoved2</GUID>
-  <Requirement1>Career,PrivateEye,2,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_ManLoved1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_ManLoved3</GUID>
-  <Requirement1>Career,PrivateEye,2,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_ManLoved2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_ManLoved4</GUID>
-  <Requirement1>Career,PrivateEye,2,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_ManLoved3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar1</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar2</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar3</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar4</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar3</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar5</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar6</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar7</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar6</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Stadium</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar8</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar7</Requirement2>
   <Requirement3>HasStrangers,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar9</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar8</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar10</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar9</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar11</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar10</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_NoCar12</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_NoCar11</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MarketValue1</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MarketValue2</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MarketValue1</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,ScienceLab</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MarketValue3</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MarketValue2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Hospital</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MarketValue4</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MarketValue3</Requirement2>
   <Requirement3>WorldHasSimInCareer,Medical</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MarketValue5</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MarketValue4</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Grocery</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MarketValue6</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MarketValue5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MarketValue7</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MarketValue6</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Grocery</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MarketValue8</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MarketValue7</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SuperFruits1</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MarketValue8</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SuperFruits2</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SuperFruits1</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SuperFruits3</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SuperFruits2</Requirement2>
   <Requirement3>WorldHasSimInCareer,Culinary</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SuperFruits4</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SuperFruits3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SuperFruits5</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SuperFruits4</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,CityHall</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SuperFruits6</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SuperFruits5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SuperFruits7</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SuperFruits6</Requirement2>
   <Requirement3>WorldHasSimInCareer,Journalism</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SuperFruits8</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SuperFruits7</Requirement2>
   <Requirement3>WorldHasSimInCareer,Political</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MailFraud1</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasSimInCareer,Political</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MailFraud2</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MailFraud1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MailFraud3</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MailFraud2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans1</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasSimInCareer,Music</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans2</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FreakyFans1</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Theatre</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans3</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FreakyFans2</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BigPark</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans4</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FreakyFans3</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans5</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FreakyFans4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans6</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FreakyFans5</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans7</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FreakyFans6</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans8</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FreakyFans7</Requirement2>
   <Requirement3>WorldHasSimInCareer,Medical</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FreakyFans9</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FreakyFans8</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa1</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasSimInRole,Stylist</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa2</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Spa1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa3</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Spa2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa4</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Spa3</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BigPark</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa5</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Spa4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa6</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Spa5</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa7</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Spa6</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa8</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Spa7</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_Spa9</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_Spa8</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion1</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BeachVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion2</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishingUnion1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion3</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishingUnion2</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BeachVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion4</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishingUnion3</Requirement2>
   <Requirement3>WorldHasCommunityLotType,FishingVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion5</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishingUnion4</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant,Diner</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion6</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishingUnion5</Requirement2>
   <Requirement3>WorldHasSimInCareer,Journalism</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion7</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishingUnion6</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion8</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishingUnion7</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishingUnion9</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishingUnion8</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -7889,430 +7889,430 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerA1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerA2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SecretAdmirerA1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerA3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SecretAdmirerA2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerB1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerB2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SecretAdmirerB1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerB3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SecretAdmirerB2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerC1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerC2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SecretAdmirerC1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SecretAdmirerC3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SecretAdmirerC2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletA1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BeachVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletA2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_LostWalletA1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BeachVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletA3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_LostWalletA2</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletA4</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_LostWalletA3</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletA5</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_LostWalletA4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletB1</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Gym</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletB2</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_LostWalletB1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Gym</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletB3</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_LostWalletB2</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletB4</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_LostWalletB3</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_LostWalletB5</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_LostWalletB4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendA1</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendA2</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFriendA1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BigPark</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendA3</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFriendA2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant,Diner</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendA4</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFriendA3</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Theatre</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendA5</GUID>
-  <Requirement1>Career,PrivateEye,4,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFriendA4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendB1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendB2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFriendB1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BeachVenue</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendB3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFriendB2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant,Diner</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendB4</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFriendB3</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Theatre</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_MissingFriendB5</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_MissingFriendB4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_StolenRing1</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_StolenRing2</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_StolenRing1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_StolenRing3</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_StolenRing2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_StolenRing4</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_StolenRing3</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_StolenRing5</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_StolenRing4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_StolenRing6</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_StolenRing5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_StolenRing7</GUID>
-  <Requirement1>Career,PrivateEye,5,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_StolenRing6</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadApple1</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadApple2</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadApple1</Requirement2>
   <Requirement3>WorldHasSimInCareer,PTGroceryStoreClerk</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadApple3</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadApple2</Requirement2>
   <Requirement3>WorldHasSimInCareer,Criminal</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadApple4</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadApple3</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
   <Requirement4>HasStrangers,1</Requirement4>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadApple5</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadApple4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadApple6</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadApple5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadApple7</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadApple6</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Grocery</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop1</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasSimInCareer,LawEnforcement</Requirement2>
   <Requirement3>WorldHasSimInRole,Stylist</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop2</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BigPark</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop3</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop2</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BigPark</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop4</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop5</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop4</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
   <Requirement4>WorldHasSimInRole,Stylist</Requirement4>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop6</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop7</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop6</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop8</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop7</Requirement2>
   <Requirement3>WorldHasSimInCareer,Political</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop9</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop8</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_RogueCop10</GUID>
-  <Requirement1>Career,PrivateEye,8,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_RogueCop9</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,CityHall</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadCall1</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasSimInCareer,ProfessionalSports</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadCall2</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadCall1</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Stadium</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadCall3</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadCall2</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadCall4</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadCall3</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadCall5</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadCall4</Requirement2>
   <Requirement3>WorldHasCommunityLotType,BigPark</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadCall6</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadCall5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BadCall7</GUID>
-  <Requirement1>Career,PrivateEye,6,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BadCall6</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BallotStuffing1</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasSimInCareer,Political</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BallotStuffing2</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BallotStuffing1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BallotStuffing3</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BallotStuffing2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,CityHall</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BallotStuffing4</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BallotStuffing3</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Graveyard</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_BallotStuffing5</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_BallotStuffing4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid1</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasNonHouseholdAdultSims,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid2</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid3</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid2</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid4</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid3</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,ScienceLab</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid5</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid4</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid6</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid5</Requirement2>
   <Requirement3>HasStrangers,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid7</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid6</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid8</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid7</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,PoliceStation</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid9</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid8</Requirement2>
   <Requirement3>WorldHasSimInCareer,Science</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid10</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid9</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid11</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid10</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Pool</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_FishKid12</GUID>
-  <Requirement1>Career,PrivateEye,9,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_FishKid11</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -8322,81 +8322,81 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_DeliverWidgets</GUID>
-  <Requirement1>Skill,Inventing,2,8</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_Miners</GUID>
-  <Requirement1>Skill,Inventing,7,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MilitaryBase</Requirement2>
   <Requirement3>KnowsInvention,miner</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_DetonateClass</GUID>
-  <Requirement1>Skill,Inventing,6,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MilitaryBase</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_WackySciSeminar</GUID>
-  <Requirement1>Skill,Inventing,2,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_TimeMachine</GUID>
-  <Requirement1>Skill,Inventing,9,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>KnowsInvention,timeMachine</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_CollectScrap</GUID>
-  <Requirement1>Skill,Inventing,1,8</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hideout</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_MakeToys</GUID>
-  <Requirement1>Skill,Inventing,2,9</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_MakeWidgets</GUID>
-  <Requirement1>Skill,Inventing,5,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_MakeHygienator</GUID>
-  <Requirement1>Skill,Inventing,3,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MilitaryBase</Requirement2>
   <Requirement3>KnowsInvention,hygienator</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_ScrapCleanUp</GUID>
-  <Requirement1>Skill,Inventing,1,8</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_StopDrEvil</GUID>
-  <Requirement1>Skill,Inventing,9,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hideout</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_ConvinceTech</GUID>
-  <Requirement1>Skill,Inventing,5,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_ConvinceTech2</GUID>
-  <Requirement1>Skill,Inventing,5,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_SkillInventing_ConvinceTech</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,CityHall</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_DaySpaDelivery</GUID>
-  <Requirement1>Skill,Inventing,4,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,DaySpa</Requirement2>
   <Requirement3>KnowsInvention,hygienator</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_HarvestDelivery</GUID>
-  <Requirement1>Skill,Inventing,4,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>KnowsInvention,harvester</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -8406,62 +8406,62 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_DeliverSculpture</GUID>
-  <Requirement1>Skill,Sculpting,2,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_IceSculpture</GUID>
-  <Requirement1>Skill,Sculpting,6,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_MetalSculpture</GUID>
-  <Requirement1>Skill,Sculpting,3,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_SculptASim</GUID>
-  <Requirement1>Skill,Sculpting,5,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_HelpSchool</GUID>
-  <Requirement1>Skill,Sculpting,6,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_DeliverTopiaries</GUID>
-  <Requirement1>Skill,Sculpting,10,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_SculptSuspect</GUID>
-  <Requirement1>Skill,Sculpting,8,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_SimOnIce</GUID>
-  <Requirement1>Skill,Sculpting,6,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_WoodSculptures</GUID>
-  <Requirement1>Skill,Sculpting,3,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hideout</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_StoneSculpture</GUID>
-  <Requirement1>Skill,Sculpting,8,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_GoodSculpture</GUID>
-  <Requirement1>Skill,Sculpting,7,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_BrilliantSculpture</GUID>
-  <Requirement1>Skill,Sculpting,9,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillSculpting_MasterpieceSculpture</GUID>
-  <Requirement1>Skill,Sculpting,10,10</Requirement1>
+  <Requirement1>Skill,Sculpting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -8701,140 +8701,140 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_EducationCareer_HelpWithHomework1</GUID>
-  <Requirement1>Skill,Logic,5,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>HasChildOrTeenAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_EducationCareer_HelpWithHomework2</GUID>
-  <Requirement1>Skill,Logic,5,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>HasChildOrTeenAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_GhostHunterCareer_DonateSpirits</GUID>
-  <Requirement1>Career,GhostHunter,5,10</Requirement1>
+  <Requirement1>Career,GhostHunter,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_GhostHunterCareer_Props</GUID>
-  <Requirement1>Career,GhostHunter,6,10</Requirement1>
+  <Requirement1>Career,GhostHunter,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_GhostHunterCareer_ScareCrooks</GUID>
-  <Requirement1>Career,GhostHunter,7,10</Requirement1>
+  <Requirement1>Career,GhostHunter,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hideout</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_GhostHunterCareer_HauntedHouse</GUID>
-  <Requirement1>Career,GhostHunter,8,10</Requirement1>
+  <Requirement1>Career,GhostHunter,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SpookStory1</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Mausoleum</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SpookStory2</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SpookStory1</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Graveyard</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SpookStory3</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SpookStory2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,ScienceLab</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SpookStory4</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SpookStory3</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Graveyard</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SpookStory5</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SpookStory4</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SpookStory6</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SpookStory5</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_SpookStory7</GUID>
-  <Requirement1>Career,PrivateEye,7,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_SpookStory6</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Mausoleum</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_TattooedThief1</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
   <Requirement3>WorldHasSimInRole,TattooArtist</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_TattooedThief2</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_TattooedThief1</Requirement2>
   <Requirement3>HasNonHouseholdAdultSims,3</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_TattooedThief3</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_TattooedThief2</Requirement2>
   <Requirement3>WorldHasSimInRole,TattooArtist</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_TattooedThief4</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_TattooedThief3</Requirement2>
   <Requirement3>WorldHasCommunityLotType,Salon</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_TattooedThief5</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_TattooedThief4</Requirement2>
   <Requirement3>WorldHasSimInRole,TattooArtist</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_TattooedThief6</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_TattooedThief5</Requirement2>
   <Requirement3>HasStrangers,1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_Case_TattooedThief7</GUID>
-  <Requirement1>Career,PrivateEye,3,10</Requirement1>
+  <Requirement1>Career,PrivateEye,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_Case_TattooedThief6</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_Frankensim1</GUID>
-  <Requirement1>Skill,Inventing,10,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_Frankensim2</GUID>
-  <Requirement1>Skill,Inventing,10,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_SkillInventing_Frankensim1</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,ScienceLab</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_Frankensim3</GUID>
-  <Requirement1>Skill,Inventing,10,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_SkillInventing_Frankensim2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,ScienceLab</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_Frankensim3B</GUID>
-  <Requirement1>Skill,Inventing,10,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_SkillInventing_Frankensim3</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,ScienceLab</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP2_SkillInventing_Frankensim4</GUID>
-  <Requirement1>Skill,Inventing,10,10</Requirement1>
+  <Requirement1>Skill,Inventing,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP2_SkillInventing_Frankensim3B</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesCompletion>

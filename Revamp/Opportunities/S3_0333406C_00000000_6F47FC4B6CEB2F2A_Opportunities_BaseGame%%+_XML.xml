@@ -10113,7 +10113,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticCareer_ImproveAthleticSkill</GUID>
-  <Requirement1>Skill,Athletic,5,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,9</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticCareer_InformalEvent</GUID>
@@ -10137,17 +10137,17 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Experiment</GUID>
-  <Requirement1>Skill,Athletic,3,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Help</GUID>
-  <Requirement1>Skill,Athletic,6,8</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Sore</GUID>
-  <Requirement1>Skill,Athletic,5,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10163,7 +10163,7 @@
 <OpportunitiesRequirements>
   <GUID>AthleticCareer_AthleticsForAll</GUID>
   <Requirement1>HasNonHouseholdAdultSims,1</Requirement1>
-  <Requirement2>Skill,Athletic,5,5</Requirement2>
+  <Requirement2>Skill,Athletic,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticCareer_ImproveLeadership</GUID>
@@ -10171,28 +10171,28 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_Charming</GUID>
-  <Requirement1>Skill,Charisma,1,4</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_GetToKnow</GUID>
-  <Requirement1>Skill,Charisma,3,6</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_SmoothRecovery</GUID>
-  <Requirement1>Skill,Charisma,5,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillMasterHotDogs</GUID>
-  <Requirement1>Skill,Cooking,3,4</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,HotDog</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_SaveALife</GUID>
-  <Requirement1>Skill,Cooking,10,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,Ambrosia</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Hospital</Requirement3>
 </OpportunitiesRequirements>
@@ -10233,71 +10233,71 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Apple</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_LifeFruit</GUID>
-  <Requirement1>Skill,Gardening,9,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasPlanted,Life Plant</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_AmateurContest</GUID>
-  <Requirement1>Skill,Guitar,10,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_Backup</GUID>
-  <Requirement1>Skill,Guitar,5,9</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_BusinessParty</GUID>
-  <Requirement1>Skill,Guitar,4,9</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_FundraiserParty</GUID>
-  <Requirement1>Skill,Guitar,7,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_GainSkill</GUID>
-  <Requirement1>Skill,Guitar,2,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_LotsOfTips</GUID>
-  <Requirement1>Skill,Guitar,6,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_MakeTips</GUID>
-  <Requirement1>Skill,Guitar,4,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_OrganizeMusic</GUID>
-  <Requirement1>Skill,Guitar,5,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_ProGuitar</GUID>
-  <Requirement1>Skill,Guitar,2,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GuitarSkill_SchoolShow</GUID>
-  <Requirement1>Skill,Guitar,2,6</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_RepairMyThing</GUID>
-  <Requirement1>Skill,Handiness,1,4</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_Upgrade</GUID>
-  <Requirement1>Skill,Handiness,3,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10309,18 +10309,18 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_SearchGalaxy</GUID>
-  <Requirement1>Skill,Logic,5,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_SkillTutoring</GUID>
-  <Requirement1>Skill,Logic,10,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
   <Requirement3>WorldHasSkillTutorableSimInCareer,Business</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_TutoringOthers</GUID>
-  <Requirement1>Skill,Logic,5,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>HasChildOrTeenAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10346,17 +10346,17 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_BusProp1</GUID>
-  <Requirement1>Skill,Painting,5,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_DeliverSmallPainting</GUID>
-  <Requirement1>Skill,Painting,4,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_InspirationRetreat</GUID>
-  <Requirement1>Skill,Painting,6,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10467,15 +10467,15 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>ScienceCareer_FixIt</GUID>
-  <Requirement1>Skill,Handiness,3,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>ScienceCareer_NeedMoreFoodForAnimals</GUID>
-  <Requirement1>Skill,Gardening,4,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>ScienceCareer_WeirdFishRequired</GUID>
-  <Requirement1>Skill,Fishing,6,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>ScienceCareer_AttendScienceCompetition</GUID>
@@ -10491,7 +10491,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_PlayGig</GUID>
-  <Requirement1>Skill,Guitar,5,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_StayLate</GUID>
@@ -10714,19 +10714,19 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Seminar</GUID>
-  <Requirement1>Skill,Athletic,4,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Hospital</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_ShowStuff</GUID>
-  <Requirement1>Skill,Athletic,4,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Stadium</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Bouncer</GUID>
-  <Requirement1>Skill,Athletic,5,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10791,7 +10791,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_Olympics</GUID>
-  <Requirement1>Skill,Athletic,2,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_Maintenance</GUID>
@@ -10805,11 +10805,11 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_EDHT</GUID>
-  <Requirement1>Skill,Handiness,4,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_RHAT</GUID>
-  <Requirement1>Skill,Athletic,4,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MilitaryCareer_FlightShow</GUID>
@@ -10844,17 +10844,17 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Biography</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_HighQuality</GUID>
-  <Requirement1>Skill,Writing,5,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_MakeALiving</GUID>
-  <Requirement1>Skill,Writing,1,5</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -10948,15 +10948,15 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_Artistry2</GUID>
-  <Requirement1>Skill,Painting,3,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_Artistry3</GUID>
-  <Requirement1>Skill,Painting,6,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_Artistry4</GUID>
-  <Requirement1>Skill,Painting,8,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>BusinessCareer_DeliverDossier1</GUID>
@@ -11001,11 +11001,11 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_Blowfish</GUID>
-  <Requirement1>Skill,Fishing,5,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_ExcellentIng</GUID>
-  <Requirement1>Skill,Gardening,5,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MedicalCareer_Lice</GUID>
@@ -11028,19 +11028,19 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_UseExcellentIng</GUID>
-  <Requirement1>Skill,Cooking,6,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_BringFish</GUID>
-  <Requirement1>Skill,Fishing,6,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_CaterParty</GUID>
-  <Requirement1>Skill,Cooking,4,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_Ambrosia</GUID>
-  <Requirement1>Skill,Cooking,8,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CulinaryCareer_PartyHelp</GUID>
@@ -11054,11 +11054,11 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Writing</GUID>
-  <Requirement1>Skill,Writing,1,2</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Charm</GUID>
-  <Requirement1>Skill,Charisma,1,2</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Date</GUID>
@@ -11073,7 +11073,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LawEnforcement_Athletics</GUID>
-  <Requirement1>Skill,Athletic,3,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LawEnforcement_Networking</GUID>
@@ -11081,7 +11081,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LawEnforcement_SpruceUp</GUID>
-  <Requirement1>Skill,Painting,3,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MedicalCareer_FriendUp</GUID>
@@ -11105,7 +11105,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MedicalCareer_BringDessert</GUID>
-  <Requirement1>Skill,Cooking,3,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>MedicalCareer_SaveLife</GUID>
@@ -11180,7 +11180,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PoliticalCareer_ShapeUp</GUID>
-  <Requirement1>Skill,Athletic,1,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PoliticalCareer_BadTies</GUID>
@@ -11188,7 +11188,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PoliticalCareer_Stunt</GUID>
-  <Requirement1>Skill,Guitar,6,10</Requirement1>
+  <Requirement1>Skill,Guitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -11300,27 +11300,27 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_AdvTraining</GUID>
-  <Requirement1>Skill,Athletic,8,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Adonis</GUID>
-  <Requirement1>Skill,Athletic,10,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Sweat</GUID>
-  <Requirement1>Skill,Athletic,3,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_SaveTime</GUID>
-  <Requirement1>Skill,Athletic,7,10</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Pumped</GUID>
-  <Requirement1>Skill,Athletic,3,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -11330,160 +11330,160 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Good</GUID>
-  <Requirement1>Skill,Athletic,1,8</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_GotWhatItTakes</GUID>
-  <Requirement1>Skill,Athletic,1,5</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
   <Requirement3>NotInCareer,ProfessionalSports</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>AthleticSkill_Limit</GUID>
-  <Requirement1>Skill,Athletic,1,9</Requirement1>
+  <Requirement1>Skill,Athletic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_MakingFriends</GUID>
-  <Requirement1>Skill,Charisma,2,10</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_MoreSkill</GUID>
-  <Requirement1>Skill,Charisma,2,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_PublicSpeaking</GUID>
-  <Requirement1>Skill,Charisma,5,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_BusinessClass</GUID>
-  <Requirement1>Skill,Charisma,3,7</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_ProperNegotiation</GUID>
-  <Requirement1>Skill,Charisma,4,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_BestFriends</GUID>
-  <Requirement1>Skill,Charisma,5,10</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_Experiment</GUID>
-  <Requirement1>Skill,Charisma,4,9</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CharismaSkill_HostageCrisis</GUID>
-  <Requirement1>Skill,Charisma,10,10</Requirement1>
+  <Requirement1>Skill,Charisma,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillCheesesteaks</GUID>
-  <Requirement1>Skill,Cooking,5,5</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,Cheesesteak</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillBurgers</GUID>
-  <Requirement1>Skill,Cooking,6,7</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,Hamburger</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillSalmon</GUID>
-  <Requirement1>Skill,Cooking,8,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,GrilledSalmon</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GrillTriTip</GUID>
-  <Requirement1>Skill,Cooking,8,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>KnowsRecipe,TriTipSteak</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_ExcellentFood</GUID>
-  <Requirement1>Skill,Cooking,6,7</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_GreatFood</GUID>
-  <Requirement1>Skill,Cooking,5,5</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_NiceFood</GUID>
-  <Requirement1>Skill,Cooking,3,3</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_OutstandingGood</GUID>
-  <Requirement1>Skill,Cooking,8,9</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_PerfectFood</GUID>
-  <Requirement1>Skill,Cooking,10,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_VeryNiceFood</GUID>
-  <Requirement1>Skill,Cooking,4,4</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_BakeSale</GUID>
-  <Requirement1>Skill,Cooking,3,6</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_Advise</GUID>
-  <Requirement1>Skill,Cooking,4,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
   <Requirement3>WorldHasSimInCareer,Culinary</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Concept</GUID>
-  <Requirement1>Skill,Writing,2,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_SaveCompany</GUID>
-  <Requirement1>Skill,Writing,8,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_FreeTime</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_GreatArticle</GUID>
-  <Requirement1>Skill,Writing,6,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_HelpCompetition</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>JournalismCareer_Coworker</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasInvitableCoworker,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_Share</GUID>
-  <Requirement1>Skill,Cooking,4,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasSimInCareer,Culinary</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>CookingSkill_Support</GUID>
-  <Requirement1>Skill,Cooking,6,10</Requirement1>
+  <Requirement1>Skill,Cooking,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -11493,309 +11493,309 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_LargeCatch</GUID>
-  <Requirement1>Skill,Fishing,7,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_SmallCatch</GUID>
-  <Requirement1>Skill,Fishing,1,4</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_MediumCatch</GUID>
-  <Requirement1>Skill,Fishing,4,6</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_Clownfish</GUID>
-  <Requirement1>Skill,Fishing,5,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_BlackGoldfish</GUID>
-  <Requirement1>Skill,Fishing,7,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_FishingCompetition</GUID>
-  <Requirement1>Skill,Fishing,5,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_FishingPrep</GUID>
-  <Requirement1>Skill,Fishing,6,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_SomethingStuck</GUID>
-  <Requirement1>Skill,Fishing,3,9</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_Lobster</GUID>
-  <Requirement1>Skill,Fishing,10,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_Behemoth</GUID>
-  <Requirement1>Skill,Fishing,10,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_ToCatchADeathFish</GUID>
-  <Requirement1>Skill,Fishing,10,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>FishingSkill_ToCatchARobotFish</GUID>
-  <Requirement1>Skill,Fishing,10,10</Requirement1>
+  <Requirement1>Skill,Fishing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hospital</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_BountifulHarvest</GUID>
-  <Requirement1>Skill,Gardening,8,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_ExcellentHarvest</GUID>
-  <Requirement1>Skill,Gardening,6,9</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_GreatHarvest</GUID>
-  <Requirement1>Skill,Gardening,5,8</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_NiceHarvest</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_OutstandingHarvest</GUID>
-  <Requirement1>Skill,Gardening,6,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_PerfectHarvest</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_VeryNiceHarvest</GUID>
-  <Requirement1>Skill,Gardening,3,6</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Garlic</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Grapes</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Lettuce</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Lime</GUID>
-  <Requirement1>Skill,Gardening,5,8</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Onion</GUID>
-  <Requirement1>Skill,Gardening,5,8</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Pepper</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Potato</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Tomato</GUID>
-  <Requirement1>Skill,Gardening,2,4</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Watermelon</GUID>
-  <Requirement1>Skill,Gardening,5,8</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_BagDelivery</GUID>
-  <Requirement1>Skill,Gardening,7,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Party</GUID>
-  <Requirement1>Skill,Gardening,8,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_Insurance</GUID>
-  <Requirement1>Skill,Gardening,8,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_FixRestaurant</GUID>
-  <Requirement1>Skill,Handiness,2,6</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_FixPolice</GUID>
-  <Requirement1>Skill,Handiness,4,8</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_FixCityHall</GUID>
-  <Requirement1>Skill,Handiness,6,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_LabCrisis</GUID>
-  <Requirement1>Skill,Handiness,10,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_RepairMyThing2</GUID>
-  <Requirement1>Skill,Handiness,3,7</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_RepairMyThing3</GUID>
-  <Requirement1>Skill,Handiness,8,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_ConvinceSim</GUID>
-  <Requirement1>Skill,Handiness,3,6</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_TeachClass</GUID>
-  <Requirement1>Skill,Handiness,5,9</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_MilitaryInstruction</GUID>
-  <Requirement1>Skill,Handiness,7,10</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MilitaryBase</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>HandinessSkill_Upgrade2</GUID>
-  <Requirement1>Skill,Handiness,5,9</Requirement1>
+  <Requirement1>Skill,Handiness,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_LogicClass</GUID>
-  <Requirement1>Skill,Logic,5,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_BookBalancing</GUID>
-  <Requirement1>Skill,Logic,3,8</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_WatchChessChampion</GUID>
-  <Requirement1>Skill,Logic,1,5</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_RiddleMatch</GUID>
-  <Requirement1>Skill,Logic,2,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_BeatChessMaster</GUID>
-  <Requirement1>Skill,Logic,10,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_GetBetter</GUID>
-  <Requirement1>Skill,Logic,2,8</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_PuzzlePanic</GUID>
-  <Requirement1>Skill,Logic,3,7</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_Experiments</GUID>
-  <Requirement1>Skill,Logic,4,10</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>LogicSkill_ConvinceSim</GUID>
-  <Requirement1>Skill,Logic,3,9</Requirement1>
+  <Requirement1>Skill,Logic,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_BusProp2</GUID>
-  <Requirement1>Skill,Painting,7,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_BusProp3</GUID>
-  <Requirement1>Skill,Painting,9,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_BusProp4</GUID>
-  <Requirement1>Skill,Painting,8,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_DeliverLargePainting</GUID>
-  <Requirement1>Skill,Painting,6,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_DeliverMediumPainting</GUID>
-  <Requirement1>Skill,Painting,5,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_ForChildren</GUID>
-  <Requirement1>Skill,Painting,2,8</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_Session</GUID>
-  <Requirement1>Skill,Painting,10,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>PaintingSkill_Summit</GUID>
-  <Requirement1>Skill,Painting,2,10</Requirement1>
+  <Requirement1>Skill,Painting,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Drama</GUID>
-  <Requirement1>Skill,Writing,3,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Drama</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_SciFi</GUID>
-  <Requirement1>Skill,Writing,4,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,SciFi</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Fantasy</GUID>
-  <Requirement1>Skill,Writing,4,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Fantasy</Requirement3>
 </OpportunitiesRequirements>
@@ -11806,45 +11806,45 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Satire</GUID>
-  <Requirement1>Skill,Writing,5,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Satire</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Historical</GUID>
-  <Requirement1>Skill,Writing,6,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>IsElder</Requirement2>
   <Requirement3>HasAcquaintanceOrHigher</Requirement3>
   <Requirement4>CanWriteGenre,Historical</Requirement4>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Vaudeville</GUID>
-  <Requirement1>Skill,Writing,7,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Vaudeville</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Autobiography</GUID>
-  <Requirement1>Skill,Writing,5,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Autobiography</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Masterpiece</GUID>
-  <Requirement1>Skill,Writing,10,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>CanWriteGenre,Masterpiece</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_Novelist</GUID>
-  <Requirement1>Skill,Writing,7,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
   <Requirement3>OpportunityComplete,WritingSkill_MakeALiving</Requirement3>
   <Requirement4>HasAcquaintanceOrHigher</Requirement4>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>WritingSkill_GreatWorks</GUID>
-  <Requirement1>Skill,Writing,9,10</Requirement1>
+  <Requirement1>Skill,Writing,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
   <Requirement3>OpportunityComplete,WritingSkill_Novelist</Requirement3>
   <Requirement4>HasAcquaintanceOrHigher</Requirement4>
@@ -11873,18 +11873,18 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_SpecialPlants1</GUID>
-  <Requirement1>Skill,Gardening,8,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_SpecialPlants2</GUID>
-  <Requirement1>Skill,Gardening,9,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>OpportunityComplete,GardeningSkill_SpecialPlants1</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>GardeningSkill_SpecialPlants3</GUID>
-  <Requirement1>Skill,Gardening,10,10</Requirement1>
+  <Requirement1>Skill,Gardening,1,10</Requirement1>
   <Requirement2>OpportunityComplete,GardeningSkill_SpecialPlants2</Requirement2>
   <Requirement3>WorldHasRabbitHoleType,Restaurant</Requirement3>
 </OpportunitiesRequirements>

@@ -699,17 +699,17 @@
 <OpportunitiesRequirements>
   <GUID>EP7_AlchemicMastery_1</GUID>
   <Requirement1>WorldHasRabbitHoleType,ScienceLab</Requirement1>
-  <Requirement2>Skill,Spellcraft,10,10</Requirement2>
+  <Requirement2>Skill,Spellcraft,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP7_AlchemicMastery_2</GUID>
   <Requirement1>WorldHasRabbitHoleType,Arboretum</Requirement1>
-  <Requirement2>Skill,Spellcraft,10,10</Requirement2>
+  <Requirement2>Skill,Spellcraft,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP7_AlchemicMastery_3</GUID>
   <Requirement1>WorldHasRabbitHoleType,VaultOfAntiquity</Requirement1>
-  <Requirement2>Skill,Spellcraft,10,10</Requirement2>
+  <Requirement2>Skill,Spellcraft,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesCompletion>
   <GUID></GUID>

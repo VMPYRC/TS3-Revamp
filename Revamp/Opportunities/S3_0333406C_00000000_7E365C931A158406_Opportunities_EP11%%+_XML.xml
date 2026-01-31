@@ -2242,47 +2242,47 @@
   <GUID>EP11_Skill_BotBuilding01</GUID>
   <Requirement1>HasAcquaintanceOrHigher</Requirement1>
   <Requirement2>HasTimeTraveler,1</Requirement2>
-  <Requirement3>Skill,BotBuilding,5,10</Requirement3>
+  <Requirement3>Skill,BotBuilding,1,10</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_BotBuilding02</GUID>
   <Requirement1>WorldHasRabbitHoleType,ServoBotArena</Requirement1>
-  <Requirement2>Skill,BotBuilding,5,10</Requirement2>
+  <Requirement2>Skill,BotBuilding,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_BotBuilding03</GUID>
   <Requirement1>WorldHasRabbitHoleType,CityHall</Requirement1>
-  <Requirement2>Skill,BotBuilding,5,10</Requirement2>
+  <Requirement2>Skill,BotBuilding,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_BotBuilding04</GUID>
   <Requirement1>WorldHasRabbitHoleType,ServoBotArena</Requirement1>
-  <Requirement2>Skill,BotBuilding,5,10</Requirement2>
+  <Requirement2>Skill,BotBuilding,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp01</GUID>
   <Requirement1>WorldHasRabbitHoleType,Theatre</Requirement1>
   <Requirement2>IsInFuture</Requirement2>
-  <Requirement3>Skill,LaserHarp,5,10</Requirement3>
+  <Requirement3>Skill,LaserHarp,1,10</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp02</GUID>
   <Requirement1>WorldHasRabbitHoleType,Restaurant</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp03</GUID>
   <Requirement1>WorldHasRabbitHoleType,ServoBotArena</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp04</GUID>
-  <Requirement1>Skill,LaserHarp,5,10</Requirement1>
+  <Requirement1>Skill,LaserHarp,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Skill_Harp05</GUID>
   <Requirement1>CanLearnHarpSong</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future01</GUID>
@@ -2292,32 +2292,32 @@
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future02</GUID>
   <Requirement1>WorldHasRabbitHoleType,StellarObservatory</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future03</GUID>
   <Requirement1>WorldHasRabbitHoleType,CityHall</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future04</GUID>
   <Requirement1>WorldHasRabbitHoleType,MilitaryBase</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future05</GUID>
   <Requirement1>WorldHasRabbitHoleType,ScienceLab</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future06</GUID>
   <Requirement1>WorldHasRabbitHoleType,Theatre</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Misc_Future07</GUID>
   <Requirement1>WorldHasRabbitHoleType,Stadium</Requirement1>
-  <Requirement2>Skill,LaserHarp,5,10</Requirement2>
+  <Requirement2>Skill,LaserHarp,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Career_ServoBotArena01</GUID>
@@ -2359,7 +2359,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_Career_StellerObservatory05</GUID>
-  <Requirement1>Career,Astronomer,10,10</Requirement1>
+  <Requirement1>Career,Astronomer,1,10</Requirement1>
   <Requirement2>IsSpaceExplorer</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -2418,7 +2418,7 @@
 <OpportunitiesRequirements>
   <GUID>EP11_StoryArc_Bots02</GUID>
   <Requirement1>HasTimeTraveler,1</Requirement1>
-  <Requirement2>Skill,BotBuilding,3,10</Requirement2>
+  <Requirement2>Skill,BotBuilding,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP11_StoryArc_Bots03</GUID>
@@ -2761,6 +2761,7 @@
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future01</GUID>
   <CompletionWinReward1>SkillPercentage,BotBuilding,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future02</GUID>

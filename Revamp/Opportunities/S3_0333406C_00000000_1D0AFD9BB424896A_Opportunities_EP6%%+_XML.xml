@@ -2228,32 +2228,32 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_PerformedForTips</GUID>
-  <Requirement1>Career,SingerCareer,2,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLot</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_CompletedGig_Park</GUID>
-  <Requirement1>Career,SingerCareer,2,5</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,BigPark</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_CompletedGig_Bistro</GUID>
-  <Requirement1>Career,SingerCareer,3,7</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_CompletedGig_Hangout</GUID>
-  <Requirement1>Career,SingerCareer,5,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,PerformanceClub</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_CompletedGig_Private</GUID>
-  <Requirement1>Career,SingerCareer,7,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,PrivateVenue</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_CompletedGig_BigShow</GUID>
-  <Requirement1>Career,SingerCareer,9,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,BigShow</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -2263,54 +2263,54 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_DJTurntable_CompletedMiniShow_Bistro</GUID>
-  <Requirement1>Skill,DJTurntable,2,5</Requirement1>
+  <Requirement1>Skill,DJTurntable,1,5</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_DJTurntable_CompletedMiniShow_Hangout</GUID>
-  <Requirement1>Skill,DJTurntable,3,5</Requirement1>
+  <Requirement1>Skill,DJTurntable,1,5</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,PerformanceClub</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_DJTurntable_CompletedMiniShow_Private</GUID>
-  <Requirement1>Skill,DJTurntable,4,5</Requirement1>
+  <Requirement1>Skill,DJTurntable,1,5</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,PrivateVenue</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendSinger_Low</GUID>
-  <Requirement1>Career,SingerCareer,2,4</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendSinger_Mid</GUID>
-  <Requirement1>Career,SingerCareer,5,8</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendSinger_High</GUID>
-  <Requirement1>Career,SingerCareer,9,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendMagician_Low</GUID>
-  <Requirement1>Career,MagicianCareer,2,4</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendMagician_Mid</GUID>
-  <Requirement1>Career,MagicianCareer,5,8</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendMagician_High</GUID>
-  <Requirement1>Career,MagicianCareer,9,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendPerformanceArtist_Low</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,2,4</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendPerformanceArtist_Mid</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,5,8</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_SendPerformanceArtist_High</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,9,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Passport_Host_Park</GUID>
@@ -2334,82 +2334,82 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_ImproveLungFunction_Gym</GUID>
-  <Requirement1>Career,SingerCareer,2,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotType,Gym</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_VocalArtTips_ArtMuseum</GUID>
-  <Requirement1>Career,SingerCareer,3,6</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotType,ArtGallery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_SingForSupper_Restaurant</GUID>
-  <Requirement1>Career,SingerCareer,1,3</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_BrowseBookstore_Bookstore</GUID>
-  <Requirement1>Career,SingerCareer,2,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_DoASingALong_School</GUID>
-  <Requirement1>Career,SingerCareer,3,6</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_SingTeamBuilding_BussinessCenter</GUID>
-  <Requirement1>Career,SingerCareer,4,7</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_PerformForSickSims_Hospital</GUID>
-  <Requirement1>Career,SingerCareer,4,8</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hospital</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_RecordDemoCD_Theatre</GUID>
-  <Requirement1>Career,SingerCareer,5,8</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_RelaxVocalChords_Spa</GUID>
-  <Requirement1>Career,SingerCareer,6,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,DaySpa</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_SingAtBigBossBirthday_Criminal</GUID>
-  <Requirement1>Career,SingerCareer,5,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hideout</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_SingNationalAnthem_CityHall</GUID>
-  <Requirement1>Career,SingerCareer,7,8</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_ParticipateInExperiment_Science</GUID>
-  <Requirement1>Career,SingerCareer,8,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_SingNationalAnthem_MilitaryBase</GUID>
-  <Requirement1>Career,SingerCareer,9,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MilitaryBase</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_CareerSinger_SingNationalAnthem_Stadium</GUID>
-  <Requirement1>Career,SingerCareer,10,10</Requirement1>
+  <Requirement1>Career,SingerCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_LibraryTips_Library</GUID>
-  <Requirement1>Career,MagicianCareer,2,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotType,Library</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_MagicalArtTips_ArtMuseum</GUID>
-  <Requirement1>Career,MagicianCareer,3,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotType,ArtGallery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -2419,82 +2419,82 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_TeachMagicTricks_School</GUID>
-  <Requirement1>Career,MagicianCareer,3,5</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_PerformForSickSims_Hospital</GUID>
-  <Requirement1>Career,MagicianCareer,4,6</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hospital</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_TeachPickPocket_Criminal</GUID>
-  <Requirement1>Career,MagicianCareer,5,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hideout</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_PromoteFilmRelease_Theatre</GUID>
-  <Requirement1>Career,MagicianCareer,6,8</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_SpotPickPocket_Police</GUID>
-  <Requirement1>Career,MagicianCareer,7,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_ParticipateInExperiment_Science</GUID>
-  <Requirement1>Career,MagicianCareer,8,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_TeachMindControl_CityHall</GUID>
-  <Requirement1>Career,MagicianCareer,9,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_EntertainTroops_MilitaryBase</GUID>
-  <Requirement1>Career,MagicianCareer,10,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MilitaryBase</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_PerformForTips</GUID>
-  <Requirement1>Career,MagicianCareer,1,4</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLot</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_CompletedGig_Park</GUID>
-  <Requirement1>Career,MagicianCareer,2,5</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,BigPark</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_CompletedGig_Bistro</GUID>
-  <Requirement1>Career,MagicianCareer,3,7</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_CompletedGig_PerformanceClub</GUID>
-  <Requirement1>Career,MagicianCareer,5,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,PerformanceClub</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_CompletedGig_Private</GUID>
-  <Requirement1>Career,MagicianCareer,7,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,PrivateVenue</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_Magician_CompletedGig_BigShow</GUID>
-  <Requirement1>Career,MagicianCareer,9,10</Requirement1>
+  <Requirement1>Career,MagicianCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,BigShow</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_WorkOut_Gym</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,2,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotType,Gym</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_ArtForTips_ArtMuseum</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,3,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotType,ArtGallery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -2504,82 +2504,82 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_AttendSeminar_BusinessCenter</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,2,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_PoseAsStatue_Restaurant</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,2,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_TeachJuggling_School</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,3,5</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_PerformForSale_GroceryStore</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,4,5</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Grocery</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_PerformForSickSims_Hospital</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,5,6</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hospital</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_SoakSoreMuscles_Spa</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,6,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,DaySpa</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_EscapeArtist_Criminal</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,7,8</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,PoliceStation</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_PromoteFilmRelease_Theatre</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,8,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_ParticipateInExperiment_Science</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,9,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_FillInForMascot_Stadium</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,10,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_PerformForTips</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,1,4</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLot</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_CompletedGig_Park</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,2,5</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,BigPark</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_CompletedGig_Bistro</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,3,7</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_CompletedGig_PerformanceClub</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,5,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,PerformanceClub</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_CompletedGig_Private</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,7,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,PrivateVenue</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP6_PerformanceArtist_CompletedGig_BigShow</GUID>
-  <Requirement1>Career,PerformanceArtistCareer,9,10</Requirement1>
+  <Requirement1>Career,PerformanceArtistCareer,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotTypeForGigWithProprietor,BigShow</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesCompletion>

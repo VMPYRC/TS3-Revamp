@@ -3178,76 +3178,76 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_CareerFilm_GainCelebrity</GUID>
-  <Requirement1>Celebrity,0,3</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_SchoolMusical</GUID>
-  <Requirement1>Skill,Piano,3,6</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_Hospital</GUID>
-  <Requirement1>Skill,Piano,2,4</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hospital</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_Gala</GUID>
-  <Requirement1>Skill,Piano,6,8</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MovieSet</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_OrganizeSheetMusic</GUID>
-  <Requirement1>Skill,Piano,5,10</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_PianoSkill_1</GUID>
-  <Requirement1>Skill,Piano,2,6</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_PianoSkill_2</GUID>
-  <Requirement1>Skill,Piano,2,6</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>OpportunityComplete,EP3_SkillPiano_PianoSkill_1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_FilmComposer_1</GUID>
-  <Requirement1>Skill,Piano,7,10</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MovieSet</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_FilmComposer_2</GUID>
-  <Requirement1>Skill,Piano,7,10</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MovieSet</Requirement2>
   <Requirement3>OpportunityComplete,EP3_SkillPiano_FilmComposer_1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_TipsOne</GUID>
-  <Requirement1>Skill,Piano,4,6</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_TipsSpecific</GUID>
-  <Requirement1>Skill,Piano,6,10</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_SeeMasterclass</GUID>
-  <Requirement1>Skill,Piano,2,7</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_Competition</GUID>
-  <Requirement1>Skill,Piano,2,10</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_GiveMasterclass</GUID>
-  <Requirement1>Skill,Piano,8,10</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillPiano_SportsEvent</GUID>
-  <Requirement1>Skill,Piano,9,10</Requirement1>
+  <Requirement1>Skill,Piano,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -3436,226 +3436,226 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_DanceAtClub</GUID>
-  <Requirement1>Celebrity,2,5</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasCommunityLotType,DanceClubLiveMusic,DanceClubPool,DanceClubRave</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_OrderSpecificDrink</GUID>
-  <Requirement1>Celebrity,2,5</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasCommunityLotType,CocktailLoungeCelebrity, CocktailLoungeAsian, CocktailLoungeVampire</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_BefriendCelebrity</GUID>
-  <Requirement1>Celebrity,2,3</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasCelebrityThatIsNotAFriend</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_RestaurantPromotion1</GUID>
-  <Requirement1>Celebrity,3,5</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_RestaurantPromotion2</GUID>
-  <Requirement1>Celebrity,3,5</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>OpportunityComplete,EP3_Celebrity_RestaurantPromotion1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_Workout</GUID>
-  <Requirement1>Celebrity,2,4</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_GoingCorporate</GUID>
-  <Requirement1>Celebrity,3,5</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_HospitalOpportunity</GUID>
-  <Requirement1>Celebrity,3,4</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Hospital</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_SchoolOpportunity</GUID>
-  <Requirement1>Celebrity,3,4</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,School</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_BookSigning</GUID>
-  <Requirement1>Celebrity,4,5</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_Cameo</GUID>
-  <Requirement1>Celebrity,4,5</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MovieSet</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_WritingEntry</GUID>
-  <Requirement1>Celebrity,0,0</Requirement1>
-  <Requirement2>Skill,Writing,5,10</Requirement2>
+  <Requirement1>Celebrity,0,5</Requirement1>
+  <Requirement2>Skill,Writing,1,10</Requirement2>
   <Requirement3>WorldHasCelebrityThatIsNotAFriend</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_PaintingEntry</GUID>
-  <Requirement1>Celebrity,0,0</Requirement1>
-  <Requirement2>Skill,Painting,5,10</Requirement2>
+  <Requirement1>Celebrity,0,5</Requirement1>
+  <Requirement2>Skill,Painting,1,10</Requirement2>
   <Requirement3>WorldHasCelebrityThatIsNotAFriend</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_CookingEntry</GUID>
-  <Requirement1>Celebrity,0,0</Requirement1>
-  <Requirement2>Skill,Cooking,5,10</Requirement2>
+  <Requirement1>Celebrity,0,5</Requirement1>
+  <Requirement2>Skill,Cooking,1,10</Requirement2>
   <Requirement3>WorldHasCelebrityThatIsNotAFriend</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_FishingEntry</GUID>
-  <Requirement1>Celebrity,0,0</Requirement1>
-  <Requirement2>Skill,Fishing,5,10</Requirement2>
+  <Requirement1>Celebrity,0,5</Requirement1>
+  <Requirement2>Skill,Fishing,1,10</Requirement2>
   <Requirement3>WorldHasCelebrityThatIsNotAFriend</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_GardeningEntry</GUID>
-  <Requirement1>Celebrity,0,0</Requirement1>
-  <Requirement2>Skill,Gardening,5,10</Requirement2>
+  <Requirement1>Celebrity,0,5</Requirement1>
+  <Requirement2>Skill,Gardening,1,10</Requirement2>
   <Requirement3>WorldHasCelebrityThatIsNotAFriend</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_RobotScience</GUID>
-  <Requirement1>Skill,Drums,2,3</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_DrummingScience</GUID>
-  <Requirement1>Skill,Drums,2,3</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_MilitaryDrums</GUID>
-  <Requirement1>Skill,Drums,2,4</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MilitaryBase</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_Poetry</GUID>
-  <Requirement1>Skill,Drums,5,10</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_TipsOne</GUID>
-  <Requirement1>Skill,Drums,4,6</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_TipsSpecific</GUID>
-  <Requirement1>Skill,Drums,6,10</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_LateNight</GUID>
-  <Requirement1>Skill,Drums,6,8</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MovieSet</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_DrumSkill_1</GUID>
-  <Requirement1>Skill,Drums,2,6</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_DrumSkill_2</GUID>
-  <Requirement1>Skill,Drums,2,6</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
   <Requirement3>OpportunityComplete,EP3_SkillDrums_DrumSkill_1</Requirement3>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_Landmarks</GUID>
-  <Requirement1>Skill,Drums,3,5</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_ComedyRimshots</GUID>
-  <Requirement1>Skill,Drums,5,8</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_FillIn</GUID>
-  <Requirement1>Skill,Drums,7,10</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_SpaParty</GUID>
-  <Requirement1>Skill,Drums,2,4</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,DaySpa</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillDrums_UndergroundParty</GUID>
-  <Requirement1>Skill,Drums,2,4</Requirement1>
+  <Requirement1>Skill,Drums,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Subway</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_MovieScore</GUID>
-  <Requirement1>Skill,BassGuitar,8,10</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MovieSet</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_OrganizeSheetMusic</GUID>
-  <Requirement1>Skill,BassGuitar,5,10</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Bookstore</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_SingAlong</GUID>
-  <Requirement1>Skill,BassGuitar,3,6</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_Aliens</GUID>
-  <Requirement1>Skill,BassGuitar,2,4</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,ScienceLab</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_FillIn</GUID>
-  <Requirement1>Skill,BassGuitar,7,10</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_Marathon</GUID>
-  <Requirement1>Skill,BassGuitar,3,6</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Stadium</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_Sitcom</GUID>
-  <Requirement1>Skill,BassGuitar,6,8</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MovieSet</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_SeeMasterclass</GUID>
-  <Requirement1>Skill,BassGuitar,2,7</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_SpaFlood</GUID>
-  <Requirement1>Skill,BassGuitar,2,4</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,DaySpa</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_CorporateParty</GUID>
-  <Requirement1>Skill,BassGuitar,4,7</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_PoliticalDebate</GUID>
-  <Requirement1>Skill,BassGuitar,2,4</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_TipsOne</GUID>
-  <Requirement1>Skill,BassGuitar,4,6</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBass_TipsSpecific</GUID>
-  <Requirement1>Skill,BassGuitar,6,10</Requirement1>
+  <Requirement1>Skill,BassGuitar,1,10</Requirement1>
   <Requirement2>HasStrangers,1</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_Celebrity_TheaterOpportunity</GUID>
-  <Requirement1>Celebrity,4,5</Requirement1>
+  <Requirement1>Celebrity,0,5</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
@@ -3665,12 +3665,12 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_TheatreMixer</GUID>
-  <Requirement1>Skill,Bartending,1,9</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Theatre</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_CheapBartend</GUID>
-  <Requirement1>Skill,Bartending,2,6</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasCommunityLotType,DiveBarSports,DiveBarIrish,DiveBarCriminal</Requirement3>
 </OpportunitiesRequirements>
@@ -3680,7 +3680,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_ClubBartend</GUID>
-  <Requirement1>Skill,Bartending,5,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasCommunityLotType,DanceClubLiveMusic,DanceClubPool,DanceClubRave</Requirement3>
 </OpportunitiesRequirements>
@@ -3690,7 +3690,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_LoungeBartend</GUID>
-  <Requirement1>Skill,Bartending,8,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>WorldHasCommunityLotType,CocktailLoungeAsian,CocktailLoungeCelebrity,CocktailLoungeVampire</Requirement3>
 </OpportunitiesRequirements>
@@ -3700,12 +3700,12 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_DrinkCreation</GUID>
-  <Requirement1>Skill,Bartending,6,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_NameDrink</GUID>
-  <Requirement1>Skill,Bartending,8,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
   <Requirement3>HasStrangers,1</Requirement3>
 </OpportunitiesRequirements>
@@ -3715,37 +3715,37 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_BartendingSchool</GUID>
-  <Requirement1>Skill,Bartending,3,7</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_TipMaster</GUID>
-  <Requirement1>Skill,Bartending,6,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,Restaurant,Bistro</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_Hangout</GUID>
-  <Requirement1>Skill,Bartending,4,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>WorldHasCommunityLotType,Hangout</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_MasterBook</GUID>
-  <Requirement1>Skill,Bartending,3,8</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>HasAcquaintanceOrHigher</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_BigParty</GUID>
-  <Requirement1>Skill,Bartending,4,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,BusinessAndJournalism</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_ShipParty</GUID>
-  <Requirement1>Skill,Bartending,6,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,MovieSet</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP3_SkillBartending_GalaEvent</GUID>
-  <Requirement1>Skill,Bartending,8,10</Requirement1>
+  <Requirement1>Skill,Bartending,1,10</Requirement1>
   <Requirement2>WorldHasRabbitHoleType,CityHall</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesCompletion>

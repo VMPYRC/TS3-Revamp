@@ -5619,7 +5619,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_CommisionedTag</GUID>
-  <Requirement1>Skill,StreetArt,10,10</Requirement1>
+  <Requirement1>Skill,StreetArt,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_DayJob_DonateExtraOrgan</GUID>
@@ -5895,23 +5895,23 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_SpeakAtPressConferenceEvent</GUID>
-  <Requirement1>Career,SportsAgent,5,10</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_HostACharityGame</GUID>
-  <Requirement1>Career,SportsAgent,6,10</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_RunMarketingCampaign</GUID>
-  <Requirement1>Career,SportsAgent,7,10</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_InterviewAfterAGame</GUID>
-  <Requirement1>Career,SportsAgent,8,10</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SportsAgentCareer_StayLate</GUID>
-  <Requirement1>Career,SportsAgent,1,6</Requirement1>
+  <Requirement1>Career,SportsAgent,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_Professor_ExtraCredit</GUID>
@@ -5935,7 +5935,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_Science_02</GUID>
   <Requirement1>InMajor,Science,0,9</Requirement1>
-  <Requirement2>Skill,Science,8,10</Requirement2>
+  <Requirement2>Skill,Science,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_Science_03</GUID>
@@ -6169,7 +6169,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_02</GUID>
   <Requirement1>InMajor,FineArts,0,9</Requirement1>
-  <Requirement2>Skill,Painting,5,10</Requirement2>
+  <Requirement2>Skill,Painting,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_04</GUID>
@@ -6182,7 +6182,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_06</GUID>
   <Requirement1>InMajor,FineArts,0,9</Requirement1>
-  <Requirement2>Skill,Painting,6,10</Requirement2>
+  <Requirement2>Skill,Painting,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_07</GUID>
@@ -6196,7 +6196,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_09</GUID>
   <Requirement1>InMajor,FineArts,0,9</Requirement1>
-  <Requirement2>Skill,Guitar,5,10</Requirement2>
+  <Requirement2>Skill,Guitar,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_Academics_FineArts_10</GUID>
@@ -6350,7 +6350,7 @@
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_DNACollection</GUID>
   <Requirement1>Skill,InfluenceNerd,1,10</Requirement1>
-  <Requirement2>Skill,Science,8,10</Requirement2>
+  <Requirement2>Skill,Science,1,10</Requirement2>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_ActivateGroupScience</GUID>
@@ -6366,7 +6366,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_VideoGameTournament</GUID>
-  <Requirement1>Skill,InfluenceNerd,5,10</Requirement1>
+  <Requirement1>Skill,InfluenceNerd,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_LaptopGaming</GUID>
@@ -6385,7 +6385,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Nerd_MeetingOfMinds</GUID>
-  <Requirement1>Skill,InfluenceNerd,5,10</Requirement1>
+  <Requirement1>Skill,InfluenceNerd,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Rebel_GraphicIntentions</GUID>
@@ -6411,7 +6411,7 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Rebel_PodiumPublicProtest</GUID>
-  <Requirement1>Skill,InfluenceRebel,5,10</Requirement1>
+  <Requirement1>Skill,InfluenceRebel,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Rebel_ForeignFilmScreening</GUID>
@@ -6422,15 +6422,15 @@
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Jock_HostJuiceKeggerParty</GUID>
-  <Requirement1>Skill,InfluenceSocialite,2,10</Requirement1>
+  <Requirement1>Skill,InfluenceSocialite,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Jock_HostBonfireParty</GUID>
-  <Requirement1>Skill,InfluenceSocialite,4,10</Requirement1>
+  <Requirement1>Skill,InfluenceSocialite,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Jock_RentAPartyForCharity</GUID>
-  <Requirement1>Skill,InfluenceSocialite,6,10</Requirement1>
+  <Requirement1>Skill,InfluenceSocialite,1,10</Requirement1>
 </OpportunitiesRequirements>
 <OpportunitiesRequirements>
   <GUID>EP9_SocialGroup_Jock_BowlExtravaganza</GUID>
