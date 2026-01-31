@@ -2405,7 +2405,7 @@
   <Stats>Landmarks</Stats>
   <NameKey>TheatreName</NameKey>
   <Method>AnyOfTheseObjects</Method>
-  <Arg0>RabbitHoles.Theatre</Arg0>
+  <Arg0>Theatre</Arg0>
   <Arg1>)</Arg1>
  </Subjects>
 <Subjects>
