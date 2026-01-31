@@ -58,7 +58,7 @@
     <kForceFieldFadeInTime value="1">
       <!--Time, in real-life seconds, over which the Force Field will fade in (or out)-->
     </kForceFieldFadeInTime>
-    <kMaxNumberOfDreamsPerFutureLevel value="40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40">
+    <kMaxNumberOfDreamsPerFutureLevel value="100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100">
       <!--Description:  The max number of dreams available to a Sim at specific future skill levels.-->
     </kMaxNumberOfDreamsPerFutureLevel>
     <kVerticalOffsetOfDreamBalloon value="-0.45">
