@@ -98,11 +98,11 @@
     <kMainHeightDampingConstant value="10">
       <!--Damping constant for the spring used to smooth out camera's vertical motion-->
     </kMainHeightDampingConstant>
-    <kMainMaxAngleUp1 value="0">
+    <kMainMaxAngleUp1 value="85">
       <!--This defines how far up the camera can look at the minimum zoom distance-->
     </kMainMaxAngleUp1>
-    <kMainMaxAngleUp2 value="0" />
-    <kMainMaxAngleUp3 value="0">
+    <kMainMaxAngleUp2 value="85" />
+    <kMainMaxAngleUp3 value="85">
       <!--This defines how far up the camera can look at the maximum regular zoom distance-->
     </kMainMaxAngleUp3>
     <kMainMaxAngleUp4 value="-55">
