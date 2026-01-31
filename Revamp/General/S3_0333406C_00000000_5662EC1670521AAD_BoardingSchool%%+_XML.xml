@@ -38,10 +38,10 @@
   <GUID>Prep</GUID>
   <Name>PrepName</Name>
   <Cost>1600</Cost>
-  <SchoolTraits>Ambitious,Snob,Charismatic</SchoolTraits>
-  <OffensiveTraits>CouchPotato,Slob,EasilyImpressed,Inappropriate,Rebellious</OffensiveTraits>
-  <LearnableSkills>Logic,Writing,Charisma,Chess,Homework</LearnableSkills>
-  <RecommendedOccupations>Business,Political,Medical,Journalism,Writer</RecommendedOccupations>
+  <SchoolTraits>Ambitious,BookWorm,Charismatic,Genius,Perfectionist,Proper,Schmoozer,Snob</SchoolTraits>
+  <OffensiveTraits>CouchPotato,EasilyImpressed,Inappropriate,Rebellious,Slob</OffensiveTraits>
+  <LearnableSkills>Charisma,Chess,Golfing,Homework,Logic,SocialNetworking,Writing</LearnableSkills>
+  <RecommendedOccupations>Business,Education,Journalism,Medical,Political,Writer</RecommendedOccupations>
   <CarType>Limo</CarType>
   <BuffOrigin>FromBoardingSchoolPrep</BuffOrigin>
   <ConfirmationText>PrepConfirmation</ConfirmationText>
@@ -65,10 +65,10 @@
   <GUID>Military</GUID>
   <Name>MilitaryName</Name>
   <Cost>800</Cost>
-  <SchoolTraits>Neat,Handy,Good,Brave,Disciplined</SchoolTraits>
-  <OffensiveTraits>Loser,Slob,CouchPotato,OverEmotional,Clumsy,Insane,PartyAnimal,Inappropriate,Rebellious</OffensiveTraits>
-  <LearnableSkills>Homework,Logic,Athletic,MartialArts,Handiness</LearnableSkills>
-  <RecommendedOccupations>Firefighter,Military,LawEnforcement, Criminal</RecommendedOccupations>
+  <SchoolTraits>Brave,ComputerWhiz,Disciplined,Good,Handy,Neat</SchoolTraits>
+  <OffensiveTraits>Clumsy,CouchPotato,Inappropriate,Insane,Loser,OverEmotional,PartyAnimal,Rebellious,Slob</OffensiveTraits>
+  <LearnableSkills>Athletic,Handiness,Homework,Inventing,Logic,MartialArts,ScubaDiving</LearnableSkills>
+  <RecommendedOccupations>Criminal,Firefighter,Inventor,LawEnforcement,Lifeguard,Military,PrivateEye,ScubaDiver</RecommendedOccupations>
   <BuffOrigin>FromBoardingSchoolMilitary</BuffOrigin>
   <ConfirmationText>MilitaryConfirmation</ConfirmationText>
   <ContinueEnrollmentText>MilitaryContinueEnrollment</ContinueEnrollmentText>
@@ -89,10 +89,10 @@
   <GUID>Art</GUID>
   <Name>ArtName</Name>
   <Cost>1200</Cost>
-  <SchoolTraits>Virtuoso,Artistic,Dramatic,Charismatic,PhotographersEye,Xfactor</SchoolTraits>
+  <SchoolTraits>Artistic,AvantGarde,Charismatic,Dramatic,PhotographersEye,SavvySculptor,Virtuoso,Xfactor</SchoolTraits>
   <OffensiveTraits>CantStandArt,CouchPotato</OffensiveTraits>
-  <LearnableSkills>Dancing,ClubDancing,Piano,BassGuitar,Guitar,Drums,Painting,Charisma,Sculpting,Photography</LearnableSkills>
-  <RecommendedOccupations>Music,Stylist,InteriorDesigner,NectarMaker,Painter,Photographer,Sculptor,Writer,Film,PTFilm</RecommendedOccupations>
+  <LearnableSkills>BassGuitar,Charisma,ClubDancing,Dancing,DJTurntable,Drums,Guitar,Painting,Photography,Piano,Sculpting,StreetArt</LearnableSkills>
+  <RecommendedOccupations>ArtAppraiser,Film,InteriorDesigner,Music,Painter,Photographer,PTFilm,Sculptor,Stylist,Writer</RecommendedOccupations>
   <BuffOrigin>FromBoardingSchoolArt</BuffOrigin>
   <ConfirmationText>ArtConfirmation</ConfirmationText>
   <ContinueEnrollmentText>ArtContinueEnrollment</ContinueEnrollmentText>
@@ -115,10 +115,10 @@
   <GUID>Hippy</GUID>
   <Name>HippyName</Name>
   <Cost>800</Cost>
-  <SchoolTraits>LovesTheOutdoors,Artistic,GreenThumb,Vegetarian,EnvironmentallyConscious</SchoolTraits>
-  <OffensiveTraits>MeanSpirited,HatesOutdoors,Snob</OffensiveTraits>
-  <LearnableSkills>ChildCooking,Gardening,Cooking,Fishing,Inventing,Nectar</LearnableSkills>
-  <RecommendedOccupations>Science,Culinary,PTBookstoreClerk,Fisher,Gardener</RecommendedOccupations>
+  <SchoolTraits>Artistic,EnvironmentallyConscious,Good,GreenThumb,LovesTheOutdoors,Vegetarian</SchoolTraits>
+  <OffensiveTraits>Evil,HatesOutdoors,MeanSpirited,Snob</OffensiveTraits>
+  <LearnableSkills>ChildCooking,Cooking,Fishing,Gardening,Inventing,Nectar,Science</LearnableSkills>
+  <RecommendedOccupations>Culinary,Fisher,FortuneTellerCareer,Gardener,Inventor,NectarMaker,PTBookstoreClerk,PTDaySpaReceptionist,PTDaySpaSpecialist,PTGroceryStoreClerk,PTMausoleum,Science</RecommendedOccupations>
   <BuffOrigin>FromBoardingSchoolHippy</BuffOrigin>
   <ConfirmationText>HippyConfirmation</ConfirmationText>
   <ContinueEnrollmentText>HippyContinueEnrollment</ContinueEnrollmentText>
@@ -141,10 +141,10 @@
   <GUID>Sports</GUID>
   <Name>SportsName</Name>
   <Cost>1200</Cost>
-  <SchoolTraits>Athletic,LovesTheOutdoors,Handy,Adventurous,Disciplined</SchoolTraits>
-  <OffensiveTraits>Loser,Slob,CouchPotato,Clumsy,HatesOutdoors,Rebellious</OffensiveTraits>
-  <LearnableSkills>Athletic,Handiness,MartialArts,Foosball,Homework,Trampoline,Blocks</LearnableSkills>
-  <RecommendedOccupations>ProfessionalSports,LawEnforcement,Criminal,Firefighter</RecommendedOccupations>
+  <SchoolTraits>Adventurous,Athletic,Disciplined,Handy,LovesTheOutdoors</SchoolTraits>
+  <OffensiveTraits>Clumsy,CouchPotato,HatesOutdoors,Loser,Rebellious,Slob</OffensiveTraits>
+  <LearnableSkills>Athletic,Blocks,Bowling,Foosball,Handiness,Homework,MartialArts,PingPong,Skating,Snowboarding,Trampoline</LearnableSkills>
+  <RecommendedOccupations>Criminal,Firefighter,LawEnforcement,ProfessionalSports,SportsAgent</RecommendedOccupations>
   <BuffOrigin>FromBoardingSchoolSports</BuffOrigin>
   <ConfirmationText>SportsConfirmation</ConfirmationText>
   <ContinueEnrollmentText>SportsContinueEnrollment</ContinueEnrollmentText>
