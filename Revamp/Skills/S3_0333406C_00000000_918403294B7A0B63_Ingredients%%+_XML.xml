@@ -444,7 +444,6 @@
   <Ingredient_Key>Grapes Char</Ingredient_Key>
   <Ingredient_Name>GrapesChar</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Common</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -467,7 +466,6 @@
   <Ingredient_Key>Grapes Mer</Ingredient_Key>
   <Ingredient_Name>GrapesMer</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Common</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -490,7 +488,6 @@
   <Ingredient_Key>Grapes Blanc</Ingredient_Key>
   <Ingredient_Name>GrapesBlanc</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -513,7 +510,6 @@
   <Ingredient_Key>Grapes Blue</Ingredient_Key>
   <Ingredient_Name>GrapesBlue</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -536,7 +532,6 @@
   <Ingredient_Key>Grapes Cab</Ingredient_Key>
   <Ingredient_Name>GrapesCab</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -559,7 +554,6 @@
   <Ingredient_Key>Grapes Pin</Ingredient_Key>
   <Ingredient_Name>GrapesPin</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -582,7 +576,6 @@
   <Ingredient_Key>Pomegranate</Ingredient_Key>
   <Ingredient_Name>Pomegranate</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -604,7 +597,6 @@
   <Ingredient_Key>Plum</Ingredient_Key>
   <Ingredient_Name>Plum</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -626,7 +618,6 @@
   <Ingredient_Key>Pomelo</Ingredient_Key>
   <Ingredient_Name>Pomelo</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -648,7 +639,6 @@
   <Ingredient_Key>Cherries</Ingredient_Key>
   <Ingredient_Name>Cherries</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
