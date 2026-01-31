@@ -4380,7 +4380,7 @@
   <Key>ToolsOfTradeObjectsB</Key>
   <MinLevel>-1</MinLevel>
   <Method>AnyOfTheseObjects</Method>
-  <Arg0>StylingStation</Arg0>
+  <Arg0>MagnifyingGlass</Arg0>
   <Arg1>TattooChair</Arg1>
   <Arg2>Trampoline</Arg2>
   <Arg3>FirefighterPole</Arg3>
@@ -4389,7 +4389,7 @@
   <Key>ToolsOfTradeObjectsC</Key>
   <MinLevel>-1</MinLevel>
   <Method>AnyOfTheseObjects</Method>
-  <Arg0>MagnifyingGlass</Arg0>
+  <Arg0>StylingStation</Arg0>
   <Arg1>)</Arg1>
  </Subjects>
 <Subjects>
@@ -4412,8 +4412,6 @@
   <Method>Op_AtLeastOne</Method>
   <Arg0>ToolsOfTradeObjectsA</Arg0>
   <Arg1>ToolsOfTradeObjectsB</Arg1>
-  <Arg2>ToolsOfTradeObjectsC</Arg2>
-  <Arg3>StylistDecorativeObject</Arg3>
  </Subjects>
 <Subjects>
   <Key>FireEngine</Key>
@@ -4464,9 +4462,8 @@
   <Stats>UniqueSims</Stats>
   <NameKey>MakeoverName</NameKey>
   <Method>Op_AtLeastOne</Method>
-  <Arg0>MakeoverSelf</Arg0>
-  <Arg1>GetMakeover</Arg1>
-  <Arg2>)</Arg2>
+  <Arg0>ToolsOfTradeObjectsC</Arg0>
+  <Arg1>StylistDecorativeObject</Arg1>
  </Subjects>
 <Subjects>
   <Key>BrilliantSculpture</Key>
