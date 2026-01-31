@@ -2626,7 +2626,7 @@
 <OpportunitiesCompletion>
   <GUID>EP6_CareerSinger_PerformedForTips</GUID>
   <CompletionWinReward1>ActiveCareerPerformance,10</CompletionWinReward1>
-  <CompletionWinReward2>Money,50</CompletionWinReward2>
+  <CompletionWinReward2>Money,100</CompletionWinReward2>
   <CompletionWinReward3>CelebrityPoints,10</CompletionWinReward3>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
@@ -2822,7 +2822,7 @@
 <OpportunitiesCompletion>
   <GUID>EP6_CareerSinger_SingNationalAnthem_MilitaryBase</GUID>
   <CompletionWinReward1>ActiveCareerPerformance,100</CompletionWinReward1>
-  <CompletionWinReward2>Money,25</CompletionWinReward2>
+  <CompletionWinReward2>Money,100</CompletionWinReward2>
   <CompletionWinReward3>CelebrityPoints,250</CompletionWinReward3>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
@@ -2891,7 +2891,7 @@
 <OpportunitiesCompletion>
   <GUID>EP6_Magician_EntertainTroops_MilitaryBase</GUID>
   <CompletionWinReward1>ActiveCareerPerformance,200</CompletionWinReward1>
-  <CompletionWinReward2>Money,25</CompletionWinReward2>
+  <CompletionWinReward2>Money,100</CompletionWinReward2>
   <CompletionWinReward3>CelebrityPoints,250</CompletionWinReward3>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
