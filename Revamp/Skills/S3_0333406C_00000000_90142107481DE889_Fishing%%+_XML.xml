@@ -635,7 +635,6 @@
   <FishBowlMaterialState>fishBowlVampirefish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Rare</Rarity>
   <MinHuntSkillLevel>7</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -665,7 +664,6 @@
   <FishBowlMaterialState>fishBowlPiranha</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>5</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -695,7 +693,6 @@
   <FishBowlMaterialState>fishBowlLobster</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>4</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -725,7 +722,6 @@
   <FishBowlMaterialState>fishBowlTuna</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>1</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -755,7 +751,6 @@
   <FishBowlMaterialState>fishBowlTragicClownfish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Rare</Rarity>
   <MinHuntSkillLevel>8</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -785,7 +780,6 @@
   <FishBowlMaterialState>fishBowlGoldFish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>1</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -816,7 +810,6 @@
   <FishBowlMaterialState>fishBowlSalmon</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>2</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -847,7 +840,6 @@
   <FishBowlMaterialState>fishBowlRainbowTrout</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>4</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -878,7 +870,6 @@
   <FishBowlMaterialState>fishBowlAlleyCatfish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>6</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -909,7 +900,6 @@
   <FishBowlMaterialState>fishBowlRobotfish</FishBowlMaterialState>
   <CodeVersion>EP1</CodeVersion>
   <DataVersion>EP1</DataVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <MinHuntSkillLevel>2</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -1425,7 +1415,6 @@
   <FishBowlMaterialState>fishBowlThreeEyedFish</FishBowlMaterialState>
   <CodeVersion>EP11</CodeVersion>
   <DataVersion>EP11</DataVersion>
-  <RequiredWorld>FutureWorld</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>1</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
@@ -1455,7 +1444,6 @@
   <FishBowlMaterialState>fishBowlRainbowTrout</FishBowlMaterialState>
   <CodeVersion>EP11</CodeVersion>
   <DataVersion>EP11</DataVersion>
-  <RequiredWorld>FutureWorld</RequiredWorld>
   <Rarity>Common</Rarity>
   <MinHuntSkillLevel>2</MinHuntSkillLevel>
   <MaxHuntSkillLevel>10</MaxHuntSkillLevel>
