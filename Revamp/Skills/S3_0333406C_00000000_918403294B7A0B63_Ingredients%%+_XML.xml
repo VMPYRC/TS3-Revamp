@@ -847,7 +847,7 @@
   <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
-  <IsEdible>False</IsEdible>
+  <IsEdible>True</IsEdible>
  </Data>
 <Data>
   <Ingredient_Key>Truffles</Ingredient_Key>
@@ -1058,7 +1058,7 @@
   <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
-  <IsEdible>False</IsEdible>
+  <IsEdible>True</IsEdible>
  </Data>
 <Data>
   <Ingredient_Key>Ginseng</Ingredient_Key>
@@ -1413,6 +1413,6 @@
   <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
-  <IsEdible>False</IsEdible>
+  <IsEdible>True</IsEdible>
  </Data>
 </Ingredients>
