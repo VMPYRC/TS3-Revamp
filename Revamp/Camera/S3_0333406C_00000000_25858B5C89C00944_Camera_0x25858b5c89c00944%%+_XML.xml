@@ -127,7 +127,7 @@
     <kMainLerpDurationForBuildBuyLotVisibility value="2">
       <!--Duration for camera lerping to the new Active Lot (i.e. the new visible lot) when someone enters the build/buy mode. Small, positive float value.-->
     </kMainLerpDurationForBuildBuyLotVisibility>
-    <kMainMinZoomStopDistance value="1.5">
+    <kMainMinZoomStopDistance value="1.0">
       <!--How far from the min zoom limit does the zoom speed start slowing to a stop-->
     </kMainMinZoomStopDistance>
     <kMainMaxZoomStopDistance value="50">
@@ -231,10 +231,10 @@
     <kMainLongDistanceLerpMinDistance value="80">
       <!--The minimum lerp distance needed to activate the long distance lerp.-->
     </kMainLongDistanceLerpMinDistance>
-    <kMainLongDistanceLerpTimeAtMinDistance value="3.5">
+    <kMainLongDistanceLerpTimeAtMinDistance value="0.5">
       <!--Duration (in seconds) of a long distance lerp covering minDistance.-->
     </kMainLongDistanceLerpTimeAtMinDistance>
-    <kMainLongDistanceLerpTimeIncreasePerMeter value="0.002">
+    <kMainLongDistanceLerpTimeIncreasePerMeter value="0">
       <!--Seconds by which the long distance lerp duration increases for each meter beyond minDistance.-->
     </kMainLongDistanceLerpTimeIncreasePerMeter>
     <kMainLongDistanceLerpMaxHeight value="500">
