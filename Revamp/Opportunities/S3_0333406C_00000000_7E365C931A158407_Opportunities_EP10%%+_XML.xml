@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -70,7 +70,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -88,7 +88,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -106,7 +106,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -124,7 +124,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -142,7 +142,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -160,7 +160,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
@@ -178,7 +178,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
@@ -196,7 +196,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant</TargetData>
@@ -216,7 +216,7 @@
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kExploredUnderwaterCave,2</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -232,7 +232,7 @@
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kExploredUnderwaterCave,3</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -245,7 +245,7 @@
   <Icon>trait_hidden_island_map,EP10</Icon>
   <RepeatLevel>Never</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger,Elder</TargetData>
@@ -259,7 +259,7 @@
   <RepeatLevel>Never</RepeatLevel>
   <IsCounted>True</IsCounted>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -277,7 +277,7 @@
   <RepeatLevel>Never</RepeatLevel>
   <EventListenerInfo1>kGotBuff,SoleSurvivor,1</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -292,7 +292,7 @@
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kFoughtAShark,1</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -305,7 +305,7 @@
   <Icon>trait_hidden_island_map,EP10</Icon>
   <RepeatLevel>Never</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>

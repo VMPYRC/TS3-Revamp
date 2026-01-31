@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -310,7 +310,7 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -326,7 +326,7 @@
   <Icon>w_play_the_piano,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
@@ -343,7 +343,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>11:59PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
@@ -375,7 +375,7 @@
   <GUID>EP3_SkillPiano_PianoSkill_1</GUID>
   <Icon>w_play_the_piano,EP3</Icon>
   <EventListenerInfo1>kSkillLevelUp,Piano</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -386,7 +386,7 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -403,7 +403,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>7:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
@@ -420,7 +420,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>7:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
@@ -435,7 +435,7 @@
   <Icon>w_play_the_piano,EP3</Icon>
   <IsTotaled>TRUE</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,50,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -447,7 +447,7 @@
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,500,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -461,7 +461,7 @@
   <TimeoutData>4</TimeoutData>
   <TimeoutEnd>9:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -478,7 +478,7 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -493,7 +493,7 @@
   <Icon>w_play_the_piano,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -511,7 +511,7 @@
   <TimeoutData>4</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -530,7 +530,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>DiveBarCriminal</TargetData>
@@ -545,7 +545,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>PreviousSource</Target>
   <TargetInteractionName>SkillBand_GetPaid</TargetInteractionName>
@@ -560,7 +560,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>DiveBarIrish</TargetData>
@@ -575,7 +575,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>PreviousSource</Target>
   <TargetInteractionName>SkillBand_GetPaid</TargetInteractionName>
@@ -590,7 +590,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>DiveBarSports</TargetData>
@@ -605,7 +605,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -622,7 +622,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>AcquaintanceOrHigher</SourceData>
@@ -641,7 +641,7 @@
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>PreviousSource</Target>
   <TargetInteractionName>SkillBand_GetPaid</TargetInteractionName>
@@ -661,7 +661,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>DiveBarCriminal,DiveBarIrish</TargetData>
@@ -677,7 +677,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -694,7 +694,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>DiveBarCriminal,DiveBarIrish</TargetData>
@@ -710,7 +710,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -727,7 +727,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>DiveBarSports,DiveBarIrish</TargetData>
@@ -743,7 +743,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -760,7 +760,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>DiveBarSports,DiveBarIrish</TargetData>
@@ -776,7 +776,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -792,7 +792,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>CocktailLoungeAsian</TargetData>
@@ -807,7 +807,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -823,7 +823,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>CocktailLoungeVampire</TargetData>
@@ -838,7 +838,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -854,7 +854,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>CocktailLoungeCelebrity</TargetData>
@@ -869,7 +869,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -886,7 +886,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>CocktailLoungeAsian</TargetData>
@@ -902,7 +902,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -919,7 +919,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>CocktailLoungeAsian,CocktailLoungeVampire</TargetData>
@@ -935,7 +935,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -952,7 +952,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>CocktailLoungeAsian,CocktailLoungeVampire</TargetData>
@@ -968,7 +968,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -985,7 +985,7 @@
   <Timeout>Gig</Timeout>
   <TimeoutData>1</TimeoutData>
   <EventListenerInfo1>kSimPerformedAtGig,Totaled,2</EventListenerInfo1>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>VenueForGigWithBartender</Target>
   <TargetData>CocktailLoungeCelebrity,CocktailLoungeVampire</TargetData>
@@ -1001,7 +1001,7 @@
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
   <AllowPhoneCompletion>True</AllowPhoneCompletion>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -1015,7 +1015,7 @@
   <TimeoutData>7</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHoleForGig</Target>
   <TargetData>MovieSet</TargetData>
@@ -1031,7 +1031,7 @@
   <TimeoutData>7</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHoleForGig</Target>
   <TargetData>Stadium</TargetData>
@@ -1047,7 +1047,7 @@
   <TimeoutData>7</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHoleForGig</Target>
   <TargetData>Theatre</TargetData>
@@ -1063,7 +1063,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kSimDanced,Totaled,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>Venue</Target>
   <TargetData>DanceClubLiveMusic,DanceClubPool,DanceClubRave</TargetData>
@@ -1074,7 +1074,7 @@
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSimOrderedDrinkFromBar,CocktailLoungeCelebrity</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>Venue</Target>
   <TargetData>CocktailLoungeCelebrity, CocktailLoungeAsian, CocktailLoungeVampire</TargetData>
@@ -1085,7 +1085,7 @@
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kRelationshipLTRChanged,Friend</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>Sim</Target>
   <TargetData>CelebrityThatIsNotAFriend</TargetData>
@@ -1096,7 +1096,7 @@
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.RabbitHoles.EatHere+Definition,Sims3GameplayObjects,1,1,Normal,NoEffects</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
@@ -1108,7 +1108,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <TargetInteractionName>EP3_Celebrity_RestaurantPromotion2_Interaction</TargetInteractionName>
   <TargetSocialTextKeys>EP3_Celebrity_RestaurantPromotion2_Response</TargetSocialTextKeys>
@@ -1123,7 +1123,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>4</CountOrTotal>
   <EventListenerInfo1>kWorkedOut,Totaled,4,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1131,7 +1131,7 @@
   <GUID>EP3_Celebrity_GoingCorporate</GUID>
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -1145,7 +1145,7 @@
   <GUID>EP3_Celebrity_HospitalOpportunity</GUID>
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
@@ -1159,7 +1159,7 @@
   <GUID>EP3_Celebrity_SchoolOpportunity</GUID>
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -1173,7 +1173,7 @@
   <GUID>EP3_Celebrity_BookSigning</GUID>
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
@@ -1187,7 +1187,7 @@
   <GUID>EP3_Celebrity_Cameo</GUID>
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
@@ -1198,7 +1198,7 @@
   <GUID>EP3_Celebrity_WritingEntry</GUID>
   <Icon>opp_writing_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>CelebrityThatIsNotAFriend</TargetData>
@@ -1212,7 +1212,7 @@
   <GUID>EP3_Celebrity_PaintingEntry</GUID>
   <Icon>opp_painting_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>CelebrityThatIsNotAFriend</TargetData>
@@ -1226,7 +1226,7 @@
   <GUID>EP3_Celebrity_CookingEntry</GUID>
   <Icon>opp_cooking_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>CelebrityThatIsNotAFriend</TargetData>
@@ -1240,7 +1240,7 @@
   <GUID>EP3_Celebrity_FishingEntry</GUID>
   <Icon>opp_fishing_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>CelebrityThatIsNotAFriend</TargetData>
@@ -1254,7 +1254,7 @@
   <GUID>EP3_Celebrity_GardeningEntry</GUID>
   <Icon>opp_gardening_skill</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>CelebrityThatIsNotAFriend</TargetData>
@@ -1269,7 +1269,7 @@
   <Icon>w_drum_skill,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -1284,7 +1284,7 @@
   <Icon>w_drum_skill,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -1302,7 +1302,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>5:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
@@ -1317,7 +1317,7 @@
   <Icon>w_drum_skill,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
@@ -1332,7 +1332,7 @@
   <Icon>w_drum_skill,EP3</Icon>
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,50,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1344,7 +1344,7 @@
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,500,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -1358,7 +1358,7 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>11:30PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
@@ -1372,7 +1372,7 @@
   <GUID>EP3_SkillDrums_DrumSkill_1</GUID>
   <Icon>w_drum_skill,EP3</Icon>
   <EventListenerInfo1>kSkillLevelUp,Drums</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -1383,7 +1383,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1401,7 +1401,7 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -1418,7 +1418,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1435,7 +1435,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1453,7 +1453,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
@@ -1470,7 +1470,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>7:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Subway</TargetData>
@@ -1487,7 +1487,7 @@
   <TimeoutData>2</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
@@ -1523,7 +1523,7 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant, Bistro</TargetData>
@@ -1540,7 +1540,7 @@
   <TimeoutData>5</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -1557,7 +1557,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1575,7 +1575,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -1592,7 +1592,7 @@
   <TimeoutData>1</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
@@ -1609,7 +1609,7 @@
   <TimeoutData>4</TimeoutData>
   <TimeoutEnd>9:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1626,7 +1626,7 @@
   <TimeoutData>2</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
@@ -1644,7 +1644,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -1661,7 +1661,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>6:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -1677,7 +1677,7 @@
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,50,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -1690,7 +1690,7 @@
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,500,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -1701,7 +1701,7 @@
   <GUID>EP3_Celebrity_TheaterOpportunity</GUID>
   <Icon>w_lifetime_rich_and_famous,EP3</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>30</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1717,7 +1717,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSkillLevelUp,Bartending</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1735,7 +1735,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1752,7 +1752,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>6</CountOrTotal>
   <EventListenerInfo1>kWorkedAsBartender,Totaled,6</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>AcquaintanceOrHigher</SourceData>
@@ -1768,7 +1768,7 @@
   <CountOrTotal>6</CountOrTotal>
   <EventListenerInfo1>kDeliveredToSim</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -1782,7 +1782,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>6</CountOrTotal>
   <EventListenerInfo1>kWorkedAsBartender,Totaled,6</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>AcquaintanceOrHigher</SourceData>
@@ -1798,7 +1798,7 @@
   <CountOrTotal>6</CountOrTotal>
   <EventListenerInfo1>kDeliveredToSim</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -1812,7 +1812,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>8</CountOrTotal>
   <EventListenerInfo1>kWorkedAsBartender,Totaled,8</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>AcquaintanceOrHigher</SourceData>
@@ -1828,7 +1828,7 @@
   <CountOrTotal>8</CountOrTotal>
   <EventListenerInfo1>kDeliveredToSim</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -1840,7 +1840,7 @@
   <Icon>w_bartending_skill,EP3</Icon>
   <EventListenerInfo1>kCreatedDrink, IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
@@ -1854,7 +1854,7 @@
   <GUID>EP3_SkillBartending_NameDrink</GUID>
   <Icon>w_bartending_skill,EP3</Icon>
   <EventListenerInfo1>kNamedDrinkAfter</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
   <SourceData>AcquaintanceOrHigher</SourceData>
@@ -1866,7 +1866,7 @@
   <GUID>EP3_SkillBartending_NameDrink2</GUID>
   <Icon>w_bartending_skill,EP3</Icon>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
@@ -1878,7 +1878,7 @@
   <Icon>w_bartending_skill,EP3</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
@@ -1899,7 +1899,7 @@
   <CountOrTotal>1000</CountOrTotal>
   <EventListenerInfo1>kMadeMoneyBartending,Totaled,1000,IgnoreTarget</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
@@ -1916,7 +1916,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>6</CountOrTotal>
   <EventListenerInfo1>kWorkedAsBartender,Totaled,6</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Venue</Target>
   <TargetData>Hangout</TargetData>
@@ -1927,7 +1927,7 @@
   <Icon>w_bartending_skill,EP3</Icon>
   <EventListenerInfo1>kReadBook</EventListenerInfo1>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>AcquaintanceOrHigher</TargetData>
@@ -1944,7 +1944,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -1963,7 +1963,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MovieSet</TargetData>
@@ -1982,7 +1982,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <EventListenerInfo1>kVisitedRabbitHole</EventListenerInfo1>
-  <ChanceToGetOnPhone>15</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>

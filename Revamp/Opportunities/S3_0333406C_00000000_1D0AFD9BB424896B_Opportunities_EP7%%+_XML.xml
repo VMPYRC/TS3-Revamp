@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -162,7 +162,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>12:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -203,7 +203,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
@@ -218,7 +218,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>VaultOfAntiquity</TargetData>
@@ -233,7 +233,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -248,7 +248,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsOrdered>False</IsOrdered>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
@@ -262,7 +262,7 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
@@ -280,7 +280,7 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
@@ -298,7 +298,7 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
@@ -316,7 +316,7 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
@@ -334,7 +334,7 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -352,7 +352,7 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Arboretum</TargetData>
@@ -370,7 +370,7 @@
   <IsOrdered>False</IsOrdered>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>VaultOfAntiquity</TargetData>

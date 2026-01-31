@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -288,7 +288,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kRodeHoverboardHours,Totaled,3</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
@@ -304,7 +304,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>3</CountOrTotal>
   <EventListenerInfo1>kDidJetPackTrick,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Source>Sim</Source>
@@ -317,7 +317,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
@@ -334,7 +334,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kCreatedBot</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
@@ -344,7 +344,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -357,7 +357,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -370,7 +370,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -383,7 +383,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -396,7 +396,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -410,7 +410,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsTotaled>True</IsTotaled>
   <EventListenerInfo1>kGotTips,Totaled,500,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
@@ -420,7 +420,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kLearnedLaserHarpComposition</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
 </OpportunitiesSetup>
@@ -430,7 +430,7 @@
   <Icon>w_botbuilding_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
@@ -449,7 +449,7 @@
   <IsCounted>True</IsCounted>
   <IsTotaled>True</IsTotaled>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -462,7 +462,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -475,7 +475,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -488,7 +488,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -501,7 +501,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
@@ -514,7 +514,7 @@
   <Icon>w_laserharp_skill,EP11</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbithole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>

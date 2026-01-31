@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -69,7 +69,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Female,NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -81,7 +81,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>InCareer, Criminal</TargetData>
@@ -95,7 +95,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>BeachVenue</TargetData>
@@ -107,7 +107,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -122,7 +122,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>BeachVenue</TargetData>
@@ -134,7 +134,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>InRole,GenericMerchant</TargetData>
@@ -147,7 +147,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -159,7 +159,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer, Culinary</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -172,7 +172,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_AskAboutBistro</TargetInteractionName>
@@ -186,7 +186,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.RabbitHoles.EatHere+Definition,Sims3GameplayObjects,1,1,Normal,NoEffects</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant, Bistro</TargetData>
@@ -198,7 +198,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>Stranger,Gardening,2,10</TargetData>
@@ -212,7 +212,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -224,7 +224,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+DustForPrints+Definition,Sims3GameplaySystems,1,3</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -234,7 +234,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>InCareer, Culinary, Boss</TargetData>
@@ -247,7 +247,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>Sim</Source>
   <SourceData>Female, Single</SourceData>
   <Target>Sim</Target>
@@ -262,7 +262,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_AskAboutSim</TargetInteractionName>
@@ -277,7 +277,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+LookThroughMail+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -288,7 +288,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Phone+CallIntelligenceAgency+Definition,Sims3GameplayObjects,1,1,Any</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -299,7 +299,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -313,7 +313,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -324,7 +324,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
@@ -338,7 +338,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+DustForPrints+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Venue</Target>
   <TargetData>ArtGallery</TargetData>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -349,7 +349,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
   <TargetInteractionName>Case_RunPrints</TargetInteractionName>
@@ -362,7 +362,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
   <TargetInteractionName>Case_Accost</TargetInteractionName>
@@ -375,7 +375,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+DustForPrints+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -386,7 +386,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -396,7 +396,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
@@ -411,7 +411,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Science</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -424,7 +424,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>SavedStakeoutSim</Source>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <TargetInteractionLength>200</TargetInteractionLength>
@@ -436,7 +436,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_AskAboutScientist</TargetInteractionName>
@@ -450,7 +450,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_Accost</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -462,7 +462,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -473,7 +473,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Venue</Target>
   <TargetData>ArtGallery</TargetData>
@@ -485,7 +485,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult,Inventing,3,10</TargetData>
@@ -498,7 +498,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -512,7 +512,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole,RequireSourceInRH</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -527,7 +527,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Child</TargetData>
   <TargetInteractionName>Case_AskAboutPotentialSuspects</TargetInteractionName>
@@ -540,7 +540,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>FamilyMemberOfSource</TargetData>
@@ -555,7 +555,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -567,7 +567,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Child</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -580,7 +580,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>FamilyMemberOfSource</TargetData>
@@ -595,7 +595,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -608,7 +608,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -622,7 +622,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -635,7 +635,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_Accost</TargetInteractionName>
@@ -648,7 +648,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -661,7 +661,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -674,7 +674,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -688,7 +688,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
@@ -703,7 +703,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -715,7 +715,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
   <TargetInteractionName>Case_AskAboutPotentialSuspects</TargetInteractionName>
@@ -729,7 +729,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_AskAboutFlamingo</TargetInteractionName>
@@ -745,7 +745,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,3,3,MainTarget</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>FishingVenue</TargetData>
@@ -758,7 +758,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReturnFlamingo</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -770,7 +770,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -784,7 +784,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_AskAboutFlamingo</TargetInteractionName>
@@ -800,7 +800,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>ArtGallery</TargetData>
@@ -813,7 +813,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReturnFlamingo</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -825,7 +825,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -839,7 +839,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_AskAboutBook</TargetInteractionName>
@@ -855,7 +855,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,3,3,MainTarget</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>Library</TargetData>
@@ -868,7 +868,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReturnBook</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -881,7 +881,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Any,DeterCrime</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Venue</Target>
   <TargetData>Library</TargetData>
@@ -894,7 +894,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
@@ -909,7 +909,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_Accost</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -921,7 +921,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Male,HasGirlfriend</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
@@ -935,7 +935,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,2,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <TargetInteractionName>Case_AskAboutSim</TargetInteractionName>
   <TargetSocialTextKeys>EP2_Case_Loved2_Response1, EP2_Case_Loved2_Response2</TargetSocialTextKeys>
@@ -950,7 +950,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -961,7 +961,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -973,7 +973,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Female,HasBoyfriend</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -987,7 +987,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+LookThroughMail+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>BoyfriendOfSource</TargetData>
@@ -1001,7 +1001,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -1013,7 +1013,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1025,7 +1025,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1038,7 +1038,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+DustForPrints+Definition,Sims3GameplaySystems,3,3</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1049,7 +1049,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1059,7 +1059,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -1073,7 +1073,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>InCareer,Criminal</TargetData>
@@ -1086,7 +1086,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_Convince</TargetInteractionName>
@@ -1099,7 +1099,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -1113,7 +1113,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -1126,7 +1126,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReturnCar</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -1138,7 +1138,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Business</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -1150,7 +1150,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>SavedStakeoutSim</Source>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -1164,7 +1164,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -1178,7 +1178,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1190,7 +1190,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -1206,7 +1206,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Hospital</TargetData>
@@ -1223,7 +1223,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>InCareer,Medical</TargetData>
@@ -1236,7 +1236,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
@@ -1251,7 +1251,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1261,7 +1261,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
@@ -1275,7 +1275,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -1287,7 +1287,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <TargetInteractionName>Case_AskAboutFood</TargetInteractionName>
   <TargetSocialTextKeys>EP2_Case_SuperFruits1_Response1, EP2_Case_SuperFruits1_Response2, EP2_Case_SuperFruits1_Response3</TargetSocialTextKeys>
   <TargetInteractionIgnoreTarget>True</TargetInteractionIgnoreTarget>
@@ -1299,7 +1299,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.RabbitHoles.EatHere+Definition,Sims3GameplayObjects,1,1,Normal,NoEffects</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -1310,7 +1310,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,Culinary</TargetData>
   <TargetInteractionName>Case_DiscussFoodSource</TargetInteractionName>
@@ -1323,7 +1323,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+LookThroughMail+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1334,7 +1334,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Political</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -1347,7 +1347,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>SavedStakeoutSim</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1357,7 +1357,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,Journalism</TargetData>
   <TargetInteractionName>Case_BlowTheWhistle</TargetInteractionName>
@@ -1369,7 +1369,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,Political,Boss</TargetData>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1382,7 +1382,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,Political,Boss</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1398,7 +1398,7 @@
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CountOrTotal>3</CountOrTotal>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+LookThroughMail+Definition,Sims3GameplaySystems,3,3,Any</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1409,7 +1409,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -1420,7 +1420,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,Music</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1433,7 +1433,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Any,DeterCrime</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -1446,7 +1446,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>BigPark</TargetData>
@@ -1458,7 +1458,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -1473,7 +1473,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1483,7 +1483,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -1498,7 +1498,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousSource</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -1509,7 +1509,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>InCareer,Medical</TargetData>
@@ -1522,7 +1522,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1534,7 +1534,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InRole,Stylist</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1546,7 +1546,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>Female,NonHouseholdAdult</TargetData>
@@ -1560,7 +1560,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+DustForPrints+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -1572,7 +1572,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,3,3,MainTarget</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>BigPark</TargetData>
@@ -1585,7 +1585,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1595,7 +1595,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>Male,NonHouseholdAdult</TargetData>
@@ -1608,7 +1608,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_Convince</TargetInteractionName>
@@ -1621,7 +1621,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>Male,NonHouseholdAdult</TargetData>
@@ -1634,7 +1634,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReturnShoes</TargetInteractionName>
@@ -1646,7 +1646,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult,Fishing,3,10</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1660,7 +1660,7 @@
   <IsTotaled>True</IsTotaled>
   <CountOrTotal>4</CountOrTotal>
   <EventListenerInfo1>kWentFishing,ElapsedTime,240</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -1671,7 +1671,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Any,DeterCrime</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>BeachVenue</TargetData>
@@ -1684,7 +1684,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Any,DeterCrime</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>FishingVenue</TargetData>
@@ -1697,7 +1697,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Journalism</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Diner</TargetData>
@@ -1709,7 +1709,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>SavedStakeoutSim</Target>
   <TargetInteractionName>Case_Question</TargetInteractionName>
@@ -1722,7 +1722,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_AskAboutJournalist</TargetInteractionName>
@@ -1735,7 +1735,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>SavedStakeoutSim</Target>
   <TargetInteractionName>Case_Accost</TargetInteractionName>
@@ -1747,7 +1747,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1760,7 +1760,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
@@ -1776,7 +1776,7 @@
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</EventListenerInfo1>
   <EventListenerInfo2>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+LookThroughMail+Definition,Sims3GameplaySystems,1,1</EventListenerInfo2>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -1789,7 +1789,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1802,7 +1802,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
@@ -1818,7 +1818,7 @@
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</EventListenerInfo1>
   <EventListenerInfo2>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+LookThroughMail+Definition,Sims3GameplaySystems,1,1</EventListenerInfo2>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -1831,7 +1831,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1844,7 +1844,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Report</TargetInteractionName>
@@ -1860,7 +1860,7 @@
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</EventListenerInfo1>
   <EventListenerInfo2>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+LookThroughMail+Definition,Sims3GameplaySystems,1,1</EventListenerInfo2>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -1873,7 +1873,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1886,7 +1886,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1900,7 +1900,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -1913,7 +1913,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1926,7 +1926,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1940,7 +1940,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -1953,7 +1953,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -1966,7 +1966,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -1980,7 +1980,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.Objects.Electronics.Computer+OpportunityHack+Definition,Sims3GameplayObjects,1,1,Any</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -1993,7 +1993,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -2006,7 +2006,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2020,7 +2020,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -2036,7 +2036,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -2049,7 +2049,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2063,7 +2063,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -2079,7 +2079,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -2092,7 +2092,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2106,7 +2106,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -2122,7 +2122,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -2135,7 +2135,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2149,7 +2149,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Venue</Target>
   <TargetData>BeachVenue</TargetData>
@@ -2163,7 +2163,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_AskAboutWallet</TargetInteractionName>
@@ -2178,7 +2178,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -2193,7 +2193,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReturnWallet</TargetInteractionName>
@@ -2206,7 +2206,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2220,7 +2220,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Venue</Target>
   <TargetData>Gym</TargetData>
@@ -2234,7 +2234,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_AskAboutWallet</TargetInteractionName>
@@ -2249,7 +2249,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -2264,7 +2264,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReturnWallet</TargetInteractionName>
@@ -2277,7 +2277,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2291,7 +2291,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Venue</Target>
   <TargetData>BigPark</TargetData>
@@ -2304,7 +2304,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Diner</TargetData>
@@ -2319,7 +2319,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -2334,7 +2334,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2346,7 +2346,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2360,7 +2360,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Venue</Target>
   <TargetData>BeachVenue</TargetData>
@@ -2373,7 +2373,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -2388,7 +2388,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -2403,7 +2403,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2414,7 +2414,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2427,7 +2427,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+DustForPrints+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -2437,7 +2437,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -2451,7 +2451,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -2464,7 +2464,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_GetMoreInfo</TargetInteractionName>
@@ -2477,7 +2477,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2488,7 +2488,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReturnRing</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2499,7 +2499,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
   <TargetInteractionName>Case_InterviewOwner</TargetInteractionName>
@@ -2512,7 +2512,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,PTGroceryStoreClerk</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2524,7 +2524,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>InCareer,Criminal</TargetData>
@@ -2539,7 +2539,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -2554,7 +2554,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_Question</TargetInteractionName>
@@ -2568,7 +2568,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2579,7 +2579,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>Grocery</TargetData>
@@ -2593,7 +2593,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,LawEnforcement</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2606,7 +2606,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Venue</Target>
   <TargetData>BigPark</TargetData>
@@ -2619,7 +2619,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>BigPark</TargetData>
@@ -2631,7 +2631,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_Report</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2643,7 +2643,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>Sim</Target>
   <TargetData>InRole,Stylist</TargetData>
@@ -2658,7 +2658,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_DiscussShoes</TargetInteractionName>
@@ -2671,7 +2671,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>SavedStakeoutSim</Target>
   <TargetInteractionName>Case_Accost</TargetInteractionName>
@@ -2684,7 +2684,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+LookThroughMail+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>InCareer,Political</TargetData>
@@ -2696,7 +2696,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -2708,7 +2708,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole,RequireSourceInRH</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -2722,7 +2722,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,ProfessionalSports</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2734,7 +2734,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -2749,7 +2749,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -2765,7 +2765,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2777,7 +2777,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,PrevTarget</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>BigPark</TargetData>
@@ -2789,7 +2789,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>SavedStakeoutSim</Target>
   <TargetInteractionName>Case_Accost</TargetInteractionName>
@@ -2801,7 +2801,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
@@ -2813,7 +2813,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>InCareer,Political</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2826,7 +2826,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_AskAboutElection</TargetInteractionName>
@@ -2840,7 +2840,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -2855,7 +2855,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>Graveyard</TargetData>
@@ -2867,7 +2867,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2878,7 +2878,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -2891,7 +2891,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+DustForPrints+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -2902,7 +2902,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -2912,7 +2912,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -2927,7 +2927,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_AskAboutTechnician</TargetInteractionName>
@@ -2942,7 +2942,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout,Any,DeterCrime</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -2955,7 +2955,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -2966,7 +2966,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -2981,7 +2981,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>InCareer,Science</TargetData>
@@ -2994,7 +2994,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kReadBook</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>PreviousTarget</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -3009,7 +3009,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>Pool</TargetData>
@@ -3021,7 +3021,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>100</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Case_ReportFindings</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -3033,7 +3033,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSkillLevelUp,Inventing</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -3046,7 +3046,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -3062,7 +3062,7 @@
   <GUID>EP2_SkillInventing_Miners</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
@@ -3078,7 +3078,7 @@
   <GUID>EP2_SkillInventing_DetonateClass</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
@@ -3096,7 +3096,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>7</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Stadium</TargetData>
@@ -3112,7 +3112,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -3129,7 +3129,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
@@ -3146,7 +3146,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -3165,7 +3165,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -3183,7 +3183,7 @@
   <GUID>EP2_SkillInventing_MakeHygienator</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>MilitaryBase</TargetData>
@@ -3202,7 +3202,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Bookstore</TargetData>
@@ -3220,7 +3220,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>3</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>7</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Source>RabbitHole</Source>
   <SourceData>CityHall</SourceData>
@@ -3236,7 +3236,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,5,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -3251,7 +3251,7 @@
   <GUID>EP2_SkillInventing_ConvinceTech2</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -3264,7 +3264,7 @@
   <GUID>EP2_SkillInventing_DaySpaDelivery</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>DaySpa</TargetData>
@@ -3281,7 +3281,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -3298,7 +3298,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <EventListenerInfo1>kSkillLevelUp,Sculpting</EventListenerInfo1>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
@@ -3314,7 +3314,7 @@
   <Icon>w_sculpting_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -3334,7 +3334,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>4</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Restaurant,Bistro</TargetData>
@@ -3354,7 +3354,7 @@
   <Icon>w_sculpting_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -3371,7 +3371,7 @@
   <Icon>w_sculpting_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -3389,7 +3389,7 @@
   <Timeout>SimDays</Timeout>
   <TimeoutData>2</TimeoutData>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
@@ -3403,7 +3403,7 @@
   <Icon>w_sculpting_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -3419,7 +3419,7 @@
   <GUID>EP2_SkillSculpting_SculptSuspect</GUID>
   <Icon>w_sculpting_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -3432,7 +3432,7 @@
   <GUID>EP2_SkillSculpting_SimOnIce</GUID>
   <Icon>w_sculpting_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>PoliceStation</TargetData>
@@ -3449,7 +3449,7 @@
   <GUID>EP2_SkillSculpting_WoodSculptures</GUID>
   <Icon>w_sculpting_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
@@ -3466,7 +3466,7 @@
   <GUID>EP2_SkillSculpting_StoneSculpture</GUID>
   <Icon>w_sculpting_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -3484,7 +3484,7 @@
   <Icon>w_sculpting_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>Sim</Target>
   <TargetData>NonHouseholdAdult</TargetData>
@@ -3501,7 +3501,7 @@
   <Icon>w_sculpting_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>BusinessAndJournalism</TargetData>
@@ -3521,7 +3521,7 @@
   <Icon>w_sculpting_career,EP2</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>10</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>CityHall</TargetData>
@@ -4227,7 +4227,7 @@
   <Icon>w_ghosthunter_career_large</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>DeliverSpirits</TargetInteractionName>
@@ -4244,7 +4244,7 @@
   <Icon>w_ghosthunter_career_large</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>Theatre</TargetData>
   <TargetInteractionName>DeliverSpirits</TargetInteractionName>
@@ -4261,7 +4261,7 @@
   <Icon>w_ghosthunter_career_large</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>Hideout</TargetData>
   <TargetInteractionName>DeliverSpirits</TargetInteractionName>
@@ -4278,7 +4278,7 @@
   <Icon>w_ghosthunter_career_large</Icon>
   <RepeatLevel>Always</RepeatLevel>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>25</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>School</TargetData>
   <TargetInteractionName>DeliverSpirits</TargetInteractionName>
@@ -4296,7 +4296,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>Mausoleum</TargetData>
   <TargetInteractionName>Case_DiscussGravesideProblems</TargetInteractionName>
@@ -4311,7 +4311,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Venue</Target>
   <TargetData>Graveyard</TargetData>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -4323,7 +4323,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
   <TargetInteractionName>Case_AnalyzeMysteryGoo</TargetInteractionName>
@@ -4338,7 +4338,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Stakeout</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Venue</Target>
   <TargetData>Graveyard</TargetData>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -4351,7 +4351,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SearchThroughGarbage+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>SavedStakeoutSim</Target>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
 </OpportunitiesSetup>
@@ -4362,7 +4362,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_Confront</TargetInteractionName>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
@@ -4374,7 +4374,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>RabbitHole</Target>
   <TargetData>Mausoleum</TargetData>
@@ -4389,7 +4389,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
   <TargetInteractionName>Case_Interview</TargetInteractionName>
@@ -4403,7 +4403,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <IsCounted>True</IsCounted>
   <EventListenerInfo1>kDeliveredToSim,3,Distinct</EventListenerInfo1>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousTarget</Target>
   <TargetInteractionName>Case_AskAboutBurglary</TargetInteractionName>
@@ -4418,7 +4418,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>InRole,TattooArtist</TargetData>
@@ -4433,7 +4433,7 @@
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <OppMapDagDisplayType>SpecialTargetedLot</OppMapDagDisplayType>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PrivateEyeInteractions+SnoopForClues+Definition,Sims3GameplaySystems,1,1</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Venue</Target>
   <TargetData>Salon</TargetData>
@@ -4446,7 +4446,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>InRole,TattooArtist</TargetData>
@@ -4460,7 +4460,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousSource</Source>
   <Target>Sim</Target>
   <TargetData>Stranger</TargetData>
@@ -4474,7 +4474,7 @@
   <Icon>moodlet_intrigued_by_great_lecture_ep2,EP2</Icon>
   <AcceptDialogDescriptionBackground>ThoughtBalloonWithNoSourceThumbnail</AcceptDialogDescriptionBackground>
   <CompletionEvent>kDeliveredToSim</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Source>PreviousTarget</Source>
   <Target>PreviousSource</Target>
   <TargetInteractionName>Report</TargetInteractionName>
@@ -4485,7 +4485,7 @@
   <GUID>EP2_SkillInventing_Frankensim1</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -4501,7 +4501,7 @@
   <GUID>EP2_SkillInventing_Frankensim2</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -4517,7 +4517,7 @@
   <GUID>EP2_SkillInventing_Frankensim3</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -4533,7 +4533,7 @@
   <GUID>EP2_SkillInventing_Frankensim3B</GUID>
   <Icon>w_inventing_career,EP2</Icon>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -4550,7 +4550,7 @@
   <Icon>w_inventing_career,EP2</Icon>
   <Loss>SetupObjectDeleted</Loss>
   <CompletionEvent>kFrankensimLearned</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Skill</OpportunityType>
   <TargetWorldRequired>SunsetValley</TargetWorldRequired>
   <Object>OpportunityObject</Object>

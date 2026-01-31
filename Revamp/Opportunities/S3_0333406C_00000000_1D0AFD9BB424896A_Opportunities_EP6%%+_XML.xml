@@ -25,7 +25,7 @@
   <CompletionEvent></CompletionEvent>
   <AllowPhoneCompletion>False</AllowPhoneCompletion>
   <CompletionProceduralTestFunction></CompletionProceduralTestFunction>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>JobBoardAndPhone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Source></Source>
@@ -70,7 +70,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kFrozeGenieLamp</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -80,7 +80,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kHeatedGenieLamp</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -90,7 +90,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kTookGenieLampUnderground</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>Mausoleum</TargetData>
@@ -102,7 +102,7 @@
   <RepeatLevel>Always</RepeatLevel>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kGrantedWishToFreeGenie</CompletionEvent>
-  <ChanceToGetOnPhone>0</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
 </OpportunitiesSetup>
 <OpportunitiesSetup>
@@ -114,7 +114,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PerformanceCareer+PerformerPerformForTips+Definition,Sims3GameplaySystems,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -129,7 +129,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -144,7 +144,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -159,7 +159,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -174,7 +174,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -189,7 +189,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -206,7 +206,7 @@
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <EventListenerInfo1>kDJCompletedMiniShow</EventListenerInfo1>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShowAsDJ+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>600</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>Venue</Target>
@@ -223,7 +223,7 @@
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <EventListenerInfo1>kDJCompletedMiniShow</EventListenerInfo1>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShowAsDJ+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>600</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>Venue</Target>
@@ -240,7 +240,7 @@
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <EventListenerInfo1>kDJCompletedMiniShow</EventListenerInfo1>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShowAsDJ+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>600</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>Venue</Target>
@@ -257,7 +257,7 @@
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <EventListenerInfo1>kDJCompletedMiniShow</EventListenerInfo1>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShowAsDJ+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>600</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Skill</OpportunityType>
   <Target>Venue</Target>
@@ -273,7 +273,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -287,7 +287,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -301,7 +301,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -315,7 +315,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -329,7 +329,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -343,7 +343,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -357,7 +357,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -371,7 +371,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -385,7 +385,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <OppMapDagDisplayType>NoMapTag</OppMapDagDisplayType>
   <CompletionEvent>kPassportSentSimLeftWorld</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
 </OpportunitiesSetup>
@@ -398,7 +398,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <CompletionEvent>kPassportHostSimPerformedGig</CompletionEvent>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Location</OpportunityType>
   <Target>Venue</Target>
@@ -416,7 +416,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <CompletionEvent>kPassportHostSimPerformedGig</CompletionEvent>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Location</OpportunityType>
   <Target>Venue</Target>
@@ -434,7 +434,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <CompletionEvent>kPassportHostSimPerformedGig</CompletionEvent>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Location</OpportunityType>
   <Target>Venue</Target>
@@ -452,7 +452,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <CompletionEvent>kPassportHostSimPerformedGig</CompletionEvent>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Location</OpportunityType>
   <Target>Venue</Target>
@@ -470,7 +470,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <CompletionEvent>kPassportHostSimPerformedGig</CompletionEvent>
-  <ChanceToGetOnPhone>50</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Location</OpportunityType>
   <Target>Venue</Target>
@@ -490,7 +490,7 @@
   <TimeoutEnd>12:00AM</TimeoutEnd>
   <CountOrTotal>4</CountOrTotal>
   <EventListenerInfo1>kWorkedOut,Totaled,4,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -509,7 +509,7 @@
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <EventListenerInfo1>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PerformanceCareer+PerformerPerformForTips+Definition,Sims3GameplaySystems,1,1,Any</EventListenerInfo1>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PerformanceCareer+PerformerPerformForTips+Definition,Sims3GameplaySystems,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -524,7 +524,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -546,7 +546,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -570,7 +570,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -593,7 +593,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>5:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -616,7 +616,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -638,7 +638,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>2:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -660,7 +660,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -683,7 +683,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -705,7 +705,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>9:00AM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -728,7 +728,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -750,7 +750,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>8:00AM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -772,7 +772,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>7:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -794,7 +794,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PerformanceCareer+PerformerPerformForTips+Definition,Sims3GameplaySystems,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -812,7 +812,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PerformanceCareer+PerformerPerformForTips+Definition,Sims3GameplaySystems,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -830,7 +830,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -854,7 +854,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -877,7 +877,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -899,7 +899,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -921,7 +921,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -943,7 +943,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>12:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -965,7 +965,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -987,7 +987,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>9:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1010,7 +1010,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1032,7 +1032,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PerformanceCareer+PerformerPerformForTips+Definition,Sims3GameplaySystems,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1047,7 +1047,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1062,7 +1062,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1077,7 +1077,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1092,7 +1092,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1107,7 +1107,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1124,7 +1124,7 @@
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CountOrTotal>4</CountOrTotal>
   <EventListenerInfo1>kWorkedOut,Totaled,4,IgnoreTarget</EventListenerInfo1>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1143,7 +1143,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PerformanceCareer+PerformerPerformForTips+Definition,Sims3GameplaySystems,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1164,7 +1164,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>10:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1188,7 +1188,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>5:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1211,7 +1211,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>9:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1233,7 +1233,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1256,7 +1256,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1279,7 +1279,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1301,7 +1301,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>4:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1324,7 +1324,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1346,7 +1346,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1368,7 +1368,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>8:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1390,7 +1390,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kVisitedRabbitHole</CompletionEvent>
-  <ChanceToGetOnPhone>250</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>RabbitHole</Target>
@@ -1412,7 +1412,7 @@
   <TimeoutData>3</TimeoutData>
   <TimeoutEnd>11:00PM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.ActiveCareer.ActiveCareers.PerformanceCareer+PerformerPerformForTips+Definition,Sims3GameplaySystems,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1427,7 +1427,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1442,7 +1442,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1457,7 +1457,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1472,7 +1472,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
@@ -1487,7 +1487,7 @@
   <TimeoutData>6</TimeoutData>
   <TimeoutEnd>3:00AM</TimeoutEnd>
   <CompletionEvent>kInteractionSuccess,Sims3.Gameplay.Objects.PerformanceObjects.ShowStage+PerformTheShow+Definition,Sims3GameplayObjects,1,1,OnlyTargetLot</CompletionEvent>
-  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>5</ChanceToGetOnPhone>
   <Availability>Phone</Availability>
   <OpportunityType>Career</OpportunityType>
   <Target>Venue</Target>
