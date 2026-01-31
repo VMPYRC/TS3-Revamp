@@ -5299,58 +5299,58 @@
   <SkillLevel>0</SkillLevel>
   <StyleUnlocks>PhotoPlain</StyleUnlocks>
   <SizeUnlocks>Small,SmartPhone,SmartPhoneHorizontal</SizeUnlocks>
-  <BadPhotoChance>0.75</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.3</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>1</SkillLevel>
-  <BadPhotoChance>0.33</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.3</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>2</SkillLevel>
   <StyleUnlocks>PhotoGray</StyleUnlocks>
   <SizeUnlocks>Medium</SizeUnlocks>
-  <BadPhotoChance>0.17</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.4</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>3</SkillLevel>
-  <BadPhotoChance>0.1</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.5</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>4</SkillLevel>
   <StyleUnlocks>PhotoSepia</StyleUnlocks>
-  <BadPhotoChance>0.05</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>0.8</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>5</SkillLevel>
   <SizeUnlocks>Large</SizeUnlocks>
-  <BadPhotoChance>0.05</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>6</SkillLevel>
   <FeatureUnlocks>ZoomUpgrade</FeatureUnlocks>
-  <BadPhotoChance>0.03</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1.1</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>7</SkillLevel>
-  <BadPhotoChance>0.01</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1.25</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>8</SkillLevel>
   <StyleUnlocks>PhotoVignette</StyleUnlocks>
-  <BadPhotoChance>0.01</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1.45</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
   <SkillLevel>9</SkillLevel>
-  <BadPhotoChance>0.01</BadPhotoChance>
+  <BadPhotoChance>0</BadPhotoChance>
   <ValueMultiplier>1.5</ValueMultiplier>
  </SkillProgression>
 <SkillProgression>
