@@ -25,8 +25,8 @@
     <kMainVelZoomScale value="900">
       <!--The zoom velocity is multiplied by this amount when at the farthest zoom level-->
     </kMainVelZoomScale>
-    <kMainTargetHeight value=".92" />
-    <kMainMinPosHeight value=".5" />
+    <kMainTargetHeight value="0.1" />
+    <kMainMinPosHeight value="0.1" />
     <kMainAllowLookAtSky value="True" />
     <kMainLerpFromSkyDuration value="0.5">
       <!--This value controls the length of the lerp from the sky target back to the ground target when the user zooms while looking at the sky-->
@@ -45,12 +45,12 @@
     </kTargetTurnBoostSpeed>
     <kTargetPitchInPlaceSpeed value="40" />
     <kTargetDoZoomPitching value="False" />
-    <kTargetMinZoom value="2" />
-    <kTargetMaxZoom value="192" />
+    <kTargetMinZoom value="0.1" />
+    <kTargetMaxZoom value="200" />
     <kTargetMinAltitude value="-85" />
     <kTargetMaxAltitude value="85" />
-    <kTargetTargetHeight value="1.75" />
-    <kTargetMinPosHeight value="0.5" />
+    <kTargetTargetHeight value="0.1" />
+    <kTargetMinPosHeight value="0.1" />
     <kTargetZoomRadiusAtZeroPitch value="-1" />
     <kTargetPitchInPlaceAngle value="0" />
     <kMainFOVDegrees value="45" />
