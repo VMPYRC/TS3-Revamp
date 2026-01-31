@@ -1671,9 +1671,13 @@
   <Create_In_Fridge>FoodTray</Create_In_Fridge>
   <Container_Type>Plate</Container_Type>
   <Can_Make_Single>x</Can_Make_Single>
+  <Can_Make_Group>x</Can_Make_Group>
   <Single_Full>foodEatAmbrosia#foodFull:Default</Single_Full>
   <Single_Half>foodEatAmbrosia#foodHalf:FoodHalfFull</Single_Half>
   <Single_Empty>foodEatAmbrosia#foodUsed:Default</Single_Empty>
+  <Group_Full>foodEatAmbrosia#foodFull:Default</Group_Full>
+  <Group_Half>foodEatAmbrosia#foodHalf:FoodHalfFull</Group_Half>
+  <Group_Empty>foodEatAmbrosia#foodUsed:Default</Group_Empty>
   <Utensil>fork</Utensil>
   <VFXName_Full>ambrosiaPlate</VFXName_Full>
   <VenueCost>500</VenueCost>
