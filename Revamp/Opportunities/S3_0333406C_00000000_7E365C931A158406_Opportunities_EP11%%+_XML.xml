@@ -2736,22 +2736,27 @@
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp01</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp02</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp03</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp04</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Skill_Harp05</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future01</GUID>
@@ -2760,26 +2765,32 @@
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future02</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future03</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future04</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future05</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future06</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Misc_Future07</GUID>
   <CompletionWinReward1>SkillPercentage,LaserHarp,10</CompletionWinReward1>
+  <CompletionWinReward2>Money,500</CompletionWinReward2>
 </OpportunitiesCompletion>
 <OpportunitiesCompletion>
   <GUID>EP11_Career_ServoBotArena01</GUID>
